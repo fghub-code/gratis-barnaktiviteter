@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gratis barnaktiviteter i Stockholm</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  :root { --ram:#e2e2e0; --dov:#666; --ton:#1a4a3a; --bg:#fbfaf8; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; background:var(--bg); color:#1a1a1a; }
+  header { padding:20px 16px 12px; border-bottom:1px solid var(--ram); background:#fff; }
+  h1 { font-size:20px; margin:0 0 4px; }
+  .meta { color:var(--dov); font-size:13px; }
+  .filter { display:flex; flex-wrap:wrap; gap:10px; padding:12px 16px; background:#fff; border-bottom:1px solid var(--ram); position:sticky; top:0; z-index:500; }
+  .filter label { font-size:13px; color:var(--dov); display:block; margin-bottom:2px; }
+  select, input { padding:7px 9px; border:1px solid var(--ram); border-radius:6px; background:#fff; font-size:14px; }
+  .flikar { display:flex; gap:4px; padding:10px 16px 0; }
+  .flik { padding:8px 16px; border:1px solid var(--ram); border-bottom:none; border-radius:6px 6px 0 0; background:#f0efec; cursor:pointer; font-size:14px; }
+  .flik[aria-selected="true"] { background:#fff; font-weight:600; }
+  main { padding:16px; }
+  .dag { margin:24px 0 8px; font-size:15px; font-weight:600; border-bottom:1px solid var(--ram); padding-bottom:6px; }
+  .kort { background:#fff; border:1px solid var(--ram); border-radius:8px; padding:12px 14px; margin-bottom:8px; }
+  .kort h3 { margin:0 0 4px; font-size:16px; }
+  .kort h3 a { color:inherit; text-decoration:none; }
+  .kort h3 a:hover { text-decoration:underline; }
+  .rad { font-size:14px; color:var(--dov); }
+  .brickor { margin-top:8px; display:flex; flex-wrap:wrap; gap:6px; }
+  .bricka { font-size:12px; padding:2px 8px; border-radius:99px; background:#eef1ee; color:#333; }
+  .gratis { background:#e3f0e8; color:var(--ton); }
+  .okant { background:#f6ecd9; color:#7a5a17; }
+  #karta { height:70vh; border:1px solid var(--ram); border-radius:8px; }
+  .tomt { color:var(--dov); padding:40px 0; text-align:center; }
+  .doldt { display:none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Gratis barnaktiviteter i Stockholm</h1>
+  <div class="meta" id="meta">Laddar…</div>
+</header>
+
+<div class="filter">
+  <div><label for="f-dag">Dag</label>
+    <select id="f-dag"><option value="">Alla kommande</option></select></div>
+  <div><label for="f-alder">Ålder</label>
+    <select id="f-alder">
+      <option value="">Alla</option>
+      <option value="2-6" selected>Passar 2–6 år</option>
+      <option value="0-3">0–3 år</option>
+    </select></div>
+  <div><label for="f-pris">Pris</label>
+    <select id="f-pris">
+      <option value="gratis" selected>Bara gratis</option>
+      <option value="50">Gratis eller upp till 50 kr</option>
+      <option value="alla">Allt, även okänt pris</option>
+    </select></div>
+  <div><label for="f-arrangor">Arrangör</label>
+    <select id="f-arrangor"><option value="">Alla</option></select></div>
+  <div><label for="f-sok">Sök</label>
+    <input id="f-sok" type="search" placeholder="titel eller plats"></div>
+</div>
+
+<div class="flikar" role="tablist">
+  <button class="flik" id="flik-lista" role="tab" aria-selected="true">Lista</button>
+  <button class="flik" id="flik-karta" role="tab" aria-selected="false">Karta</button>
+</div>
+
+<main>
+  <div id="vy-lista"></div>
+  <div id="vy-karta" class="doldt"><div id="karta"></div>
+    <p class="rad" id="kartnot"></p></div>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const VECKODAG = ['söndag','måndag','tisdag','onsdag','torsdag','fredag','lördag'];
+const MANAD = ['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'];
+let ALLA = [], karta = null, lager = null;
+
+function datumText(d) {
+  const dt = new Date(d + 'T12:00:00');
+  return VECKODAG[dt.getDay()] + ' ' + dt.getDate() + ' ' + MANAD[dt.getMonth()];
+}
+
+function passarAlder(e, val) {
+  if (!val) return true;
+  const [lo, hi] = val.split('-').map(Number);
+  const fran = e.alder.fran, till = e.alder.till;
+  if (fran === null && till === null) return true;      // okänt tas med
+  if (fran !== null && fran > hi) return false;          // börjar för sent
+  if (till !== null && till < lo) return false;          // slutar för tidigt
+  return true;
+}
+
+function passarPris(e, val) {
+  if (val === 'alla') return true;
+  if (e.pris.status === 'okant') return false;
+  if (val === 'gratis') return e.pris.lagsta === 0;
+  return e.pris.lagsta <= Number(val);
+}
+
+function filtrera() {
+  const dag = document.getElementById('f-dag').value;
+  const alder = document.getElementById('f-alder').value;
+  const pris = document.getElementById('f-pris').value;
+  const arr = document.getElementById('f-arrangor').value;
+  const sok = document.getElementById('f-sok').value.trim().toLowerCase();
+  return ALLA.filter(e =>
+    (!dag || e.datum === dag) &&
+    passarAlder(e, alder) &&
+    passarPris(e, pris) &&
+    (!arr || e.arrangor === arr) &&
+    (!sok || (e.titel + ' ' + (e.plats || '')).toLowerCase().includes(sok))
+  );
+}
+
+function brickor(e) {
+  const b = [];
+  if (e.pris.status === 'gratis') b.push('<span class="bricka gratis">Gratis</span>');
+  else if (e.pris.status === 'okant') b.push('<span class="bricka okant">Okänt pris</span>');
+  else b.push('<span class="bricka">' + e.pris.text + '</span>');
+  if (e.alder.fran !== null || e.alder.till !== null) {
+    const t = e.alder.till !== null ? (e.alder.fran ?? 0) + '–' + e.alder.till + ' år' : 'från ' + e.alder.fran + ' år';
+    b.push('<span class="bricka">' + t + '</span>');
+  } else b.push('<span class="bricka okant">Ålder ej angiven</span>');
+  if (e.kategori) b.push('<span class="bricka">' + e.kategori + '</span>');
+  if (e.kraverBokning) b.push('<span class="bricka">Kräver bokning</span>');
+  return b.join('');
+}
+
+function ritaLista() {
+  const rad = filtrera();
+  const vy = document.getElementById('vy-lista');
+  if (!rad.length) { vy.innerHTML = '<p class="tomt">Inget matchar filtren.</p>'; return; }
+  const perDag = {};
+  rad.forEach(e => (perDag[e.datum] = perDag[e.datum] || []).push(e));
+  vy.innerHTML = Object.keys(perDag).sort().map(d => `
+    <h2 class="dag">${datumText(d)}</h2>
+    ${perDag[d].map(e => `
+      <article class="kort">
+        <h3><a href="${e.lank}" target="_blank" rel="noopener">${e.titel}</a></h3>
+        <div class="rad">${e.starttid && e.starttid !== '00:00' ? e.starttid + (e.sluttid && e.sluttid !== '00:00' ? '–' + e.sluttid : '') + ' · ' : ''}${e.plats || e.arrangor}</div>
+        <div class="brickor">${brickor(e)}</div>
+      </article>`).join('')}
+  `).join('');
+}
+
+function ritaKarta() {
+  if (!karta) {
+    karta = L.map('karta').setView([59.329, 18.068], 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap'
+    }).addTo(karta);
+    lager = L.layerGroup().addTo(karta);
+  }
+  lager.clearLayers();
+  const rad = filtrera();
+  const medKoord = rad.filter(e => e.lat !== null && e.lon !== null);
+  medKoord.forEach(e => {
+    L.marker([e.lat, e.lon]).addTo(lager).bindPopup(
+      `<strong>${e.titel}</strong><br>${datumText(e.datum)}${e.starttid && e.starttid !== '00:00' ? ' ' + e.starttid : ''}<br>${e.plats || e.arrangor}<br><a href="${e.lank}" target="_blank" rel="noopener">Läs mer</a>`
+    );
+  });
+  document.getElementById('kartnot').textContent =
+    `${medKoord.length} av ${rad.length} träffar har koordinater. Resten saknar position i källan och syns bara i listan.`;
+  setTimeout(() => karta.invalidateSize(), 50);
+}
+
+function rita() {
+  ritaLista();
+  if (!document.getElementById('vy-karta').classList.contains('doldt')) ritaKarta();
+}
+
+function vaxla(till) {
+  const lista = till === 'lista';
+  document.getElementById('vy-lista').classList.toggle('doldt', !lista);
+  document.getElementById('vy-karta').classList.toggle('doldt', lista);
+  document.getElementById('flik-lista').setAttribute('aria-selected', lista);
+  document.getElementById('flik-karta').setAttribute('aria-selected', !lista);
+  if (!lista) ritaKarta();
+}
+
+document.getElementById('flik-lista').onclick = () => vaxla('lista');
+document.getElementById('flik-karta').onclick = () => vaxla('karta');
+['f-dag','f-alder','f-pris','f-arrangor'].forEach(id => document.getElementById(id).onchange = rita);
+document.getElementById('f-sok').oninput = rita;
+
+fetch('../data/evenemang.json')
+  .then(r => r.json())
+  .then(d => {
+    ALLA = d.evenemang;
+    const uppdaterad = new Date(d.uppdaterad).toLocaleString('sv-SE', { dateStyle: 'short', timeStyle: 'short' });
+    document.getElementById('meta').textContent = `${d.antal} evenemang. Uppdaterad ${uppdaterad}.`;
+    const dagar = [...new Set(ALLA.map(e => e.datum))].sort().slice(0, 30);
+    document.getElementById('f-dag').innerHTML +=
+      dagar.map(d => `<option value="${d}">${datumText(d)}</option>`).join('');
+    const arrangorer = [...new Set(ALLA.map(e => e.arrangor))].sort();
+    document.getElementById('f-arrangor').innerHTML +=
+      arrangorer.map(a => `<option value="${a}">${a}</option>`).join('');
+    rita();
+  })
+  .catch(() => {
+    document.getElementById('meta').textContent = 'Kunde inte läsa data/evenemang.json. Kör hämtaren först.';
+  });
+</script>
+</body>
+</html>

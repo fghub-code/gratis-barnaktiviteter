@@ -1,0 +1,26 @@
+name: Hämta evenemang
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 06.00 svensk sommartid
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  hamta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node hamta/index.mjs
+      - name: Committa om något ändrats
+        run: |
+          git config user.name "hamtaren"
+          git config user.email "actions@github.com"
+          git add data/evenemang.json
+          git diff --staged --quiet || git commit -m "Uppdaterade evenemang $(date +%F)"
+          git push
