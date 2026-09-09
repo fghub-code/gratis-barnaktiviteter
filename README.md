@@ -21,6 +21,7 @@ hamta/bibliotek.mjs   Stockholms stadsbibliotek, GraphQL
 hamta/kultur.mjs      kultur.stockholm, HTML
 hamta/platser.json    koordinater per bibliotek, ska fyllas i manuellt
 hamta/index.mjs       kör allt, skriver webb/data/evenemang.json
+hamta/platser-kultur.json  koordinater per kulturplats, ska fyllas i manuellt
 webb/index.html       lista per dag, filter, kartflik
 webb/data/            genererad data, committas av GitHub Actions
 ```
@@ -28,7 +29,7 @@ webb/data/            genererad data, committas av GitHub Actions
 ## Urvalsregler
 
 - Ålder: allt med undre gräns 7 år eller lägre kommer med, inklusive oklara fall. Finare filtrering sker i gränssnittet.
-- Pris: gratis eller högst 50 kronor per person.
+- Pris: gratis eller högst 50 kronor per person. Tolkas ur text bara för kultur.stockholm, bibliotek är alltid gratis.
 - Okänt pris är egen status. Det visas aldrig som gratis och är dolt som standard.
 
 ## Källor
@@ -37,13 +38,14 @@ webb/data/            genererad data, committas av GitHub Actions
 
 **kultur.stockholm.** Ingen API. HTML skrapas från `kultur.stockholm/kalendarium/?t=event&c=279`, där `c=279` är kategorin Barn och familj. Markupen som parsas är `div.card-inner` med `h4.card-title` och `<time datetime="ÅÅÅÅ-MM-DD">`. Ändrar de sin mall slutar parsern hitta poster.
 
+Varje kort följs sedan upp med ett anrop till sin detaljsida. Därifrån hämtas en kort beskrivning ur `og:description`, som oftast också innehåller åldern, samt plats och pris ur faktarutan. Saknas något behålls listans värde. Detaljsidor som ger 404 eller är märkta inställda tas bort. Det gör hämtningen långsammare, cirka 20 sekunder totalt.
+
 ## Kvar att göra
 
 1. **Fyll i `hamta/platser.json`.** Alla 38 bibliotek ligger där med `lat` och `lon` satta till null. Utan koordinater fungerar listan men kartan är tom. Slå upp dem en gång, till exempel via OpenStreetMap, och fyll i. Jag har medvetet inte gissat koordinater.
-2. Koordinater för kultur.stockholms platser. Plats anges där i fritext, "Gamla stan", så det blir ungefärligt eller inget alls.
-3. Ålder för kultur.stockholm hämtas i dag bara ur titeln. Åldern står i brödtexten på detaljsidan, så ett extra anrop per evenemang behövs för att få den.
-4. Stadsdel per arrangör, för filtret som ännu inte finns.
-5. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga.
+2. **Fyll i `hamta/platser-kultur.json`.** Sju kulturplatser, samma sak. Nyckeln är den `plats`-sträng hämtaren skrivit, ibland en gatuadress, ibland bara "Gamla stan". Kör hämtaren först så syns vilka strängar som gäller.
+3. Stadsdel per arrangör, för filtret som ännu inte finns.
+4. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga. Detaljsidehämtningen la till två regexberoenden till, og-taggen och faktarutan.
 
 ## Drift
 

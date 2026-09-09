@@ -25,6 +25,7 @@
   .kort h3 a { color:inherit; text-decoration:none; }
   .kort h3 a:hover { text-decoration:underline; }
   .rad { font-size:14px; color:var(--dov); }
+  .besk { margin:6px 0 0; font-size:14px; color:#333; }
   .brickor { margin-top:8px; display:flex; flex-wrap:wrap; gap:6px; }
   .bricka { font-size:12px; padding:2px 8px; border-radius:99px; background:#eef1ee; color:#333; }
   .gratis { background:#e3f0e8; color:var(--ton); }
@@ -83,6 +84,22 @@ function datumText(d) {
   return VECKODAG[dt.getDay()] + ' ' + dt.getDate() + ' ' + MANAD[dt.getMonth()];
 }
 
+// Texten från källorna är skrapad, escapa innan den sätts som HTML.
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+// Kort beskrivning till listkortet. Biblioteket inleder ofta med titeln på
+// egen rad, den tas bort. Kapas till en dryg mening.
+function kortText(besk, titel) {
+  let t = String(besk).split('\n').map(r => r.trim()).filter(Boolean);
+  if (t.length && titel && t[0].toLowerCase() === titel.trim().toLowerCase()) t = t.slice(1);
+  let s = t.join(' ');
+  if (s.length > 180) s = s.slice(0, 177).replace(/\s+\S*$/, '') + '…';
+  return esc(s);
+}
+
 function passarAlder(e, val) {
   if (!val) return true;
   const [lo, hi] = val.split('-').map(Number);
@@ -139,8 +156,9 @@ function ritaLista() {
     <h2 class="dag">${datumText(d)}</h2>
     ${perDag[d].map(e => `
       <article class="kort">
-        <h3><a href="${e.lank}" target="_blank" rel="noopener">${e.titel}</a></h3>
-        <div class="rad">${e.starttid && e.starttid !== '00:00' ? e.starttid + (e.sluttid && e.sluttid !== '00:00' ? '–' + e.sluttid : '') + ' · ' : ''}${e.plats || e.arrangor}</div>
+        <h3><a href="${e.lank}" target="_blank" rel="noopener">${esc(e.titel)}</a></h3>
+        <div class="rad">${e.starttid && e.starttid !== '00:00' ? e.starttid + (e.sluttid && e.sluttid !== '00:00' ? '–' + e.sluttid : '') + ' · ' : ''}${esc(e.plats || e.arrangor)}</div>
+        ${e.beskrivning ? `<p class="besk">${kortText(e.beskrivning, e.titel)}</p>` : ''}
         <div class="brickor">${brickor(e)}</div>
       </article>`).join('')}
   `).join('');
@@ -159,7 +177,7 @@ function ritaKarta() {
   const medKoord = rad.filter(e => e.lat !== null && e.lon !== null);
   medKoord.forEach(e => {
     L.marker([e.lat, e.lon]).addTo(lager).bindPopup(
-      `<strong>${e.titel}</strong><br>${datumText(e.datum)}${e.starttid && e.starttid !== '00:00' ? ' ' + e.starttid : ''}<br>${e.plats || e.arrangor}<br><a href="${e.lank}" target="_blank" rel="noopener">Läs mer</a>`
+      `<strong>${esc(e.titel)}</strong><br>${datumText(e.datum)}${e.starttid && e.starttid !== '00:00' ? ' ' + e.starttid : ''}<br>${esc(e.plats || e.arrangor)}<br><a href="${esc(e.lank)}" target="_blank" rel="noopener">Läs mer</a>`
     );
   });
   document.getElementById('kartnot').textContent =

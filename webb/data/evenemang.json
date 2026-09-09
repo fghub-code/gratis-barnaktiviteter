@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-09-09T18:43:48.008Z",
+  "uppdaterad": "2026-09-09T19:06:43.441Z",
   "antal": 1137,
   "kallor": {
     "Stockholms stadsbibliotek": {
@@ -1132,7 +1132,7 @@
     {
       "id": "kul-glomda-drakar-och-skatter2",
       "titel": "Glömda drakar och skatter",
-      "beskrivning": "",
+      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
       "arrangor": "Medeltidsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -1145,9 +1145,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 5,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 50,
@@ -1318,7 +1318,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -1331,9 +1331,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -1380,7 +1380,7 @@
     {
       "id": "kul-astrid-lindgrens-sagolika-stockholm",
       "titel": "Astrid Lindgrens sagolika Stockholm",
-      "beskrivning": "",
+      "beskrivning": "En vandring i Vasastan till platser som inspirerat till berättelser i sagornas och lägereldarnas värld! Från 6 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Vasastan",
       "stadsdel": null,
@@ -1393,9 +1393,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 6,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 50,
@@ -4015,7 +4015,7 @@
     {
       "id": "kul-pappa-gosta--en-familjevandring-i-gustav-vasas-spar",
       "titel": "Pappa Gösta – en familjevandring i Gustav Vasas spår",
-      "beskrivning": "",
+      "beskrivning": "Följ med i spåren efter Sveriges främste 1500-talskung och hans barn. Passar barn från 5 år.",
       "arrangor": "Medeltidsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -4028,9 +4028,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 5,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 50,
@@ -4201,7 +4201,7 @@
     {
       "id": "kul-jakten-pa-jack",
       "titel": "UTSÅLT: Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -4214,9 +4214,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -6495,7 +6495,7 @@
     {
       "id": "kul-biofilm-grobi-och-bulten",
       "titel": "Biofilm: Grobi och Bulten",
-      "beskrivning": "",
+      "beskrivning": "Mysig familjefilm med Grobi & Bulten – kom och se klassikerna på bio! En perfekt film för mysiga familjestunder – fylld av spänning, humor och värme.",
       "arrangor": "Stockholms stad",
       "plats": "Skarpnäcks allé 25",
       "stadsdel": null,
@@ -6520,7 +6520,7 @@
       "kategori": "Barn och familj",
       "underkategori": null,
       "bild": null,
-      "lank": "/kalendarium/kalendarium/2026/09/biofilm-grobi-och-bulten/",
+      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/biofilm-grobi-och-bulten/",
       "kalla": "kultur.stockholm"
     },
     {
@@ -6898,7 +6898,7 @@
     {
       "id": "kul-familjevandring-i-gamla-stan2",
       "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
       "arrangor": "Medeltidsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -6911,9 +6911,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 5,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 50,
@@ -6929,7 +6929,7 @@
     {
       "id": "kul-filmlordag-fuori--konsten-att-gladjas",
       "titel": "Filmlördag: Fuori – konsten att glädjas",
-      "beskrivning": "",
+      "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
       "arrangor": "Stockholms stad",
       "plats": "Skarpnäcks kulturhus, Skarpnäcks allé 25",
       "stadsdel": null,
@@ -6954,7 +6954,7 @@
       "kategori": "Barn och familj",
       "underkategori": null,
       "bild": null,
-      "lank": "/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
+      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
       "kalla": "kultur.stockholm"
     },
     {
@@ -7301,7 +7301,7 @@
     {
       "id": "kul-jakten-pa-jack32",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -7314,9 +7314,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -8324,7 +8324,7 @@
     {
       "id": "kul-modellbyggartraff",
       "titel": "Modellbyggarträff",
-      "beskrivning": "",
+      "beskrivning": "Här får du följa modellbygge på nära håll. Passar nyfikna i åldrarna 7–107 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Källarstugan plan 1",
       "stadsdel": null,
@@ -8355,7 +8355,7 @@
     {
       "id": "kul-unicornix-med-liliana-zavala",
       "titel": "Unicornix med Liliana Zavala",
-      "beskrivning": "",
+      "beskrivning": "Kom och se Unicornix, en magisk musikföreställning för barn och familjer.",
       "arrangor": "Stockholms stad",
       "plats": "Skarpnäcks allé 25",
       "stadsdel": null,
@@ -8380,7 +8380,7 @@
       "kategori": "Barn och familj",
       "underkategori": null,
       "bild": null,
-      "lank": "/kalendarium/kalendarium/2026/09/unicornix-med-liliana-zavala/",
+      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/unicornix-med-liliana-zavala/",
       "kalla": "kultur.stockholm"
     },
     {
@@ -9440,7 +9440,7 @@
     {
       "id": "kul-jakten-pa-jack",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -9453,9 +9453,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -12168,7 +12168,7 @@
     {
       "id": "kul-astrid-lindgrens-sagolika-stockholm",
       "titel": "Astrid Lindgrens sagolika Stockholm",
-      "beskrivning": "",
+      "beskrivning": "En vandring i Vasastan till platser som inspirerat till berättelser i sagornas och lägereldarnas värld! Från 6 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Vasastan",
       "stadsdel": null,
@@ -12181,9 +12181,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 6,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 50,
@@ -12416,7 +12416,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -12429,9 +12429,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15857,7 +15857,7 @@
     {
       "id": "kul-modellbyggartraff2",
       "titel": "Modellbyggarträff",
-      "beskrivning": "",
+      "beskrivning": "Här får du följa modellbygge på nära håll. Passar nyfikna i åldrarna 7–107 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Källarstugan plan 1",
       "stadsdel": null,
@@ -16756,7 +16756,7 @@
     {
       "id": "kul-jakten-pa-jack2",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -16769,9 +16769,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -17407,7 +17407,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -17420,9 +17420,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17438,7 +17438,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -17451,9 +17451,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17469,7 +17469,7 @@
     {
       "id": "kul-jakten-pa-jack22",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -17482,9 +17482,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -17562,7 +17562,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -17575,9 +17575,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17717,7 +17717,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen22",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -17730,9 +17730,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17779,7 +17779,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen2",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -17792,9 +17792,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17810,7 +17810,7 @@
     {
       "id": "kul-jakten-pa-jack222",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -17823,9 +17823,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -17965,7 +17965,7 @@
     {
       "id": "kul-rollspel-pa-hostlovet",
       "titel": "Rollspel på höstlovet",
-      "beskrivning": "",
+      "beskrivning": "Är du gamer, nörd eller spelentusiast? Då är det dags att damma av trollstavarna och vässa svärden, för nu är det rollspel på museet igen!",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, hörsalen plan 2",
       "stadsdel": null,
@@ -17996,7 +17996,7 @@
     {
       "id": "kul-jakten-pa-jack2222",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -18009,9 +18009,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -18058,7 +18058,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen22",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -18071,9 +18071,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18368,7 +18368,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan2",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -18381,9 +18381,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18399,7 +18399,7 @@
     {
       "id": "kul-jakten-pa-jack22222",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -18412,9 +18412,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -18430,7 +18430,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen222",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -18443,9 +18443,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18647,7 +18647,7 @@
     {
       "id": "kul-jakten-pa-jack3",
       "titel": "Jakten på Jack",
-      "beskrivning": "",
+      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Gamla stan",
       "stadsdel": null,
@@ -18660,9 +18660,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
       },
       "pris": {
         "lagsta": 50,
@@ -22832,7 +22832,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -22845,9 +22845,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -22987,7 +22987,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -23000,9 +23000,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23018,7 +23018,7 @@
     {
       "id": "kul-spokvisning-for-hela-familjen2",
       "titel": "Spökvisning för hela familjen",
-      "beskrivning": "",
+      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -23031,9 +23031,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -24227,7 +24227,7 @@
     {
       "id": "kul-modellbyggarverkstad",
       "titel": "Modellbyggarverkstad",
-      "beskrivning": "",
+      "beskrivning": "Upptäck hur du kan komma igång med att bygga ett diorama och ge din modell en ny inramning.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Källarstugan plan 1",
       "stadsdel": null,
@@ -25095,7 +25095,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan2",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -25108,9 +25108,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25343,7 +25343,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -25356,9 +25356,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29342,7 +29342,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -29355,9 +29355,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32318,7 +32318,7 @@
     {
       "id": "kul-modellbyggartraff22",
       "titel": "Modellbyggarträff",
-      "beskrivning": "",
+      "beskrivning": "Här får du följa modellbygge på nära håll. Passar nyfikna i åldrarna 7–107 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Källarstugan plan 1",
       "stadsdel": null,
@@ -33000,7 +33000,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33013,9 +33013,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33496,7 +33496,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33509,9 +33509,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33651,7 +33651,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan2",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33664,9 +33664,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33682,7 +33682,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33695,9 +33695,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33837,7 +33837,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan22",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33850,9 +33850,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33868,7 +33868,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33881,9 +33881,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33899,7 +33899,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen22",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "",
+      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -33912,9 +33912,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -34054,7 +34054,7 @@
     {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan222",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "",
+      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
       "arrangor": "Stadsmuseet",
       "plats": "Stadsmuseet, Slussen",
       "stadsdel": null,
@@ -34067,9 +34067,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
