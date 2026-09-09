@@ -186,7 +186,7 @@ document.getElementById('flik-karta').onclick = () => vaxla('karta');
 ['f-dag','f-alder','f-pris','f-arrangor'].forEach(id => document.getElementById(id).onchange = rita);
 document.getElementById('f-sok').oninput = rita;
 
-fetch('../data/evenemang.json')
+fetch('data/evenemang.json')
   .then(r => r.json())
   .then(d => {
     ALLA = d.evenemang;

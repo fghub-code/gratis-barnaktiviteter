@@ -18,6 +18,6 @@ Biblioteksevenemang är alltid gratis, priset sätts hårdkodat per källa och t
 
 ## Teknik
 
-Node 20, inga beroenden. Ingen databas, ingen server. GitHub Actions kör hämtaren varje morgon och committar `data/evenemang.json`. Frontend är en statisk sida som läser den filen. Leaflet och OpenStreetMap till kartan, ingen nyckel.
+Node 20, inga beroenden. Ingen databas, ingen server. GitHub Actions kör hämtaren varje morgon, committar `webb/data/evenemang.json` och publicerar `webb/` till GitHub Pages. `webb/` är självförsörjande, sidan läser `data/evenemang.json` relativt sig själv. Frontend är en statisk sida som läser den filen. Leaflet och OpenStreetMap till kartan, ingen nyckel.
 
 `hamta/platser.json` innehåller koordinater per bibliotek och fylls i för hand. Gissa aldrig koordinater.

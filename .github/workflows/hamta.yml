@@ -1,26 +1,50 @@
-name: Hämta evenemang
+name: Hämta och publicera
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '0 4 * * *'   # 06.00 svensk sommartid
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # committa data/evenemang.json
+  pages: write      # publicera till Pages
+  id-token: write   # deploy-pages verifierar körningen
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  hamta:
+  bygg:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: node hamta/index.mjs
+
+      - name: Hämta evenemang
+        run: node hamta/index.mjs
+
       - name: Committa om något ändrats
         run: |
           git config user.name "hamtaren"
           git config user.email "actions@github.com"
-          git add data/evenemang.json
+          git add webb/data/evenemang.json
           git diff --staged --quiet || git commit -m "Uppdaterade evenemang $(date +%F)"
           git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: webb
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,7 +1,7 @@
 // Kör alla källor och skriver data/evenemang.json.
 // Kör: node hamta/index.mjs
 
-import { writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 import { hamtaBibliotek } from './bibliotek.mjs';
 import { hamtaKultur } from './kultur.mjs';
 import { prisPasserar } from './alder.mjs';
@@ -40,7 +40,9 @@ const ut = {
   evenemang: alla
 };
 
-await writeFile(new URL('../data/evenemang.json', import.meta.url), JSON.stringify(ut, null, 2));
+const utfil = new URL('../webb/data/evenemang.json', import.meta.url);
+await mkdir(new URL('.', utfil), { recursive: true });
+await writeFile(utfil, JSON.stringify(ut, null, 2));
 console.log(`Skrev ${alla.length} evenemang. ${utan_koordinat} saknar koordinater.`);
 
 // Om båda källorna fallerar är något större fel, låt körningen fallera synligt.

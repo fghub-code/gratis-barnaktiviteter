@@ -7,11 +7,11 @@ Privat övningsprojekt. Hämtar daterade gratisevenemang för barn, listar dem p
 Kräver Node 20 eller senare, inga beroenden.
 
 ```
-node hamta/index.mjs        # skriver data/evenemang.json
-npx serve webb              # eller valfri statisk server
+node hamta/index.mjs        # skriver webb/data/evenemang.json
+npx serve webb              # eller valfri statisk server, kör i webb/
 ```
 
-Öppna inte `webb/index.html` direkt från filsystemet, `fetch` mot JSON-filen blockeras då av webbläsaren. Kör en statisk server.
+Öppna inte `webb/index.html` direkt från filsystemet, `fetch` mot JSON-filen blockeras då av webbläsaren. Kör en statisk server med `webb/` som rot.
 
 ## Struktur
 
@@ -20,8 +20,9 @@ hamta/alder.mjs       tolkning av ålder och pris, samt urvalsreglerna
 hamta/bibliotek.mjs   Stockholms stadsbibliotek, GraphQL
 hamta/kultur.mjs      kultur.stockholm, HTML
 hamta/platser.json    koordinater per bibliotek, ska fyllas i manuellt
-hamta/index.mjs       kör allt, skriver data/evenemang.json
+hamta/index.mjs       kör allt, skriver webb/data/evenemang.json
 webb/index.html       lista per dag, filter, kartflik
+webb/data/            genererad data, committas av GitHub Actions
 ```
 
 ## Urvalsregler
@@ -46,4 +47,6 @@ webb/index.html       lista per dag, filter, kartflik
 
 ## Drift
 
-`.github/workflows/hamta.yml` kör hämtaren varje morgon klockan 06 svensk tid och committar `data/evenemang.json` om något ändrats. Statisk sida, ingen server, ingen databas.
+`.github/workflows/hamta.yml` kör hämtaren varje morgon klockan 06 svensk tid, committar `webb/data/evenemang.json` om något ändrats och publicerar `webb/` till GitHub Pages. Samma jobb kör också vid varje push till `main`. Statisk sida, ingen server, ingen databas.
+
+Live: https://fghub-code.github.io/gratis-barnaktiviteter/
