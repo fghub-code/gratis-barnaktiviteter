@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-09-09T19:07:48.593Z",
-  "antal": 1137,
+  "uppdaterad": "2026-09-09T19:19:31.647Z",
+  "antal": 1047,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 1093,
+      "antal": 1003,
       "fel": null
     },
     "kultur.stockholm": {
@@ -11,7 +11,7 @@
       "fel": null
     }
   },
-  "utan_koordinat": 1137,
+  "utan_koordinat": 1047,
   "evenemang": [
     {
       "id": "bib-54532",
@@ -184,9 +184,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 2,
+        "kalla": "månader till år i text"
       },
       "pris": {
         "lagsta": 0,
@@ -262,37 +262,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52287",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-10",
-      "slutdatum": "2026-09-10",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-50",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51129",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag, hela sommaren! Ingen föranmälan krävs.",
@@ -310,7 +279,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -321,37 +290,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-110",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53463",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-10",
-      "slutdatum": "2026-09-10",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-24",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -572,37 +510,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50746",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-171",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52828",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -618,9 +525,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -1455,9 +1362,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -1610,9 +1517,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -1641,9 +1548,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2106,9 +2013,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2323,9 +2230,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2355,8 +2262,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2460,37 +2367,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Faeltans_bokklubb_9fb123611c.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/persisk-svensk-bokklubb-for-barn-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49495",
-      "titel": "Bokklubb för dig på mellanstadiet",
-      "beskrivning": "Till varje träff läser vi alla samma bok. På träffen pratar vi om boken, fikar och väljer nästa bok tillsammans. Vi ses en gång i månaden. Du bokar plats över disken på Årsta bibliotek. Boken finns att låna på biblioteket.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-16",
-      "slutdatum": "2026-09-16",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokcirkel",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_bokklubb2_unga_d9e2fc2516.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-pa-mellanstadiet-7",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -2788,9 +2664,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2866,37 +2742,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52288",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-17",
-      "slutdatum": "2026-09-17",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-51",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51143",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -2914,7 +2759,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -2925,37 +2770,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-124",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53464",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-17",
-      "slutdatum": "2026-09-17",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-25",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -3160,9 +2974,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 3,
         "till": null,
-        "kalla": "kategori tyder på små barn"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -3347,8 +3161,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -3408,9 +3222,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -3421,37 +3235,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-170",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50747",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-18",
-      "slutdatum": "2026-09-18",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-172",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -3470,9 +3253,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4307,9 +4090,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4402,7 +4185,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4493,9 +4276,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 6,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4524,9 +4307,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4555,9 +4338,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4896,9 +4679,9 @@
       "aterkommande": false,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -4971,37 +4754,6 @@
       "underkategori": "TAKK",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_05_T225320_565_4b43cf3229.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/digital-sagostund-med-takk-tema-fredsdagen-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52258",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-187",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5113,9 +4865,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -5299,9 +5051,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -5330,9 +5082,9 @@
       "aterkommande": false,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -5436,68 +5188,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Kista_oeppna_foerskola_e0bb0ed847.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-oppen-forskola-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50158",
-      "titel": "Bokklubb för dig i mellanstadiet!",
-      "beskrivning": "Vi läser, fikar, pysslar, ger varandra boktips och mycket mer! \nAnmäl dig till blackeberg.ssb@stockholm.se eller prata med personalen på biblioteket!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-23",
-      "slutdatum": "2026-09-23",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_bokklubb_2_unga_e72a526ae7.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-i-mellanstadiet-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49392",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-23",
-      "slutdatum": "2026-09-23",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-29",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5857,9 +5547,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 3,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -5952,7 +5642,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -5963,37 +5653,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-112",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53465",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-24",
-      "slutdatum": "2026-09-24",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-26",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6261,8 +5920,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -6307,37 +5966,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50748",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-25",
-      "slutdatum": "2026-09-25",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-173",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52830",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -6353,9 +5981,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -7097,9 +6725,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 3,
+        "till": 5,
+        "kalla": "spann med till i text"
       },
       "pris": {
         "lagsta": 0,
@@ -7252,9 +6880,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -7407,9 +7035,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -7438,9 +7066,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -7826,37 +7454,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52259",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-188",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54013",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -7934,9 +7531,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8058,9 +7655,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 6,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8089,9 +7686,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8121,8 +7718,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8492,9 +8089,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8523,9 +8120,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8601,37 +8198,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52290",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-01",
-      "slutdatum": "2026-10-01",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-53",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51132",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -8649,7 +8215,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8660,37 +8226,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-113",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53466",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-01",
-      "slutdatum": "2026-10-01",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-27",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8864,9 +8399,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 3,
         "till": null,
-        "kalla": "kategori tyder på små barn"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -8989,8 +8524,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -9050,9 +8585,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -9097,37 +8632,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50749",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-02",
-      "slutdatum": "2026-10-02",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-174",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52831",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -9143,9 +8647,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -9918,9 +9422,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10013,7 +9517,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10074,8 +9578,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10104,9 +9608,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 6,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10135,9 +9639,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10166,9 +9670,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10585,37 +10089,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52260",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-06",
-      "slutdatum": "2026-10-06",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-189",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54014",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -10724,9 +10197,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10879,9 +10352,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -10941,9 +10414,9 @@
       "aterkommande": false,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -11016,37 +10489,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-51",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49393",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-07",
-      "slutdatum": "2026-10-07",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-30",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -11391,37 +10833,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52291",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-54",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51133",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -11439,7 +10850,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -11450,37 +10861,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-114",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53467",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-28",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -11779,8 +11159,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -11825,37 +11205,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50750",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-175",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52832",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -11871,9 +11220,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -12522,9 +11871,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -12646,9 +11995,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -12677,9 +12026,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13065,37 +12414,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52261",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-13",
-      "slutdatum": "2026-10-13",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-190",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54015",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -13142,9 +12460,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13266,9 +12584,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 6,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13297,9 +12615,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13329,8 +12647,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13403,37 +12721,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Faeltans_bokklubb_9fb123611c.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/persisk-svensk-bokklubb-for-barn-5",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49496",
-      "titel": "Bokklubb för dig på mellanstadiet",
-      "beskrivning": "Till varje träff läser vi alla samma bok. På träffen pratar vi om boken, fikar och väljer nästa bok tillsammans. Vi ses en gång i månaden. Du bokar plats över disken på Årsta bibliotek. Boken finns att låna på biblioteket.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-14",
-      "slutdatum": "2026-10-14",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokcirkel",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_bokklubb2_unga_d9e2fc2516.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-pa-mellanstadiet-8",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -13638,9 +12925,9 @@
       "aterkommande": false,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13700,9 +12987,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13778,37 +13065,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52292",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-15",
-      "slutdatum": "2026-10-15",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-55",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51698",
       "titel": "Barnråd– barnens egen röst i Skärholmen",
       "beskrivning": "Vill du bestämma och är mellan 7-12 år?\nKom till Barnrådet på Skärholmens bibliotek och var med och skapa ditt drömbibliotek!\nDu får:\nPlanera och ibland leda aktiviteter – vad ska hända på biblioteket?\nTycka till om hur biblioteket ska se ut.\nTycka till om vilka böcker som kan köpas in.\nIngen anmälan. Drop in!",
@@ -13857,7 +13113,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -13868,37 +13124,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-115",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53468",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-15",
-      "slutdatum": "2026-10-15",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-29",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -14072,9 +13297,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 3,
         "till": null,
-        "kalla": "kategori tyder på små barn"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14165,9 +13390,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14178,37 +13403,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-172",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50751",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-176",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -14227,9 +13421,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14816,9 +14010,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14863,6 +14057,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-54874",
+      "titel": "Bäbismys på biblioteket",
+      "beskrivning": "Förälder till bäbis i Hässelby? Välkommen till Hässelby villastads bibliotek med din bäbis för att rimramsa och få boktips. Bibliotekarien pratar språkutveckling och tipsar om lämpliga böcker för de allra yngsta. Några ramsor och babytecken gör vi tillsammans. Framförallt hoppas vi på en mysig stund med tillgång till biblioteket utanför öppettiden. \n\nÅlder 8-12 månader\nDrop in!",
+      "arrangor": "Hässelby villastads bibliotek",
+      "plats": "Hässelby villastads bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-19",
+      "slutdatum": "2026-10-19",
+      "starttid": "10:00",
+      "sluttid": "10:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babybabbel_9_a53e57b693.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/babismys-pa-biblioteket-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-50714",
       "titel": "Bäbisbabbel!",
       "beskrivning": "Har du en liten bebis där hemma? Välkommen på Bäbisbabbel på bibblan! Vi ramsar och sjunger välkända visor och läser pekböcker för de minsta. Efteråt finns det möjlighet att i avslappnad miljö umgås med andra föräldrar och/eller få boktips från bibliotekarien Anna. Programmet äger rum i bibliotekets ateljé. För vuxna med barn mellan ca 0-1,5 år.",
@@ -14880,7 +14105,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14940,9 +14165,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 6,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -14971,9 +14196,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15002,9 +14227,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15266,37 +14491,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52262",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-20",
-      "slutdatum": "2026-10-20",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-191",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54016",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -15405,9 +14599,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15560,9 +14754,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15635,68 +14829,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-53",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50159",
-      "titel": "Bokklubb för dig i mellanstadiet!",
-      "beskrivning": "Vi läser, fikar, pysslar, ger varandra boktips och mycket mer! \nAnmäl dig till blackeberg.ssb@stockholm.se eller prata med personalen på biblioteket!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-21",
-      "slutdatum": "2026-10-21",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_bokklubb_2_unga_e72a526ae7.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-i-mellanstadiet-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49394",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-21",
-      "slutdatum": "2026-10-21",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-31",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -15933,8 +15065,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -15994,9 +15126,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 3,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -16072,37 +15204,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52293",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-22",
-      "slutdatum": "2026-10-22",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-56",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51135",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -16120,7 +15221,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -16131,37 +15232,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-116",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53469",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-22",
-      "slutdatum": "2026-10-22",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-30",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -16398,8 +15468,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -16444,37 +15514,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50752",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-177",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52834",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -16490,9 +15529,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17017,9 +16056,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17110,9 +16149,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17141,9 +16180,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17498,37 +16537,6 @@
       "kalla": "kultur.stockholm"
     },
     {
-      "id": "bib-52263",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-27",
-      "slutdatum": "2026-10-27",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-192",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54017",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -17606,9 +16614,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -17668,9 +16676,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18040,9 +17048,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18166,7 +17174,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18288,9 +17296,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 3,
         "till": null,
-        "kalla": "kategori tyder på små barn"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18459,37 +17467,6 @@
       "kalla": "kultur.stockholm"
     },
     {
-      "id": "bib-50753",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-30",
-      "slutdatum": "2026-10-30",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-178",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52835",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -18505,9 +17482,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18846,9 +17823,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18893,6 +17870,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-54875",
+      "titel": "Bäbismys på biblioteket",
+      "beskrivning": "Förälder till bäbis i Hässelby? Välkommen till Hässelby villastads bibliotek med din bäbis för att rimramsa och få boktips. Bibliotekarien pratar språkutveckling och tipsar om lämpliga böcker för de allra yngsta. Några ramsor och babytecken gör vi tillsammans. Framförallt hoppas vi på en mysig stund med tillgång till biblioteket utanför öppettiden. Ålder 8-12 månader Drop in!",
+      "arrangor": "Hässelby villastads bibliotek",
+      "plats": "Hässelby villastads bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-02",
+      "slutdatum": "2026-11-02",
+      "starttid": "10:00",
+      "sluttid": "10:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babybabbel_9_a53e57b693.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/babismys-pa-biblioteket-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-50715",
       "titel": "Bäbisbabbel!",
       "beskrivning": "Har du en liten bebis där hemma? Välkommen på Bäbisbabbel på bibblan! Vi ramsar och sjunger välkända visor och läser pekböcker för de minsta. Efteråt finns det möjlighet att i avslappnad miljö umgås med andra föräldrar och/eller få boktips från bibliotekarien Anna. Programmet äger rum i bibliotekets ateljé. För vuxna med barn mellan ca 0-1,5 år.",
@@ -18910,7 +17918,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -18970,9 +17978,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -19001,9 +18009,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -19296,37 +18304,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52264",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-03",
-      "slutdatum": "2026-11-03",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-193",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54018",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -19435,9 +18412,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -19559,9 +18536,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -19634,37 +18611,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-55",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49395",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-32",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -19869,9 +18815,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 2,
+        "kalla": "månader till år i text"
       },
       "pris": {
         "lagsta": 0,
@@ -19995,7 +18941,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -20006,37 +18952,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-118",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53471",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-05",
-      "slutdatum": "2026-11-05",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-32",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -20273,8 +19188,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -20365,9 +19280,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -20378,37 +19293,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-173",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50754",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-06",
-      "slutdatum": "2026-11-06",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-179",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -20427,9 +19311,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21016,9 +19900,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21079,8 +19963,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21109,9 +19993,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21140,9 +20024,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21497,37 +20381,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52265",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-10",
-      "slutdatum": "2026-11-10",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-194",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54019",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -21574,9 +20427,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21698,9 +20551,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -21773,68 +20626,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-56",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50160",
-      "titel": "Bokklubb för dig i mellanstadiet!",
-      "beskrivning": "Vi läser, fikar, pysslar, ger varandra boktips och mycket mer! \nAnmäl dig till blackeberg.ssb@stockholm.se eller prata med personalen på biblioteket!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-11",
-      "slutdatum": "2026-11-11",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_bokklubb_2_unga_e72a526ae7.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-i-mellanstadiet-3",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49497",
-      "titel": "Bokklubb för dig på mellanstadiet",
-      "beskrivning": "Till varje träff läser vi alla samma bok. På träffen pratar vi om boken, fikar och väljer nästa bok tillsammans. Vi ses en gång i månaden. Du bokar plats över disken på Årsta bibliotek. Boken finns att låna på biblioteket.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-11",
-      "slutdatum": "2026-11-11",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokcirkel",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_bokklubb2_unga_d9e2fc2516.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-pa-mellanstadiet-9",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -22070,9 +20861,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -22148,37 +20939,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52296",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-12",
-      "slutdatum": "2026-11-12",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-59",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51138",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -22196,7 +20956,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -22207,37 +20967,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-119",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53472",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-12",
-      "slutdatum": "2026-11-12",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-33",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -22505,8 +21234,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -22517,37 +21246,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_hemsidan_babybabbel_392482455b.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babybabbel-56",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50755",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-13",
-      "slutdatum": "2026-11-13",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-180",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -22566,9 +21264,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23186,9 +21884,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23250,7 +21948,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23310,9 +22008,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23341,9 +22039,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23667,37 +22365,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52266",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-17",
-      "slutdatum": "2026-11-17",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-195",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54020",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -23806,9 +22473,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -23930,9 +22597,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -24036,37 +22703,6 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_03_17_T181709_077_925ab4e7d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/barnrad-barnens-egen-rost-i-skarholmen-5",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49396",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-33",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -24349,37 +22985,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52297",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-19",
-      "slutdatum": "2026-11-19",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-60",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51139",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -24397,7 +23002,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -24408,37 +23013,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-120",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53473",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-19",
-      "slutdatum": "2026-11-19",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-34",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -24706,8 +23280,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -24736,9 +23310,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -24749,37 +23323,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-174",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50756",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-20",
-      "slutdatum": "2026-11-20",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-181",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -24798,9 +23341,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25294,9 +23837,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 3,
+        "till": 5,
+        "kalla": "spann med till i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25449,9 +23992,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25462,6 +24005,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sagostund_Oerby_514b51caab.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-431",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-54876",
+      "titel": "Bäbismys på biblioteket",
+      "beskrivning": "Förälder till bäbis i Hässelby? Välkommen till Hässelby villastads bibliotek med din bäbis för att rimramsa och få boktips. Bibliotekarien pratar språkutveckling och tipsar om lämpliga böcker för de allra yngsta. Några ramsor och babytecken gör vi tillsammans. Framförallt hoppas vi på en mysig stund med tillgång till biblioteket utanför öppettiden. Ålder 8-12 månader Drop in!",
+      "arrangor": "Hässelby villastads bibliotek",
+      "plats": "Hässelby villastads bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-23",
+      "slutdatum": "2026-11-23",
+      "starttid": "10:00",
+      "sluttid": "10:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babybabbel_9_a53e57b693.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/babismys-pa-biblioteket-3",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -25542,9 +24116,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25573,9 +24147,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -25899,37 +24473,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52267",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-24",
-      "slutdatum": "2026-11-24",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-196",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54021",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -25976,9 +24519,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26069,9 +24612,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26348,9 +24891,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26379,9 +24922,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 3,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26457,37 +25000,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52298",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-26",
-      "slutdatum": "2026-11-26",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-61",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51140",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -26505,7 +25017,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26516,37 +25028,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-121",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53474",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-26",
-      "slutdatum": "2026-11-26",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-35",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -26720,9 +25201,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 3,
         "till": null,
-        "kalla": "kategori tyder på små barn"
+        "kalla": "undre gräns i text"
       },
       "pris": {
         "lagsta": 0,
@@ -26829,37 +25310,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50757",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-27",
-      "slutdatum": "2026-11-27",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-182",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52839",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -26875,9 +25325,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -27402,9 +25852,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -27435,7 +25885,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -27495,9 +25945,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -27526,9 +25976,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -27852,37 +26302,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52268",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-01",
-      "slutdatum": "2026-12-01",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-197",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54022",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -27991,9 +26410,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -28146,9 +26565,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -28190,68 +26609,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_bebis_a06b0ed87e.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/rimma-ramsa-lasa-8",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50161",
-      "titel": "Bokklubb för dig i mellanstadiet!",
-      "beskrivning": "Vi läser, fikar, pysslar, ger varandra boktips och mycket mer! \nAnmäl dig till blackeberg.ssb@stockholm.se eller prata med personalen på biblioteket!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-02",
-      "slutdatum": "2026-12-02",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_bokklubb_2_unga_e72a526ae7.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-i-mellanstadiet-4",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49397",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-02",
-      "slutdatum": "2026-12-02",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-34",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -28425,9 +26782,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 2,
+        "kalla": "månader till år i text"
       },
       "pris": {
         "lagsta": 0,
@@ -28503,37 +26860,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52299",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-03",
-      "slutdatum": "2026-12-03",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-62",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51141",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -28551,7 +26877,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -28562,37 +26888,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-122",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53475",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-03",
-      "slutdatum": "2026-12-03",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-36",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -28890,9 +27185,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -28903,37 +27198,6 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-175",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50758",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-04",
-      "slutdatum": "2026-12-04",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-183",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -28952,9 +27216,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29448,9 +27712,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29511,8 +27775,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29541,9 +27805,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29572,9 +27836,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 5,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -29929,37 +28193,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52269",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-08",
-      "slutdatum": "2026-12-08",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-198",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54023",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -30006,9 +28239,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30130,9 +28363,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30205,37 +28438,6 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_03_17_T181709_077_925ab4e7d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/barnrad-barnens-egen-rost-i-skarholmen-6",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49498",
-      "titel": "Bokklubb för dig på mellanstadiet",
-      "beskrivning": "Till varje träff läser vi alla samma bok. På träffen pratar vi om boken, fikar och väljer nästa bok tillsammans. Vi ses en gång i månaden. Du bokar plats över disken på Årsta bibliotek. Boken finns att låna på biblioteket.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-09",
-      "slutdatum": "2026-12-09",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokcirkel",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_bokklubb2_unga_d9e2fc2516.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bokklubb-for-dig-pa-mellanstadiet-10",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -30440,9 +28642,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 4,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30518,37 +28720,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52300",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-10",
-      "slutdatum": "2026-12-10",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-63",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51142",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -30566,7 +28737,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30577,37 +28748,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-123",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53476",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-10",
-      "slutdatum": "2026-12-10",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-37",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -30813,8 +28953,8 @@
       "kraverBokning": false,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30906,8 +29046,8 @@
       "kraverBokning": true,
       "alder": {
         "fran": 0,
-        "till": 12,
-        "kalla": "spann utan enhet"
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -30952,37 +29092,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50759",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-11",
-      "slutdatum": "2026-12-11",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-184",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52841",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -30998,9 +29107,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -31432,9 +29541,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 1,
+        "till": 5,
+        "kalla": "förskoleålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -31445,6 +29554,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sagostund_Oerby_514b51caab.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-434",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-54877",
+      "titel": "Bäbismys på biblioteket",
+      "beskrivning": "Förälder till bäbis i Hässelby? Välkommen till Hässelby villastads bibliotek med din bäbis för att rimramsa och få boktips. Bibliotekarien pratar språkutveckling och tipsar om lämpliga böcker för de allra yngsta. Några ramsor och babytecken gör vi tillsammans. Framförallt hoppas vi på en mysig stund med tillgång till biblioteket utanför öppettiden. Ålder 8-12 månader Drop in!",
+      "arrangor": "Hässelby villastads bibliotek",
+      "plats": "Hässelby villastads bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-14",
+      "slutdatum": "2026-12-14",
+      "starttid": "10:00",
+      "sluttid": "10:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babybabbel_9_a53e57b693.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/babismys-pa-biblioteket-4",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -31465,7 +29605,7 @@
       "alder": {
         "fran": 0,
         "till": 1,
-        "kalla": "spann utan enhet"
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -31525,9 +29665,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -31556,9 +29696,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 0,
+        "till": 1,
+        "kalla": "ord för spädbarn i text"
       },
       "pris": {
         "lagsta": 0,
@@ -31820,37 +29960,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52270",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-15",
-      "slutdatum": "2026-12-15",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-199",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54024",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -31959,9 +30068,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
+        "fran": 7,
         "till": null,
-        "kalla": "okänd"
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32083,9 +30192,9 @@
       "aterkommande": true,
       "kraverBokning": true,
       "alder": {
-        "fran": 4,
-        "till": 10,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32127,37 +30236,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_bebis_a06b0ed87e.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/rimma-ramsa-lasa-9",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49398",
-      "titel": "Läsverkstad",
-      "beskrivning": "Inspirerade av böcker skapar och pysslar vi tillsammans. Vi testar att bygga med kartong, använda lera, papper, pärlor och andra material. Passar dig på mellanstadiet. Under höstterminen ses vi på Årsta bibliotek onsdagarna 26/8, 9/9, 23/9, 7/10, 21/10, 4/11, 18/11, 2/12 och 16/12. Begränsat antal platser. Mejla arsta.ssb@stockholm.se för att boka plats eller prata med oss på bibblan.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-16",
-      "slutdatum": "2026-12-16",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokklubb",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skaparverkstad_1bfb94a70b.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lasverkstad-35",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -32393,9 +30471,9 @@
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32424,9 +30502,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": 3,
-        "till": 18,
-        "kalla": "spann utan enhet"
+        "fran": 0,
+        "till": 1,
+        "kalla": "månadsålder i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32519,7 +30597,7 @@
       "alder": {
         "fran": 7,
         "till": 13,
-        "kalla": "spann i text"
+        "kalla": "mellan x och y i text"
       },
       "pris": {
         "lagsta": 0,
@@ -32530,37 +30608,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-125",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53477",
-      "titel": "Torsdagsklubben på Gröndals bibliotek",
-      "beskrivning": "Går du på mellanstadiet och gillar att pyssla, spela spel, prata om böcker och hänga med kompisar? Då är du välkommen till biblioteket varje torsdag! Kom själv eller ta med en kompis - du behöver inte anmäla dig i förväg. Välkommen!",
-      "arrangor": "Gröndals bibliotek",
-      "plats": "Gröndals bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-17",
-      "slutdatum": "2026-12-17",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_After_School_i_ateljen_9_13_ar_1_1cfb707895.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-pa-grondals-bibliotek-38",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -32688,37 +30735,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50760",
-      "titel": "Fredagsklubben!",
-      "beskrivning": "Specialöppet för dig i mellanstadiet varje fredag. Kom och umgås, läs, spela spel, pyssla... Berätta för oss vad du vill göra! Biblioteket bjuder på fika.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-18",
-      "slutdatum": "2026-12-18",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Fredagsklubben_ny_7d185a9e0e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsklubben-185",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52842",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -32734,9 +30750,9 @@
       "aterkommande": true,
       "kraverBokning": false,
       "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
+        "fran": 7,
+        "till": 9,
+        "kalla": "skolstadium i text"
       },
       "pris": {
         "lagsta": 0,
@@ -33339,37 +31355,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52272",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-29",
-      "slutdatum": "2026-12-29",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-201",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54048",
       "titel": "Läxhjälp för barn, unga och vuxna",
       "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
@@ -33463,37 +31448,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52304",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-07",
-      "slutdatum": "2027-01-07",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-67",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
       "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
       "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
@@ -33556,37 +31510,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52274",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-12",
-      "slutdatum": "2027-01-12",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-203",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54050",
       "titel": "Läxhjälp för barn, unga och vuxna",
       "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
@@ -33615,37 +31538,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-83",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52305",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-14",
-      "slutdatum": "2027-01-14",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-68",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -33742,37 +31634,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52275",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-19",
-      "slutdatum": "2027-01-19",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-204",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54051",
       "titel": "Läxhjälp för barn, unga och vuxna",
       "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
@@ -33801,37 +31662,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-84",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52306",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-21",
-      "slutdatum": "2027-01-21",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-69",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -33959,37 +31789,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52276",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-01-26",
-      "slutdatum": "2027-01-26",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-205",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54052",
       "titel": "Läxhjälp för barn, unga och vuxna",
       "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
@@ -34114,192 +31913,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52277",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-02",
-      "slutdatum": "2027-02-02",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-206",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52308",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-04",
-      "slutdatum": "2027-02-04",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-71",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52278",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-09",
-      "slutdatum": "2027-02-09",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-207",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52309",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-11",
-      "slutdatum": "2027-02-11",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-72",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52279",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-16",
-      "slutdatum": "2027-02-16",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-208",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52310",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-18",
-      "slutdatum": "2027-02-18",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-73",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54551",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Brommaplans bibliotek  har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) under utvalda lördagar på hösten och våren",
@@ -34328,130 +31941,6 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-184",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52280",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-23",
-      "slutdatum": "2027-02-23",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-209",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52311",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-02-25",
-      "slutdatum": "2027-02-25",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-74",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52281",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-03-02",
-      "slutdatum": "2027-03-02",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-210",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52282",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.\n \nAUGUSTI OCH SEPTEMBER:\nVårt rum används för förtidsröstning - därför är Tisdagsklubben inställd 25/8, 1/9, 8/9 samt 15/9.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-03-09",
-      "slutdatum": "2027-03-09",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-211",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -34486,192 +31975,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52324",
-      "titel": "Tisdagsklubben",
-      "beskrivning": "Bildpedagog från Kulturskolan och bibliotekarie från Hässelby gårds bibliotek håller tillsammans i aktiviteten som innebär kreativa övningar där vi bland annat hämtar inspiration från olika böcker.\n\nDu som är mellan 8 och 12 år är välkommen!\n\nDu behöver inte vara duktig på att rita och du behöver inte läsa mycket för att kunna vara med! Det enda vi kräver är att du följer våra trivselregler!\n\nIngen anmälan - utom vid speciella tillfällen som vi berättar om i förväg.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-03-16",
-      "slutdatum": "2027-03-16",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_tisdagsklubben_4f6265d7eb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagsklubben-212",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52314",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-03-18",
-      "slutdatum": "2027-03-18",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-77",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52315",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-03-25",
-      "slutdatum": "2027-03-25",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-78",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52316",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-04-01",
-      "slutdatum": "2027-04-01",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-79",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52317",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-04-08",
-      "slutdatum": "2027-04-08",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-80",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52318",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-04-15",
-      "slutdatum": "2027-04-15",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-81",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54554",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Brommaplans bibliotek  har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) under utvalda lördagar på hösten och våren",
@@ -34703,68 +32006,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52320",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-04-29",
-      "slutdatum": "2027-04-29",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-83",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52322",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-05-13",
-      "slutdatum": "2027-05-13",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-85",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54555",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Brommaplans bibliotek  har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) under utvalda lördagar på hösten och våren",
@@ -34793,37 +32034,6 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-188",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52323",
-      "titel": "Bibblerians läsklubb",
-      "beskrivning": "I läsklubben får du  lyssna på högläsning och vara med på olika läspeppande aktiviteter. Vi träffas nästan varje torsdag. Passar bäst för årskurs 3, 4 och 5\nVi bjuder på smörgås eller fika.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2027-05-20",
-      "slutdatum": "2027-05-20",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laesklubben_39a77860cb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bibblerians-lasklubb-86",
       "kalla": "Stockholms stadsbibliotek"
     },
     {

@@ -4,7 +4,7 @@ Privat övningsprojekt. Hittar daterade gratisevenemang för barn ca 2-6 år i S
 
 ## Urvalsregler, ändra inte utan att fråga
 
-- Ålder: allt med undre gräns 7 år eller lägre kommer med, inklusive oklara fall. Den grova 7-årsgränsen gallrar i hämtningen, finare filtrering (2-6 mot 0-3) sker i gränssnittet. För kultur.stockholm tolkas åldern ur detaljsidans text, så fler event med hög åldersgräns faller bort där än förr.
+- Ålder: allt med undre gräns 7 år eller lägre kommer med, inklusive oklara fall. Den grova 7-årsgränsen gallrar i hämtningen, finare filtrering (2-6 mot 0-3) sker i gränssnittet. `tolkaAlder` läser åldern ur fritext, både siffror ("3-6 år", "mellan 8 och 12 år", "3 månader till 2 år") och ord ("bebis", "förskoleåldern", "mellanstadiet", "årskurs 3"). Skolstadier och årskurser översätts till ålder, årskurs N börjar vid N+6 år. Nämns flera stadier tas det lägsta. Detta gallrar bort fler event än förr, till exempel allt som bara riktar sig till mellanstadiet.
 - Pris: gratis eller högst 50 kronor per person. Mätning 2026-09-09 visade att barnutbudet i praktiken bara har två nivåer, gratis och 50 kr.
 - Okänt pris är egen status. Det får aldrig visas som gratis. Saknad prisuppgift betyder att arrangören inte skrivit ut något. `gratis` sätts bara på explicit formulering, "gratis", "fri entré", "fritt inträde", "kostnadsfri".
 - Pris tolkas ur text bara för kultur.stockholm, ur fältet `Pris:`. Biblioteksevenemang är alltid gratis, satt hårdkodat per källa.

@@ -28,7 +28,7 @@ webb/data/            genererad data, committas av GitHub Actions
 
 ## Urvalsregler
 
-- Ålder: allt med undre gräns 7 år eller lägre kommer med, inklusive oklara fall. Finare filtrering sker i gränssnittet.
+- Ålder: allt med undre gräns 7 år eller lägre kommer med, inklusive oklara fall. Finare filtrering sker i gränssnittet. `tolkaAlder` läser åldern ur text, både siffror och ord som "bebis", "förskoleåldern", "mellanstadiet" och "årskurs 3". Årskurs N räknas som ålder N+6.
 - Pris: gratis eller högst 50 kronor per person. Tolkas ur text bara för kultur.stockholm, bibliotek är alltid gratis.
 - Okänt pris är egen status. Det visas aldrig som gratis och är dolt som standard.
 
