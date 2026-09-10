@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-09-09T19:20:29.659Z",
-  "antal": 1047,
+  "uppdaterad": "2026-09-10T04:07:34.595Z",
+  "antal": 1045,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 1003,
+      "antal": 1001,
       "fel": null
     },
     "kultur.stockholm": {
@@ -11,70 +11,8 @@
       "fel": null
     }
   },
-  "utan_koordinat": 1047,
+  "utan_koordinat": 1045,
   "evenemang": [
-    {
-      "id": "bib-54532",
-      "titel": "Rösta på barnens drömbibliotek!",
-      "beskrivning": "Rösta på barnens drömbibliotek!\nNu startar omröstningen där du kan rösta på ritade förslag från barn i åldrarna 6–12 år. Bidragen har samlats in under maj–augusti i år. Kom och titta på alla fantastiska idéer och lägg en röst på det förslag du gillar bäst!\nRöstningen pågår från 6 september till och med 31 september under bibliotekets öppettider. Vilket förslag ska vinna tävlingen? Var med och avgör.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-09",
-      "slutdatum": "2026-09-09",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Frågesport",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-5",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50467",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-09",
-      "slutdatum": "2026-09-09",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-80",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-54533",
       "titel": "Rösta på barnens drömbibliotek!",
@@ -6524,37 +6462,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-familjevandring-i-gamla-stan2",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-26",
-      "slutdatum": "2026-09-26",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "kul-filmlordag-fuori--konsten-att-gladjas",
       "titel": "Filmlördag: Fuori – konsten att glädjas",
       "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
@@ -6583,6 +6490,37 @@
       "underkategori": null,
       "bild": null,
       "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
+      "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "kul-familjevandring-i-gamla-stan2",
+      "titel": "Familjevandring i Gamla stan",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
+      "arrangor": "Medeltidsmuseet",
+      "plats": "Gamla stan",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-09-26",
+      "slutdatum": "2026-09-26",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 5,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 50,
+        "text": "50 kr",
+        "status": "kostar"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
       "kalla": "kultur.stockholm"
     },
     {
