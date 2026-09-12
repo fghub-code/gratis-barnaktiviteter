@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-09-11T04:07:43.303Z",
+  "uppdaterad": "2026-09-12T04:07:24.909Z",
   "antal": 1042,
   "kallor": {
     "Stockholms stadsbibliotek": {
@@ -13,223 +13,6 @@
   },
   "utan_koordinat": 1042,
   "evenemang": [
-    {
-      "id": "bib-54534",
-      "titel": "Rösta på barnens drömbibliotek!",
-      "beskrivning": "Rösta på barnens drömbibliotek!\nNu startar omröstningen där du kan rösta på ritade förslag från barn i åldrarna 6–12 år. Bidragen har samlats in under maj–augusti i år. Kom och titta på alla fantastiska idéer och lägg en röst på det förslag du gillar bäst!\nRöstningen pågår från 6 september till och med 31 september under bibliotekets öppettider. Vilket förslag ska vinna tävlingen? Var med och avgör.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Frågesport",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-7",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50469",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-82",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49605",
-      "titel": "Pekboksklubb på Stadsbiblioteket Spelbomskan",
-      "beskrivning": "Välkommen med ditt barn 0-3 år! Tillsammans upptäcker vi böckernas värld!\nKom och ha kul med oss. På Pekboksklubben leker vi fram språkutvecklingen genom att läsa enkla, roliga\nsmåbarnsböcker. Vi ramsar och sjunger tillsammans. \nKl. 10.00-11.00.\nDrop in.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "10:00",
-      "sluttid": "11:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 3,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pekboksklubb_33a44104c4.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/pekboksklubb-pa-stadsbiblioteket-spelbomskan-42",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52828",
-      "titel": "Fredagsmys",
-      "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 9,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjefredagar_1_818ecce31c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-7",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51650",
-      "titel": "Helgpyssel",
-      "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum\nöppet för pyssel. \nAlla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-47",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52655",
-      "titel": "Sagostund på svenska och persiska",
-      "beskrivning": "Varmt välkommen på sagostund som ges på både svenska och persiska! Sagostunden passar barn i åldern 2-6 år men yngre och äldre syskon är också välkomna! Drop in. Ingen föranmälan krävs.",
-      "arrangor": "Norra Djurgårdsstadens bibliotek",
-      "plats": "Norra Djurgårdsstadens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 2,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sagostund_pa_svenska_och_persiska_9361bbd300.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-svenska-och-persiska-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54451",
-      "titel": "Filmvisning: Hemlig animé",
-      "beskrivning": "Kom och titta på animé med oss, vi bjuder på dryck och snacks!\nFrån 7 år.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-11",
-      "slutdatum": "2026-09-11",
-      "starttid": "17:00",
-      "sluttid": "19:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Film",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Webbpuff_1200x630_6_8bbeb21bf9.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/filmvisning-hemlig-anime-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-54535",
       "titel": "Rösta på barnens drömbibliotek!",
@@ -290,37 +73,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-65",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50470",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-12",
-      "slutdatum": "2026-09-12",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-83",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -758,37 +510,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50471",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-13",
-      "slutdatum": "2026-09-13",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-84",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49275",
       "titel": "Familjehelg",
       "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
@@ -1034,37 +755,6 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-10",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50472",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-14",
-      "slutdatum": "2026-09-14",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-85",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -1533,37 +1223,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50473",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-15",
-      "slutdatum": "2026-09-15",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-86",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54011",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -1778,37 +1437,6 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-12",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50474",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-16",
-      "slutdatum": "2026-09-16",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-87",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -2150,37 +1778,6 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-13",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50475",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-17",
-      "slutdatum": "2026-09-17",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-88",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -2680,37 +2277,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50476",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-18",
-      "slutdatum": "2026-09-18",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-89",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49606",
       "titel": "Pekboksklubb på Stadsbiblioteket Spelbomskan",
       "beskrivning": "Välkommen med ditt barn 0-3 år! Tillsammans upptäcker vi böckernas värld!\nKom och ha kul med oss. På Pekboksklubben leker vi fram språkutvecklingen genom att läsa enkla, roliga\nsmåbarnsböcker. Vi ramsar och sjunger tillsammans. \nKl. 10.00-11.00.\nDrop in.",
@@ -3114,40 +2680,9 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50477",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-19",
-      "slutdatum": "2026-09-19",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-90",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49943",
       "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.",
+      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
       "arrangor": "Hornstulls bibliotek",
       "plats": "Hornstulls bibliotek",
       "stadsdel": null,
@@ -3517,40 +3052,9 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50478",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-20",
-      "slutdatum": "2026-09-20",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-91",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54999",
       "titel": "Sagostund på engelska",
-      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 3 years old, older siblings are also welcome!",
+      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 6 years old, older siblings are also welcome!",
       "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
       "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
@@ -3762,37 +3266,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sagostund_6779c5086d.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sondagssaga-46",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50479",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-21",
-      "slutdatum": "2026-09-21",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-92",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -4323,37 +3796,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50480",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-93",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54856",
       "titel": "Digital sagostund med TAKK! Tema: Fredsdagen",
       "beskrivning": "Välkommen på en digital sagostund med TAKK på tisdagen 22 september kl.13.30 via Zoom! Internationella fredsdagen äger rum 21 september varje år. Vi uppmärksammar denna dag på tisdagen med att läsa bilderboken \"Min vän Jim\" av Kitty Crowther. Under sagostunden använder vi TAKK (tecken som alternativ och kompletterande kommunikation). Ni deltar från hemmet eller verksamheten. Programmet rekommenderas för åldern 3-6 år och för personer med funktionsnedsättning. \nAnmäl er genom att fylla i formuläret här nedanför.\nEn länk till Zoom skickas ut senast dagen innan sagostunden äger rum.",
@@ -4630,37 +4072,6 @@
       "underkategori": "Författarträff",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_mergepictures_net_merged_1787851422_1_1_9908252667.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/guillaume-perreault-om-planetbudet-bobs-aventyr-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50481",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-23",
-      "slutdatum": "2026-09-23",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-94",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5036,37 +4447,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50482",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-24",
-      "slutdatum": "2026-09-24",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-95",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-51374",
       "titel": "Läslust - en bokmässa för dig som är funkis i Stockholm",
       "beskrivning": "Välkomna till Läslust 2026 – en bokmässa för dig som är funkis!\n\nI år kommer bland annat Felix Swahn och berättar om sitt skrivande, HBTQ-hänget berättar om RFSL:s egna böcker Min makt och Min stolthet, det blir högläsning med TAKK, öppen scen, bubbeldisco och mycket mer!\n\nProgrammet kan du läsa om här nedan.",
@@ -5250,6 +4630,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-249",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55005",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-09-24",
+      "slutdatum": "2026-09-24",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-21",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5498,37 +4909,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Matte_laexhjaelp_5586d7c147.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-med-mattecentrum-63",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50483",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-25",
-      "slutdatum": "2026-09-25",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-96",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5839,37 +5219,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-67",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50484",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-26",
-      "slutdatum": "2026-09-26",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-97",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6276,37 +5625,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50485",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-27",
-      "slutdatum": "2026-09-27",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-98",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54006",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Kista bibliotek håller extraöppet bara för familjer med NPF, neuropsykiatriska funktionsnedsättningar, till exempel: autismspektrumtillstånd, ADHD, Tourettes syndrom och språkstörning. Vid dessa tillfällen är ni välkomna att besöka biblioteket utanför ordinarie öppettid. Det finns fika och enklare pyssel. Allt är gratis. Ingen föranmälan behövs.  Varmt välkomna!",
@@ -6615,37 +5933,6 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/09/jakten-pa-jack32/",
       "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "bib-50486",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-28",
-      "slutdatum": "2026-09-28",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-99",
-      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-52382",
@@ -7082,37 +6369,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50487",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-100",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54013",
       "titel": "Tisdagspyssel",
       "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
@@ -7265,37 +6521,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1284",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50488",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-09-30",
-      "slutdatum": "2026-09-30",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-101",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7702,37 +6927,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50489",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-01",
-      "slutdatum": "2026-10-01",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-102",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52413",
       "titel": "Svenska med baby",
       "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
@@ -7885,6 +7079,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-250",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55006",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-01",
+      "slutdatum": "2026-10-01",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-22",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8164,37 +7389,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Matte_laexhjaelp_5586d7c147.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-med-mattecentrum-64",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50490",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-02",
-      "slutdatum": "2026-10-02",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-103",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8508,37 +7702,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50491",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-03",
-      "slutdatum": "2026-10-03",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-104",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52664",
       "titel": "Familjelördag",
       "beskrivning": "Varje lördag ställer fram pyssel till barn och deras vuxna. Pysslet står framme under bibliotekets öppettider och kan variera, ibland är det papperspyssel, pärlor, lera eller något annat klurigt att göra tillsammans. Varmt välkommen!",
@@ -8567,6 +7730,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Familjeloerdag_eb9ca0daee.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-77",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55028",
+      "titel": "Höstboksfest & bokrelease för alla barn!",
+      "beskrivning": "Alla barn är välkomna på en höstboksfest och releasekalas för den nya bilderboken - Timotej och Tuva möter hösten. Författaren Malin Gustavsson kommer till biblioteket och förutom högläsning ur boken, så bjuds det på en lördag fylld med aktiviteter - pyssel, skattjakt, tipspromenad, skapa sin egna berättelse, höstboktips och fika tillsammans med kompisar! Varmt välkomna!",
+      "arrangor": "Hässelby villastads bibliotek",
+      "plats": "Hässelby villastads bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-03",
+      "slutdatum": "2026-10-03",
+      "starttid": "11:00",
+      "sluttid": "14:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Författarträff",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_2_9007928931.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/hostboksfest-bokrelease-for-alla-barn-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8849,23 +8043,23 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50492",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
+      "id": "bib-55113",
+      "titel": "Författarträff: Annika Girod Sundqvist",
+      "beskrivning": "Kom och träffa Annika Girod Sundqvist som läser och berättar om sin bok \"Djurens bibliotek\". \n\nEfter författarträffen erbjuder vi olika kreativa aktiviteter på barnavdelningen kopplade till boken.",
+      "arrangor": "Vällingby bibliotek",
+      "plats": "Vällingby bibliotek",
       "stadsdel": null,
       "lat": null,
       "lon": null,
-      "datum": "2026-10-04",
-      "slutdatum": "2026-10-04",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
+      "datum": "2026-10-03",
+      "slutdatum": "2026-10-03",
+      "starttid": "14:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": 6,
-        "till": 13,
+        "fran": 3,
+        "till": 6,
         "kalla": "spann i text"
       },
       "pris": {
@@ -8873,10 +8067,10 @@
         "text": "Gratis",
         "status": "gratis"
       },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-105",
+      "kategori": "Författarträff",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Foerfattartraeff_Annika_Girod_Sundqvist_172d3fc987.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/forfattartraff-annika-girod-sundqvist-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -9156,37 +8350,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sagostund_6779c5086d.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sondagssaga-48",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50493",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-05",
-      "slutdatum": "2026-10-05",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-106",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -9717,37 +8880,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50494",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-06",
-      "slutdatum": "2026-10-06",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-107",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54215",
       "titel": "Förmiddagsbesök för barn med problematisk skolfrånvaro",
       "beskrivning": "För barn med så kallad problematisk skolfrånvaro i TioTrettons målgrupp vill vi erbjuda ett tryggt och kravlöst mellanrum som förhoppningsvis kan fungera som en bro mellan hemmet och skolan. Vid särskilda förmiddagstider är TioTretton öppet endast för dessa barn. Ingen anmälan krävs utan det är bara att komma förbi när man vill under dessa tillfällen.",
@@ -9996,37 +9128,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50495",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-07",
-      "slutdatum": "2026-10-07",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-108",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49206",
       "titel": "Babysång",
       "beskrivning": "Varmt välkomna på babysång på Hornstulls bibliotek varje onsdag klockan 9.30-10 då vi sjunger och ramsar tillsammans! Sångstunden är för bebisar 4-10 månader och deras vuxna. Observera att du måste föranmäla dig- antalet platser är begränsat. Denna tid är biblioteket stängt för allmänheten, så ring på dörren. Kom gärna i god tid - vi öppnar från klockan 9.15 för er som ska på evenemanget. OBS! En bokning gäller för både förälder och barn!",
@@ -10179,6 +9280,37 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-51",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55115",
+      "titel": "Barnboksklubb på öppna förskolan tema flerspråkighet",
+      "beskrivning": "Välkommen på bibliotekets barnboksklubb på öppna förskolan familjens hus! Adress: Idholmsvägen 79A. Temat för hösten är språk och flerspråkighet. \nVi har valt ut böcker till träffarna som också finns översatta till olika språk. Högläsningen är på svenska. Böckerna kommer ni också kunna låna hem efter aktiviteterna är slut. Vi kommer också sjunga, rim-och ramsa, pyssla, dramatisera och pyssla tillsammans under terminen. Vi använder tecken som stöd (TAKK) under aktiviteterna. I slutet av terminen får alla deltagare en bokgåva. \nDrop in! Ingen föranmälan behövs. Allt är gratis.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Öppna förskolan familjens hus.  Adress: Idholmsvägen 79A",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-07",
+      "slutdatum": "2026-10-07",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_11_T185848_227_841ee5ebd6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/barnboksklubb-tema-flersprak-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -10368,37 +9500,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50496",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-109",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-50701",
       "titel": "Babyträffar på bibblan",
       "beskrivning": "Babyträffar för dig 0-2 år med medföljande vuxen. \nScrolla ner för att se träffens tema!",
@@ -10520,6 +9621,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-251",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55007",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-08",
+      "slutdatum": "2026-10-08",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-23",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -10771,37 +9903,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50497",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-110",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49609",
       "titel": "Pekboksklubb på Stadsbiblioteket Spelbomskan",
       "beskrivning": "Välkommen med ditt barn 0-3 år! Tillsammans upptäcker vi böckernas värld!\nKom och ha kul med oss. På Pekboksklubben leker vi fram språkutvecklingen genom att läsa enkla, roliga\nsmåbarnsböcker. Vi ramsar och sjunger tillsammans. \nKl. 10.00-11.00.\nDrop in.",
@@ -10957,6 +10058,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55030",
+      "titel": "Familjeworkshop: Följ med på Känsloäventyret!",
+      "beskrivning": "Vi uppmärksammar månaden för psykisk ohälsa på Skärholmens bibliotek!\nVälkomna till en kreativ familjestund baserad på Rädda Barnens nya bok \"Känsloäventyret – livsknep för yngre barn\". Under workshopen får barn och vuxna tillsammans träffa författaren och barnpsykologen Hanna Thermaenius från Rädda Barnen. Känslor kan vara både glittrande och lite trassliga. Genom att skapa och samtala hjälps vi åt att förstå barnens känslor, och hittar enkla, roliga knep för att skapa lugn i familjen när det stormar i vardagen.\nAlla familjer får dessutom med sig gratis material och övningar hem.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-09",
+      "slutdatum": "2026-10-09",
+      "starttid": "15:30",
+      "sluttid": "16:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 3,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Författarträff",
+      "underkategori": "Skaparverkstad",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_11_T163318_617_785f5d1056.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjeworkshop-8",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-50291",
       "titel": "Familjefredag",
       "beskrivning": "Varje vecka bjuder vi in till Familjefredag med aktiviteter för familjer med barn 0-5 år. Vi erbjuder en varierad mix av sagostunder, filmvisning, boktips och annat roligt, med ett nytt tema varje vecka. Välkomna!",
@@ -11019,40 +10151,9 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50498",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-10",
-      "slutdatum": "2026-10-10",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-111",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-49944",
       "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.",
+      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
       "arrangor": "Hornstulls bibliotek",
       "plats": "Hornstulls bibliotek",
       "stadsdel": null,
@@ -11357,37 +10458,6 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Nyhetsbrev_webb_1920_x_1005_px_1200_x_630_px_30_bf35574487.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-koreanska-7",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50499",
-      "titel": "Valet är vårt",
-      "beskrivning": "Valet är vårt!\nI sommar bjuder biblioteket och Minibladet in barn 6–13 år till aktiviteter om demokrati, nyheter och valet.\n\nVi startar med vernissage 22 juni kl.16-17 för en utställning där barn lyfter sina egna valfrågor och berättar vad de vill förändra i samhället. Under sommaren kan fler barn skicka in bidrag och bli en del av utställningen. \nI barnens nyhetshörna kan barn läsa anpassade nyheter om valet och samhällsfrågor. Där finns också en tipsrunda och andra aktiviteter som pågår hela sommaren fram till valet i september. Ni kan dessutom tävla och vinna fina priser!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-10-11",
-      "slutdatum": "2026-10-11",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 13,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skrivarkurs",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_06_18_T004335_353_0f358119df.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/valet-ar-vart-112",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -12786,6 +11856,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55008",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-15",
+      "slutdatum": "2026-10-15",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-24",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51698",
       "titel": "Barnråd– barnens egen röst i Skärholmen",
       "beskrivning": "Vill du bestämma och är mellan 7-12 år?\nKom till Barnrådet på Skärholmens bibliotek och var med och skapa ditt drömbibliotek!\nDu får:\nPlanera och ibland leda aktiviteter – vad ska hända på biblioteket?\nTycka till om hur biblioteket ska se ut.\nTycka till om vilka böcker som kan köpas in.\nIngen anmälan. Drop in!",
@@ -13625,7 +12726,7 @@
     {
       "id": "bib-55000",
       "titel": "Sagostund på engelska",
-      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 3 years old, older siblings are also welcome!",
+      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 6 years old, older siblings are also welcome!",
       "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
       "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
@@ -14023,6 +13124,37 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babymingel_807d7a02da.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babymingel-4",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55072",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-19",
+      "slutdatum": "2026-10-19",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-43",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -16010,6 +15142,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55073",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-44",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-53655",
       "titel": "Bokklubb för 7-9-åringar",
       "beskrivning": "Gillar du böcker?\nGillar du fika? \nÄr du 7-9 år? Perfekt! Kom och var med på bokklubb! \n\nVi träffas på barnavdelningen måndag 26 oktober klockan 15.30-16.30.\n\nTexten uppdateras med vad vi läser till träffen när deltagarna har valt på träffen innan. Boken finns att låna på Tranströmerbibliotekets barnavdelning. Läs själv eller med en förälder. Glöm inte att anmäla dig!\nPs. På träffen pratar du så mycket eller så lite du vill. Huvudsaken är att vi har kul tillsammans! Biblioteket bjuder på fika. \n\nFler träffar i höst: \n23 november, 14 december",
@@ -17867,6 +17030,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Nyhetsbrev_webb_1920_x_1005_px_1200_x_630_px_34_26ac31d888.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babytraffar-pa-bibblan-18",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55074",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-02",
+      "slutdatum": "2026-11-02",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-45",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -19854,6 +19048,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55075",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-09",
+      "slutdatum": "2026-11-09",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-46",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51626",
       "titel": "Sagostund arabiska",
       "beskrivning": "Välkomna på sagostund på arabiska.\nBibliotekarie högläser arabiska bilderböcker. \n\nFrån 3 år.",
@@ -20691,6 +19916,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55116",
+      "titel": "Barnboksklubb på öppna förskolan tema flerspråkighet",
+      "beskrivning": "Välkommen på bibliotekets barnboksklubb på öppna förskolan familjens hus! Adress: Idholmsvägen 79A. Temat för hösten är språk och flerspråkighet. \nVi har valt ut böcker till träffarna som också finns översatta till olika språk. Högläsningen är på svenska. Böckerna kommer ni också kunna låna hem efter aktiviteterna är slut. Vi kommer också sjunga, rim-och ramsa, pyssla, dramatisera och pyssla tillsammans under terminen. Vi använder tecken som stöd (TAKK) under aktiviteterna. I slutet av terminen får alla deltagare en bokgåva. \nDrop in! Ingen föranmälan behövs. Allt är gratis.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Öppna förskolan familjens hus.  Adress: Idholmsvägen 79A",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-12",
+      "slutdatum": "2026-11-12",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_11_T185848_227_841ee5ebd6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/barnboksklubb-pa-oppna-forskolan-tema-flersprak-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-53834",
       "titel": "Legimusregistrering",
       "beskrivning": "Om du har en funktionsnedsättning som gör det svårt för dig att läsa tryckt text kan du ha rätt till Legimus; ett digitalt bibliotek med talböcker och e-textböcker. Nedanför bokar du tid för att få introduktion och underteckna avtal. Ha med dig giltig legitimation och telefon, surfplatta eller dator. Du kan även komma på drop in, men för att vara säker på att vi har tid och möjlighet att hjälpa dig så erbjuds dessa tider. Är du vårdnadshavare till ett barn som har rätt till Legimus är det bra om båda två kommer. Barnet behöver en giltig e-postadress för att kunna få ett inlogg.",
@@ -20750,6 +20006,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-256",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55012",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-12",
+      "slutdatum": "2026-11-12",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-28",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -21189,7 +20476,7 @@
     {
       "id": "bib-49945",
       "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.",
+      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
       "arrangor": "Hornstulls bibliotek",
       "plats": "Hornstulls bibliotek",
       "stadsdel": null,
@@ -21246,6 +20533,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Familjeloerdag_eb9ca0daee.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-83",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55018",
+      "titel": "NPF lördag: Kom och prova instrumentet Funki!",
+      "beskrivning": "Kom och prova instrumentet Funki!\nEtt instrument som alla kan spela på! \n\nJosefine och Maria har utvecklat musikinstrument som alla kan spela på. Instrumenten heter Funki. De är speciellt gjorda för att tillgängliggöra musikskapande tillsammans för fler, även om man inte spelar något traditionellt instrument. \n\nInstrumenten kräver inga förkunskaper, det är bara att komma och prova på att spela tillsammans!  \n\nVill du veta mer om Funki? Gå in på www.funki.se",
+      "arrangor": "Hornstulls bibliotek",
+      "plats": "Hornstulls bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-14",
+      "slutdatum": "2026-11-14",
+      "starttid": "10:30",
+      "sluttid": "11:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Funktionsnedsättning",
+      "underkategori": "Musik",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Funki_NPF_430fe390e8.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/npf-lordag-kom-och-prova-instrumentet-funki-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -21497,6 +20815,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-50843",
+      "titel": "Sagostund på kantonesiska!",
+      "beskrivning": "Vi bjuder in barn och familjer till en mysig sagostund på kantonesiska. Vi kommer att läsa spännande berättelser på traditionell kinesiska och sjunga härliga barnsånger tillsammans. Det blir en rolig och interaktiv stund för de små! Drop-in! Välkomna! 歡迎大家參加!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-14",
+      "slutdatum": "2026-11-14",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 2,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_76_ef0940f119.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-kantonesiska-11",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "kul-spokvisning-for-hela-familjen",
       "titel": "Spökvisning för hela familjen",
       "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
@@ -21561,7 +20910,7 @@
     {
       "id": "bib-55001",
       "titel": "Sagostund på engelska",
-      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 3 years old, older siblings are also welcome!",
+      "beskrivning": "Join us for a storytime filled with stories, songs, and rhymes!\n\nStorytime is a wonderful opportunity to learn and build early literacy skills.\n\nFor children up to 6 years old, older siblings are also welcome!",
       "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
       "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
@@ -21897,6 +21246,37 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babymingel_807d7a02da.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babymingel-6",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55076",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-16",
+      "slutdatum": "2026-11-16",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-47",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -22827,6 +22207,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-257",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55013",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-19",
+      "slutdatum": "2026-11-19",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-29",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -23791,37 +23202,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-50843",
-      "titel": "Sagostund på kantonesiska!",
-      "beskrivning": "Vi bjuder in barn och familjer till en mysig sagostund på kantonesiska. Vi kommer att läsa spännande berättelser på traditionell kinesiska och sjunga härliga barnsånger tillsammans. Det blir en rolig och interaktiv stund för de små! Drop-in! Välkomna! 歡迎大家參加!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-22",
-      "slutdatum": "2026-11-22",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 2,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_76_ef0940f119.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-kantonesiska-11",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-52992",
       "titel": "Sagostund",
       "beskrivning": "På söndagar läser en bibliotekarie bilderböcker som passar barn i förskoleåldern. Välkomna hela familjen!",
@@ -24005,6 +23385,37 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babybabbel_9_a53e57b693.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babybabbel-52",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55077",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-23",
+      "slutdatum": "2026-11-23",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-48",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -24842,6 +24253,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-258",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55014",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-26",
+      "slutdatum": "2026-11-26",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-30",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -25837,6 +25279,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55078",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-11-30",
+      "slutdatum": "2026-11-30",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-49",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51629",
       "titel": "Sagostund arabiska",
       "beskrivning": "Välkomna på sagostund på arabiska.\nBibliotekarie högläser arabiska bilderböcker. \n\nFrån 3 år.",
@@ -26702,6 +26175,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-259",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55015",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-03",
+      "slutdatum": "2026-12-03",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-31",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -27728,6 +27232,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55079",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-07",
+      "slutdatum": "2026-12-07",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-50",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51630",
       "titel": "Sagostund arabiska",
       "beskrivning": "Välkomna på sagostund på arabiska.\nBibliotekarie högläser arabiska bilderböcker. \n\nFrån 3 år.",
@@ -28503,6 +28038,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55117",
+      "titel": "Barnboksklubb på öppna förskolan tema flerspråkighet",
+      "beskrivning": "Välkommen på bibliotekets barnboksklubb på öppna förskolan familjens hus! Adress: Idholmsvägen 79A. Temat för hösten är språk och flerspråkighet. \nVi har valt ut böcker till träffarna som också finns översatta till olika språk. Högläsningen är på svenska. Böckerna kommer ni också kunna låna hem efter aktiviteterna är slut. Vi kommer också sjunga, rim-och ramsa, pyssla, dramatisera och pyssla tillsammans under terminen. Vi använder tecken som stöd (TAKK) under aktiviteterna. I slutet av terminen får alla deltagare en bokgåva. \nDrop in! Ingen föranmälan behövs. Allt är gratis.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Öppna förskolan familjens hus.  Adress: Idholmsvägen 79A",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-10",
+      "slutdatum": "2026-12-10",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_11_T185848_227_841ee5ebd6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/barnboksklubb-pa-oppna-forskolan-tema-flersprak-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-53838",
       "titel": "Legimusregistrering",
       "beskrivning": "Om du har en funktionsnedsättning som gör det svårt för dig att läsa tryckt text kan du ha rätt till Legimus; ett digitalt bibliotek med talböcker och e-textböcker. Nedanför bokar du tid för att få introduktion och underteckna avtal. Ha med dig giltig legitimation och telefon, surfplatta eller dator. Du kan även komma på drop in, men för att vara säker på att vi har tid och möjlighet att hjälpa dig så erbjuds dessa tider. Är du vårdnadshavare till ett barn som har rätt till Legimus är det bra om båda två kommer. Barnet behöver en giltig e-postadress för att kunna få ett inlogg.",
@@ -28562,6 +28128,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-260",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55016",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-10",
+      "slutdatum": "2026-12-10",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-32",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -29557,6 +29154,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55080",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-14",
+      "slutdatum": "2026-12-14",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-51",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-49708",
       "titel": "Bokklubb för 7-9-åringar",
       "beskrivning": "Gillar du böcker?\nGillar du fika? \nÄr du 7-9 år? Perfekt! Kom och var med på bokklubb! \n\nVi träffas på barnavdelningen måndag 14 december klockan 15.30-16.30.\n\nTexten uppdateras med vad vi läser till träffen när deltagarna har valt på träffen innan. Boken finns att låna på Tranströmerbibliotekets barnavdelning. Läs själv eller med en förälder. Glöm inte att anmäla dig!\nPs. På träffen pratar du så mycket eller så lite du vill. Huvudsaken är att vi har kul tillsammans! Biblioteket bjuder på fika.",
@@ -30425,6 +30053,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55017",
+      "titel": "Sångsaga",
+      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
+      "arrangor": "Rum för barn, Kulturhuset",
+      "plats": "Rum för barn, Kulturhuset",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-17",
+      "slutdatum": "2026-12-17",
+      "starttid": "14:30",
+      "sluttid": "14:45",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sångstund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-33",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51144",
       "titel": "Kreativ torsdag på Östberga bibliotek",
       "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
@@ -31045,6 +30704,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55081",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-21",
+      "slutdatum": "2026-12-21",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-52",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-52343",
       "titel": "Öppen ateljé för 6-106-åringar",
       "beskrivning": "Välkommen till Öppen Ateljé, en plats där du kan låta din kreativitet flöda! Här får du möjlighet att skapa och experimentera med tekniker och materialet som finns i ateljén. Kom som du är, inga förkunskaper behövs!",
@@ -31169,6 +30859,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55082",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-12-28",
+      "slutdatum": "2026-12-28",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-53",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54506",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -31228,6 +30949,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-81",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55083",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-01-04",
+      "slutdatum": "2027-01-04",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-54",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -31322,6 +31074,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-snarkande-ankan/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55084",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-01-11",
+      "slutdatum": "2027-01-11",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-55",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-54508",
@@ -31446,6 +31229,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55085",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-01-18",
+      "slutdatum": "2027-01-18",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-56",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-54509",
@@ -31603,6 +31417,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55086",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-01-25",
+      "slutdatum": "2027-01-25",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-57",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54510",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -31727,6 +31572,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55087",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-02-01",
+      "slutdatum": "2027-02-01",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-58",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54511",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -31758,6 +31634,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55088",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-02-08",
+      "slutdatum": "2027-02-08",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-59",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55089",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-02-15",
+      "slutdatum": "2027-02-15",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-60",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54551",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Brommaplans bibliotek  har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) under utvalda lördagar på hösten och våren",
@@ -31786,6 +31724,68 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-184",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55090",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-02-22",
+      "slutdatum": "2027-02-22",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-61",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55091",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2027-03-01",
+      "slutdatum": "2027-03-01",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-62",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
