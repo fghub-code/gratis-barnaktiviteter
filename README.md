@@ -61,8 +61,10 @@ Fältet `kalla` säger var varje punkt kommer ifrån. Står det `ungefärlig mit
 
 ## Kvar att göra
 
-1. Stadsdel per arrangör, för filtret som ännu inte finns.
-2. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga. Detaljsidehämtningen la till två regexberoenden till, og-taggen och faktarutan.
+1. **Designen.** Gränssnittet är funktionellt men opolerat. Riktning inte vald, ta fram några förslag och bestäm innan något byggs.
+2. **Datumväljaren.** I dag en `select` med "Alla kommande" plus upp till 30 enskilda dagar, en lång rullgardin man måste öppna för att se vad som finns. Behöver något annat, till exempel snabbval för idag, imorgon och helgen, eller en kalendervy. Riktning inte vald.
+3. Stadsdel per arrangör, för filtret som ännu inte finns.
+4. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga. Detaljsidehämtningen la till två regexberoenden till, og-taggen och faktarutan.
 
 ## Drift
 
