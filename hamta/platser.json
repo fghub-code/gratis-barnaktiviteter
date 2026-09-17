@@ -1,192 +1,236 @@
 {
   "Aspuddens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.30547,
+    "lon": 18.00155,
+    "stadsdel": null,
+    "kalla": "osm: Aspuddens bibliotek"
   },
   "Bagarmossens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.27713,
+    "lon": 18.13286,
+    "stadsdel": null,
+    "kalla": "osm: Bagarmossens bibliotek"
   },
   "Björkhagens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.29074,
+    "lon": 18.11673,
+    "stadsdel": null,
+    "kalla": "osm: Björkhagens bibliotek"
   },
   "Blackebergs bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.34777,
+    "lon": 17.88438,
+    "stadsdel": null,
+    "kalla": "osm: Blackebergs bibliotek"
   },
   "Bredängs bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.29464,
+    "lon": 17.934,
+    "stadsdel": null,
+    "kalla": "osm: Bredängs bibliotek"
   },
   "Brommaplans bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.33879,
+    "lon": 17.94015,
+    "stadsdel": null,
+    "kalla": "osm: Brommaplans Bibliotek"
   },
   "Enskede bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.28539,
+    "lon": 18.09432,
+    "stadsdel": null,
+    "kalla": "osm: Enskede bibliotek"
   },
   "Farsta bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.24254,
+    "lon": 18.09001,
+    "stadsdel": null,
+    "kalla": "osm: Farsta Bibliotek"
   },
   "Fruängens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.28567,
+    "lon": 17.96542,
+    "stadsdel": null,
+    "kalla": "osm: Fruängens bibliotek"
   },
   "Gröndals bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.31613,
+    "lon": 18.01217,
+    "stadsdel": null,
+    "kalla": "osm: Gröndals bibliotek"
   },
   "Gubbängens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.26232,
+    "lon": 18.08416,
+    "stadsdel": null,
+    "kalla": "osm: Gubbängens bibliotek"
   },
   "Hagsätra bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.26191,
+    "lon": 18.01454,
+    "stadsdel": null,
+    "kalla": "osm: Hagsätra bibliotek"
   },
   "Hornstulls bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.31598,
+    "lon": 18.03507,
+    "stadsdel": null,
+    "kalla": "osm: Hornstulls bibliotek"
   },
   "Husby bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.40909,
+    "lon": 17.9262,
+    "stadsdel": null,
+    "kalla": "bibliotekets egen kartlänk på biblioteket.stockholm.se, Edvard Griegsgången 9 i Husby centrum"
   },
   "Hässelby gårds bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.36763,
+    "lon": 17.84372,
+    "stadsdel": null,
+    "kalla": "osm: Hässelby gårds bibliotek"
   },
   "Hässelby villastads bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.37985,
+    "lon": 17.81748,
+    "stadsdel": null,
+    "kalla": "osm: Hässelby villastads bibliotek"
   },
   "Högdalens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.26346,
+    "lon": 18.04257,
+    "stadsdel": null,
+    "kalla": "osm: Högdalens bibliotek"
   },
   "Kista bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.40217,
+    "lon": 17.94552,
+    "stadsdel": null,
+    "kalla": "osm: Kista bibliotek"
   },
   "Kungsholmens bibliotek Internationella biblioteket": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.33288,
+    "lon": 18.03129,
+    "stadsdel": null,
+    "kalla": "osm: Kungsholmens bibliotek"
   },
   "Lava, Kulturhuset": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.33204,
+    "lon": 18.06507,
+    "stadsdel": null,
+    "kalla": "adress från biblioteket.stockholm.se, \"Kulturhuset, Sergels torg\": Kulturhuset, Sergels Torg, Klara"
   },
   "Luma bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.30591,
+    "lon": 18.0969,
+    "stadsdel": null,
+    "kalla": "osm: Luma bibliotek"
   },
   "Norra Djurgårdsstadens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.35956,
+    "lon": 18.09508,
+    "stadsdel": null,
+    "kalla": "osm: Norra Djurgårdsstadens bibliotek"
   },
   "Rinkeby bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.38875,
+    "lon": 17.92707,
+    "stadsdel": null,
+    "kalla": "osm: Rinkeby bibliotek"
+  },
+  "Rum för barn, Kulturhuset": {
+    "lat": 59.33204,
+    "lon": 18.06507,
+    "stadsdel": null,
+    "kalla": "osm: Kulturhuset, Sergels torg. Avdelning i huset"
   },
   "Skarpnäcks bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.26778,
+    "lon": 18.12873,
+    "stadsdel": null,
+    "kalla": "osm: Skarpnäcks gårds bibliotek"
   },
   "Skärholmens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.276,
+    "lon": 17.90601,
+    "stadsdel": null,
+    "kalla": "osm: Skärholmens bibliotek"
   },
   "Sköndals bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.25566,
+    "lon": 18.11468,
+    "stadsdel": null,
+    "kalla": "osm: Sköndals Bibliotek"
   },
   "Stadsbiblioteket Spelbomskan": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.34327,
+    "lon": 18.05349,
+    "stadsdel": null,
+    "kalla": "osm: Stadsbiblioteket Spelbomskan"
   },
   "Stora Essingens bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.32094,
+    "lon": 17.98668,
+    "stadsdel": null,
+    "kalla": "osm: Essingeskolan, Essingestråket 24. Biblioteket ligger i skolans bottenvåning enligt biblioteket.stockholm.se"
   },
   "Telefonplans bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.29892,
+    "lon": 17.99666,
+    "stadsdel": null,
+    "kalla": "osm: Telefonplans bibliotek"
   },
   "Tensta bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.39541,
+    "lon": 17.8978,
+    "stadsdel": null,
+    "kalla": "osm: Tensta bibliotek"
   },
   "TioTretton, Kulturhuset": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.33204,
+    "lon": 18.06507,
+    "stadsdel": null,
+    "kalla": "osm: Kulturhuset, Sergels torg. Avdelning i huset"
   },
   "Tranströmerbiblioteket": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.31458,
+    "lon": 18.07293,
+    "stadsdel": null,
+    "kalla": "osm: Tranströmers bibliotek"
   },
   "Vällingby bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
-  },
-  "Älvsjö bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.36245,
+    "lon": 17.8705,
+    "stadsdel": null,
+    "kalla": "osm: Vällingby bibliotek"
   },
   "Årsta bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.29735,
+    "lon": 18.05157,
+    "stadsdel": null,
+    "kalla": "osm: Årsta bibliotek"
+  },
+  "Älvsjö bibliotek": {
+    "lat": 59.27817,
+    "lon": 18.00783,
+    "stadsdel": null,
+    "kalla": "osm: Älvsjö bibliotek"
   },
   "Örby bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.27519,
+    "lon": 18.02762,
+    "stadsdel": null,
+    "kalla": "osm: Örby bibliotek"
   },
   "Östberga bibliotek": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.28896,
+    "lon": 18.03338,
+    "stadsdel": null,
+    "kalla": "osm: Östberga Bibliotek"
   },
   "Östermalms bibliotek, Fältöversten": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.34011,
+    "lon": 18.09168,
+    "stadsdel": null,
+    "kalla": "osm: Östermalms bibliotek"
   }
 }

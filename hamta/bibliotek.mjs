@@ -38,7 +38,9 @@ async function fraga(variables) {
   const svar = await fetch(ENDPOINT, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ query: QUERY, variables })
+    body: JSON.stringify({ query: QUERY, variables }),
+    // Utan tak hänger en död anslutning för alltid, se kommentaren i kultur.mjs.
+    signal: AbortSignal.timeout(30_000)
   });
   if (!svar.ok) throw new Error(`Biblioteks-API svarade ${svar.status}. Kontrollera om API:et ändrats.`);
   const json = await svar.json();

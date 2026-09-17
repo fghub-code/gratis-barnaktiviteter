@@ -13,6 +13,10 @@ const BAS = 'https://kultur.stockholm/kalendarium/';
 const KATEGORI_BARN_OCH_FAMILJ = 279;
 const UA = 'gratis-barnaktiviteter (privat projekt)';
 
+// Utan tak hänger en död anslutning för alltid. Morgonjobbet den 2026-09-13
+// låste sig i 24 timmar innan GitHub avbröt det.
+const TIMEOUT_MS = 30_000;
+
 // Ord som betyder att evenemanget inte längre är giltigt. Söks bara i
 // faktarutan runt "Datum:", inte i hela sidan, för att undvika träff i
 // menyer eller nyhetslistor.
@@ -66,7 +70,7 @@ export function tolkaSida(html) {
 async function hamtaDetalj(url) {
   let svar;
   try {
-    svar = await fetch(url, { headers: { 'user-agent': UA } });
+    svar = await fetch(url, { headers: { 'user-agent': UA }, signal: AbortSignal.timeout(TIMEOUT_MS) });
   } catch {
     return null;
   }
@@ -108,7 +112,7 @@ export async function hamtaKultur(maxSidor = 15) {
   const rada = [];
   for (let sida = 1; sida <= maxSidor; sida++) {
     const url = `${BAS}?t=event&c=${KATEGORI_BARN_OCH_FAMILJ}&sida=${sida}`;
-    const svar = await fetch(url, { headers: { 'user-agent': UA } });
+    const svar = await fetch(url, { headers: { 'user-agent': UA }, signal: AbortSignal.timeout(TIMEOUT_MS) });
     if (!svar.ok) throw new Error(`kultur.stockholm svarade ${svar.status} på sida ${sida}.`);
     const poster = tolkaSida(await svar.text());
     if (!poster.length) break;

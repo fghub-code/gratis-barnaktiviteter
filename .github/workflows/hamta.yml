@@ -19,6 +19,9 @@ concurrency:
 jobs:
   bygg:
     runs-on: ubuntu-latest
+    # Körningen tar normalt under en minut. Taket är ett skyddsnät så att en
+    # hängd körning inte blockerar i 24 timmar som den 2026-09-13.
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}

@@ -19,9 +19,10 @@ npx serve webb              # eller valfri statisk server, kör i webb/
 hamta/alder.mjs       tolkning av ålder och pris, samt urvalsreglerna
 hamta/bibliotek.mjs   Stockholms stadsbibliotek, GraphQL
 hamta/kultur.mjs      kultur.stockholm, HTML
-hamta/platser.json    koordinater per bibliotek, ska fyllas i manuellt
+hamta/platser.json    koordinater per bibliotek
+hamta/platser-kultur.json  koordinater per kulturplats
+hamta/koordinater.mjs fyller koordinater i de två filerna, körs för hand
 hamta/index.mjs       kör allt, skriver webb/data/evenemang.json
-hamta/platser-kultur.json  koordinater per kulturplats, ska fyllas i manuellt
 webb/index.html       lista per dag, filter, kartflik
 webb/data/            genererad data, committas av GitHub Actions
 ```
@@ -40,12 +41,28 @@ webb/data/            genererad data, committas av GitHub Actions
 
 Varje kort följs sedan upp med ett anrop till sin detaljsida. Därifrån hämtas en kort beskrivning ur `og:description`, som oftast också innehåller åldern, samt plats och pris ur faktarutan. Saknas något behålls listans värde. Detaljsidor som ger 404 eller är märkta inställda tas bort. Det gör hämtningen långsammare, cirka 20 sekunder totalt.
 
+## Koordinater
+
+`hamta/platser.json` och `hamta/platser-kultur.json` håller en punkt per plats. Nyckeln är exakt den sträng hämtaren skrivit, så kör hämtaren först.
+
+```
+node hamta/koordinater.mjs
+```
+
+Skriptet lägger till nya platser som dykt upp i datan, och fyller bara poster där `lat` är null. En koordinat du rättat för hand rörs aldrig. Tre steg, i tur och ordning:
+
+1. **Overpass**, alla `amenity=library` i Stockholms kommun, matchas på namn. Tar de flesta biblioteken.
+2. **Gatuadressen från `biblioteket.stockholm.se`** för de bibliotek OSM saknar, som sedan geokodas.
+3. **Nominatim** på hela platsnamnet för kulturplatserna.
+
+Skriptet fyller bara i det som är entydigt. Namn som `Lava, Kulturhuset` har två led, och vilket som är den riktiga platsen går inte att avgöra maskinellt: i `Stadsmuseet, Slussen` är det ledet före kommat, i `Lava, Kulturhuset` det efter. Sådana listas som förslag att välja mellan för hand i stället för att gissas.
+
+Fältet `kalla` säger var varje punkt kommer ifrån. Står det `ungefärlig mittpunkt` är det en stadsdel, inte en byggnad. Granska alltid `git diff` efteråt.
+
 ## Kvar att göra
 
-1. **Fyll i `hamta/platser.json`.** Alla 38 bibliotek ligger där med `lat` och `lon` satta till null. Utan koordinater fungerar listan men kartan är tom. Slå upp dem en gång, till exempel via OpenStreetMap, och fyll i. Jag har medvetet inte gissat koordinater.
-2. **Fyll i `hamta/platser-kultur.json`.** Sju kulturplatser, samma sak. Nyckeln är den `plats`-sträng hämtaren skrivit, ibland en gatuadress, ibland bara "Gamla stan". Kör hämtaren först så syns vilka strängar som gäller.
-3. Stadsdel per arrangör, för filtret som ännu inte finns.
-4. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga. Detaljsidehämtningen la till två regexberoenden till, og-taggen och faktarutan.
+1. Stadsdel per arrangör, för filtret som ännu inte finns.
+2. Ett modellsteg som ersätter regeltolkningen i `alder.mjs` om reglerna visar sig för trubbiga. Detaljsidehämtningen la till två regexberoenden till, og-taggen och faktarutan.
 
 ## Drift
 

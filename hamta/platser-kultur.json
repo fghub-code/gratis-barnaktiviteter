@@ -1,37 +1,44 @@
 {
   "Gamla stan": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.32495,
+    "lon": 18.07064,
+    "stadsdel": null,
+    "kalla": "nominatim, ungefärlig mittpunkt: Gamla stan, Södermalms stadsdelsområde, Stockholms kommun"
   },
   "Skarpnäcks allé 25": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.2679,
+    "lon": 18.12892,
+    "stadsdel": null,
+    "kalla": "nominatim: Skarpnäcks Kulturhus, 25, Skarpnäcks Allé"
   },
   "Skarpnäcks kulturhus, Skarpnäcks allé 25": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
-  },
-  "Stadsmuseet, Källarstugan plan 1": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
-  },
-  "Stadsmuseet, Slussen": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.2679,
+    "lon": 18.12892,
+    "stadsdel": null,
+    "kalla": "osm: Skarpnäcks Kulturhus, Skarpnäcks allé 25"
   },
   "Stadsmuseet, hörsalen plan 2": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.31959,
+    "lon": 18.07126,
+    "stadsdel": null,
+    "kalla": "osm: Stadsmuseet i Stockholm. Rum i museet"
+  },
+  "Stadsmuseet, Källarstugan plan 1": {
+    "lat": 59.31959,
+    "lon": 18.07126,
+    "stadsdel": null,
+    "kalla": "osm: Stadsmuseet i Stockholm. Rum i museet"
+  },
+  "Stadsmuseet, Slussen": {
+    "lat": 59.31959,
+    "lon": 18.07126,
+    "stadsdel": null,
+    "kalla": "osm: Stadsmuseet i Stockholm"
   },
   "Vasastan": {
-    "lat": null,
-    "lon": null,
-    "stadsdel": null
+    "lat": 59.34135,
+    "lon": 18.04895,
+    "stadsdel": null,
+    "kalla": "nominatim, ungefärlig mittpunkt: Vasastaden, Norra innerstadens stadsdelsområde, Stockholm"
   }
 }

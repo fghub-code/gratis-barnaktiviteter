@@ -23,4 +23,6 @@ Biblioteksevenemang är alltid gratis, priset sätts hårdkodat per källa.
 
 Node 20, inga beroenden. Ingen databas, ingen server. GitHub Actions kör hämtaren varje morgon, committar `webb/data/evenemang.json` och publicerar `webb/` till GitHub Pages. `webb/` är självförsörjande, sidan läser `data/evenemang.json` relativt sig själv. Frontend är en statisk sida som läser den filen. Leaflet och OpenStreetMap till kartan, ingen nyckel.
 
-`hamta/platser.json` innehåller koordinater per bibliotek och fylls i för hand. `hamta/platser-kultur.json` gör samma sak per kulturplats, nyckeln är exakt den `plats`-sträng hämtaren skrivit. Gissa aldrig koordinater.
+`hamta/platser.json` innehåller koordinater per bibliotek, `hamta/platser-kultur.json` per kulturplats. Nyckeln är exakt den sträng hämtaren skrivit.
+
+`hamta/koordinater.mjs` fyller dem, körs för hand och aldrig från morgonjobbet. Overpass för bibliotek, gatuadress från biblioteket.stockholm.se för dem OSM saknar, Nominatim för kulturplatser. Det är uppslag, inte gissningar, och skriptet fyller bara poster där `lat` är null. **Gissa aldrig koordinater.** Är en plats tvetydig, som `Lava, Kulturhuset` där både `Lava` och `Kulturhuset` ger träff på olika ställen, ska skriptet föreslå och låta människan välja. Fältet `kalla` dokumenterar varje punkts ursprung.
