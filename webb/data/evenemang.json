@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-09-17T19:51:59.197Z",
+  "uppdaterad": "2026-09-17T20:03:27.107Z",
   "antal": 984,
   "kallor": {
     "Stockholms stadsbibliotek": {
@@ -3455,37 +3455,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-filmlordag-fuori--konsten-att-gladjas",
-      "titel": "Filmlördag: Fuori – konsten att glädjas",
-      "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
-      "arrangor": "Stockholms stad",
-      "plats": "Skarpnäcks kulturhus, Skarpnäcks allé 25",
-      "stadsdel": null,
-      "lat": 59.2679,
-      "lon": 18.12892,
-      "datum": "2026-09-26",
-      "slutdatum": "2026-09-26",
-      "starttid": "13:00",
-      "sluttid": "16:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": null,
-        "text": null,
-        "status": "okant"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "kul-familjevandring-i-gamla-stan2",
       "titel": "Familjevandring i Gamla stan",
       "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
@@ -3514,6 +3483,37 @@
       "underkategori": null,
       "bild": null,
       "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
+      "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "kul-filmlordag-fuori--konsten-att-gladjas",
+      "titel": "Filmlördag: Fuori – konsten att glädjas",
+      "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
+      "arrangor": "Stockholms stad",
+      "plats": "Skarpnäcks kulturhus, Skarpnäcks allé 25",
+      "stadsdel": null,
+      "lat": 59.2679,
+      "lon": 18.12892,
+      "datum": "2026-09-26",
+      "slutdatum": "2026-09-26",
+      "starttid": "13:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": null,
+        "text": null,
+        "status": "okant"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
       "kalla": "kultur.stockholm"
     },
     {
