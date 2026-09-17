@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-09-17T19:50:19.358Z",
+  "uppdaterad": "2026-09-17T19:51:59.197Z",
   "antal": 984,
   "kallor": {
     "Stockholms stadsbibliotek": {
@@ -3455,37 +3455,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-familjevandring-i-gamla-stan2",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-09-26",
-      "slutdatum": "2026-09-26",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "kul-filmlordag-fuori--konsten-att-gladjas",
       "titel": "Filmlördag: Fuori – konsten att glädjas",
       "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
@@ -3514,6 +3483,37 @@
       "underkategori": null,
       "bild": null,
       "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
+      "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "kul-familjevandring-i-gamla-stan2",
+      "titel": "Familjevandring i Gamla stan",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
+      "arrangor": "Medeltidsmuseet",
+      "plats": "Gamla stan",
+      "stadsdel": null,
+      "lat": 59.32495,
+      "lon": 18.07064,
+      "datum": "2026-09-26",
+      "slutdatum": "2026-09-26",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 5,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 50,
+        "text": "50 kr",
+        "status": "kostar"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
       "kalla": "kultur.stockholm"
     },
     {
