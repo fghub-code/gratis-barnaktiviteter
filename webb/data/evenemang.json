@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-09-17T20:03:27.107Z",
-  "antal": 984,
+  "uppdaterad": "2026-09-18T04:07:39.302Z",
+  "antal": 983,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 944,
+      "antal": 943,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,37 +13,6 @@
   },
   "utan_koordinat": 0,
   "evenemang": [
-    {
-      "id": "bib-54540",
-      "titel": "Rösta på barnens drömbibliotek!",
-      "beskrivning": "Rösta på barnens drömbibliotek!\nNu startar omröstningen där du kan rösta på ritade förslag från barn i åldrarna 6–12 år. Bidragen har samlats in under maj–augusti i år. Kom och titta på alla fantastiska idéer och lägg en röst på det förslag du gillar bäst!\nRöstningen pågår från 6 september till och med 31 september under bibliotekets öppettider. Vilket förslag ska vinna tävlingen? Var med och avgör.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-09-17",
-      "slutdatum": "2026-09-17",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Frågesport",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_03_T000830_845_4e9ba81e2c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/rosta-pa-barnens-drombibliotek-13",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-54541",
       "titel": "Rösta på barnens drömbibliotek!",
@@ -3455,37 +3424,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-familjevandring-i-gamla-stan2",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-09-26",
-      "slutdatum": "2026-09-26",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "kul-filmlordag-fuori--konsten-att-gladjas",
       "titel": "Filmlördag: Fuori – konsten att glädjas",
       "beskrivning": "Fuori – konsten att glädjas är en biografisk dramafilm om en författare i fängelse som hittar frihet genom kvinnors vänskap. Seniorer får fika efter filmvisningen.",
@@ -3514,6 +3452,37 @@
       "underkategori": null,
       "bild": null,
       "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/09/filmlordag-fuori--konsten-att-gladjas/",
+      "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "kul-familjevandring-i-gamla-stan2",
+      "titel": "Familjevandring i Gamla stan",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
+      "arrangor": "Medeltidsmuseet",
+      "plats": "Gamla stan",
+      "stadsdel": null,
+      "lat": 59.32495,
+      "lon": 18.07064,
+      "datum": "2026-09-26",
+      "slutdatum": "2026-09-26",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 5,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 50,
+        "text": "50 kr",
+        "status": "kostar"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/09/familjevandring-i-gamla-stan2/",
       "kalla": "kultur.stockholm"
     },
     {
