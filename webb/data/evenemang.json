@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-09-22T04:07:29.736Z",
-  "antal": 970,
+  "uppdaterad": "2026-09-23T04:07:21.484Z",
+  "antal": 960,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 904,
+      "antal": 894,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,285 +13,6 @@
   },
   "utan_koordinat": 3,
   "evenemang": [
-    {
-      "id": "bib-54856",
-      "titel": "Digital sagostund med TAKK! Tema: Fredsdagen",
-      "beskrivning": "Välkommen på en digital sagostund med TAKK på tisdagen 22 september kl.13.30 via Zoom! Internationella fredsdagen äger rum 21 september varje år. Vi uppmärksammar denna dag på tisdagen med att läsa bilderboken \"Min vän Jim\" av Kitty Crowther. Under sagostunden använder vi TAKK (tecken som alternativ och kompletterande kommunikation). Ni deltar från hemmet eller verksamheten. Programmet rekommenderas för åldern 3-6 år och för personer med funktionsnedsättning. \nAnmäl er genom att fylla i formuläret här nedanför.\nEn länk till Zoom skickas ut senast dagen innan sagostunden äger rum.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "13:30",
-      "sluttid": "14:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "TAKK",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_05_T225320_565_4b43cf3229.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/digital-sagostund-med-takk-tema-fredsdagen-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54012",
-      "titel": "Tisdagspyssel",
-      "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "15:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Tisdagspyssel_1ceb368ef3.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagspyssel-17",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49332",
-      "titel": "Syjunta på bibblan",
-      "beskrivning": "Välkommen till syjunta på Hagsätra bibliotek!\n\nTa med ditt eget handarbete och träffa andra som gillar att sy, sticka, virka, brodera eller pyssla med textil. Vi handarbetar tillsammans, inspirerar varandra, delar tips och umgås i en kreativ och avslappnad miljö.\n\nAlla åldrar och nivåer är välkomna – både nybörjare och vana handarbetare. Ta med eget material. Vi ordnar handarbetsböcker för inspiration och idéer.\n\nDrop-in, ingen föranmälan krävs.\n\nVarmt välkommen!",
-      "arrangor": "Hagsätra bibliotek",
-      "plats": "Hagsätra bibliotek",
-      "stadsdel": null,
-      "lat": 59.26191,
-      "lon": 18.01454,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_syjunta_HT_26_fab782f051.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/syjunta-pa-bibblan-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52347",
-      "titel": "Kreativ timme för 3-6 år",
-      "beskrivning": "Vi bygger, skapar och utforskar i bibliotekets ateljé och filmrum. Ingen föranmälan.\n\nPlatsantalet är begränsat till 10 barn.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Kreativa_timmen_7241c048fb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-timme-for-3-6-ar-13",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53880",
-      "titel": "Läxhjälp på Hässelby villastads bibliotek",
-      "beskrivning": "Vill du ha hjälp med läxor och skolarbeten? Går du på låg, mellan eller högstadiet, eller gymnasiet? Hos oss kan du få hjälp i alla ämnen för alla stadier, ta med dina läxor och kom och träffa våra duktiga volontärer!",
-      "arrangor": "Hässelby villastads bibliotek",
-      "plats": "Hässelby villastads bibliotek",
-      "stadsdel": null,
-      "lat": 59.37985,
-      "lon": 17.81748,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_laexhjaelp_webb_1505d3c579.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-pa-hasselby-villastads-bibliotek-92",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52229",
-      "titel": "Kreativ eftermiddag!",
-      "beskrivning": "Varmt välkommen till Kreativ eftermiddag där vi utforskar olika uttryckssätt med inspiration från bilderböcker och konst. I ateljén utforskar vi olika material och tekniker! Varierande innehåll från vecka till vecka. För åldern 3-6 år. Vi ses varannan vecka i ateljén med start 8/9. Drop-in!",
-      "arrangor": "Östermalms bibliotek, Fältöversten",
-      "plats": "Östermalms bibliotek, Fältöversten",
-      "stadsdel": null,
-      "lat": 59.34011,
-      "lon": 18.09168,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Sagostund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kreativ_eftermiddag_3_6_ar_a0030a962f.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-eftermiddag-23",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53671",
-      "titel": "Räknestuga med Mattecentrum",
-      "beskrivning": "Vill du ha hjälp med matten? Kom och få gratis hjälp av volontärer från Mattecentrum! Vi hjälper till med matteläxor upp till och med gymnasienivå. Mattecentrum är en ideell förening som driver räknestugor runt om i Sverige. Alla är välkomna oavsett ålder eller vilken skola man går i. Går du i grundskolan, på gymnasiet, komvux eller är förälder som vill repetera för att hjälpa sina barn? Alla är välkomna!",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Laexhjaelpen_c735e85d93.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/raknestuga-med-mattecentrum-140",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52928",
-      "titel": "Läxhjälp",
-      "beskrivning": "Välkommen på vår läxhjälp med engagerade volontärer från Röda Korset! Aktiviteten är för dig som studerar på grundskolan, gymnasiet, komvux och SFI. Ingen föranmälan behövs, det är bara att komma.",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "17:00",
-      "sluttid": "19:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1283",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54203",
-      "titel": "Guillaume Perreault om Planetbudet Bobs äventyr",
-      "beskrivning": "Brevbäraren Bob tar varje dag sitt rymdskepp för att leverera brev och paket till galaxens alla hörn... Eller, åtminstone till de hörn och planeter som han känner till. För Bob gillar inte direkt överraskningar. OCH överraskningar finns det gott om i universum En morgon när Bob kommer till jobbet förändras allt. Plötsligt måste Bob ta en helt annan runda än den han är van vid.",
-      "arrangor": "Hornstulls bibliotek",
-      "plats": "Hornstulls bibliotek",
-      "stadsdel": null,
-      "lat": 59.31598,
-      "lon": 18.03507,
-      "datum": "2026-09-22",
-      "slutdatum": "2026-09-22",
-      "starttid": "18:00",
-      "sluttid": "19:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokpresentation",
-      "underkategori": "Författarträff",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_mergepictures_net_merged_1787851422_1_1_9908252667.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/guillaume-perreault-om-planetbudet-bobs-aventyr-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-49204",
       "titel": "Babysång",
@@ -12104,37 +11825,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52478",
-      "titel": "Läxhjälp",
-      "beskrivning": "Välkommen på vår läxhjälp med engagerade volontärer från Röda Korset! Aktiviteten är för dig som studerar på grundskolan, gymnasiet, komvux och SFI. Ingen föranmälan behövs, det är bara att komma! OBS! Biblioteket stänger för allmänheten kl. 18.00 och har en timme extra öppet endast för deltagare på läxhjälpen.",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-26",
-      "slutdatum": "2026-10-26",
-      "starttid": "17:00",
-      "sluttid": "18:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Laexhjaelpen_c735e85d93.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1272",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54854",
       "titel": "Funkamix! Festivaldag för funkis i åldern 7-25 år!",
       "beskrivning": "Välkommen på en festivaldag för dig som har en funktionsnedsättning och är mellan 7-25 år! Ta del av aktiviteter och information från ett 30-tal olika aktörer i Skärholmen och Stockholms regionen, inom kultur och sport med mera. Det är drop-in till alla aktiviteter förutom filmvisningen på Skärisbiografen. Allt är gratis.\nDagen äger rum på tre platser i Skärholmen:\nSim- och idrottshallen i Skärholmen,\nKulturhuset stadsteatern i Skärholmen och FOLK i Skärholmen. Under rubriken \" information\" beskrivs festivaldagen. Mer info om alla aktiviteter och medverkande kommer i slutet av september.",
@@ -17467,37 +17157,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-49945",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
-      "arrangor": "Hornstulls bibliotek",
-      "plats": "Hornstulls bibliotek",
-      "stadsdel": null,
-      "lat": 59.31598,
-      "lon": 18.03507,
-      "datum": "2026-11-14",
-      "slutdatum": "2026-11-14",
-      "starttid": "10:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 11,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Autism_4a2475775e.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-pa-hornstulls-bibliotek-23",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-55202",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Bagarmossens bibliotek har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) en lördag i månaden. Varmt välkommen!",
@@ -17526,6 +17185,37 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-205",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-49945",
+      "titel": "Extraöppet för familjer med NPF",
+      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
+      "arrangor": "Hornstulls bibliotek",
+      "plats": "Hornstulls bibliotek",
+      "stadsdel": null,
+      "lat": 59.31598,
+      "lon": 18.03507,
+      "datum": "2026-11-14",
+      "slutdatum": "2026-11-14",
+      "starttid": "10:00",
+      "sluttid": "11:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 11,
+        "kalla": "spann utan enhet"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Funktionsnedsättning",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Autism_4a2475775e.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-pa-hornstulls-bibliotek-23",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
