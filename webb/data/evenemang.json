@@ -1,173 +1,18 @@
 {
-  "uppdaterad": "2026-09-29T04:07:33.007Z",
-  "antal": 906,
+  "uppdaterad": "2026-09-30T04:08:32.207Z",
+  "antal": 905,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 844,
+      "antal": 842,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 66,
+      "antal": 67,
       "fel": null
     }
   },
-  "utan_koordinat": 3,
+  "utan_koordinat": 4,
   "evenemang": [
-    {
-      "id": "bib-54013",
-      "titel": "Tisdagspyssel",
-      "beskrivning": "Varje tisdag är det skaparverkstad för alla barn. Välkommen att prova olika sorters pyssel och var med och bestäm vad vi ska göra nästa gång!",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "15:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Tisdagspyssel_1ceb368ef3.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tisdagspyssel-18",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53220",
-      "titel": "Tema: Enhörningar!",
-      "beskrivning": "Välkommen till en magisk eftermiddag med enhörningstema på biblioteket! Vi inleder kl. 15.30 med en mysig sagostund för barn 2–3 år. Kl. 15.45 fortsätter vi med sagostund för barn 4–6 år,\nFrån kl. 16.00-17.00 är det dags att släppa loss kreativiteten, då barnen får pyssla och skapa sina egna enhörningshorn av äggkartonger.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 2,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_10_446e448a7f.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tema-enhorningar-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53881",
-      "titel": "Läxhjälp på Hässelby villastads bibliotek",
-      "beskrivning": "Vill du ha hjälp med läxor och skolarbeten? Går du på låg, mellan eller högstadiet, eller gymnasiet? Hos oss kan du få hjälp i alla ämnen för alla stadier, ta med dina läxor och kom och träffa våra duktiga volontärer!",
-      "arrangor": "Hässelby villastads bibliotek",
-      "plats": "Hässelby villastads bibliotek",
-      "stadsdel": null,
-      "lat": 59.37985,
-      "lon": 17.81748,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_laexhjaelp_webb_1505d3c579.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-pa-hasselby-villastads-bibliotek-93",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53672",
-      "titel": "Räknestuga med Mattecentrum",
-      "beskrivning": "Vill du ha hjälp med matten? Kom och få gratis hjälp av volontärer från Mattecentrum! Vi hjälper till med matteläxor upp till och med gymnasienivå. Mattecentrum är en ideell förening som driver räknestugor runt om i Sverige. Alla är välkomna oavsett ålder eller vilken skola man går i. Går du i grundskolan, på gymnasiet, komvux eller är förälder som vill repetera för att hjälpa sina barn? Alla är välkomna!",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Laexhjaelpen_c735e85d93.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/raknestuga-med-mattecentrum-141",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52929",
-      "titel": "Läxhjälp",
-      "beskrivning": "Välkommen på vår läxhjälp med engagerade volontärer från Röda Korset! Aktiviteten är för dig som studerar på grundskolan, gymnasiet, komvux och SFI. Ingen föranmälan behövs, det är bara att komma.",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-09-29",
-      "slutdatum": "2026-09-29",
-      "starttid": "17:00",
-      "sluttid": "19:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1284",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-54992",
       "titel": "Anpassad skola: Sinnenas promenad",
@@ -1309,7 +1154,7 @@
         "text": "Gratis",
         "status": "gratis"
       },
-      "kategori": "Funktionsnedsättning",
+      "kategori": "Sagostund",
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Namnloes_design_3_675d90ca42.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-1",
@@ -6331,7 +6176,7 @@
         "text": "Gratis",
         "status": "gratis"
       },
-      "kategori": "Funktionsnedsättning",
+      "kategori": "Sagostund",
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Namnloes_design_3_675d90ca42.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-3",
@@ -9779,6 +9624,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55393",
+      "titel": "Läslov: Spooky doodle på Östberga bibliotek",
+      "beskrivning": "Välkommen på en riktigt spooky skapandeaktivitet! Under tre dagar klär vi in golv och väggar i papp, tar fram pennor, släcker ner ljuset, lyssnar på kuslig musik och doodlar loss. Inomhusgrafitti, men ett stänk av Halloween helt enkelt! Ingen föranmälan behövs, kom som du är.",
+      "arrangor": "Östberga bibliotek",
+      "plats": "Östberga bibliotek",
+      "stadsdel": null,
+      "lat": 59.28896,
+      "lon": 18.03338,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "13:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Strapibilder_5_f8ca09c893.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laslov-spooky-doodle-pa-ostberga-bibliotek-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2",
       "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
       "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
@@ -10089,6 +9965,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "kul-bokbytardag-i-parkleken-bjorns-tradgard",
+      "titel": "Bokbytardag i parkleken Björns trädgård",
+      "beskrivning": "Gamla böcker hemma? Kom och byt till dig nya!",
+      "arrangor": "Ung i Stockholm",
+      "plats": "Parkleken Björns trädgård, Götgatan 45",
+      "stadsdel": null,
+      "lat": null,
+      "lon": null,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "10:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": null,
+        "text": null,
+        "status": "okant"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://ung.stockholm/aktuellt/kalendarium/2026/10/bokbytardag-i-parkleken-bjorns-tradgard/",
+      "kalla": "kultur.stockholm"
+    },
+    {
       "id": "bib-55301",
       "titel": "Bebis på bibblan",
       "beskrivning": "Nybliven förälder i Sjöstaden? Kom på bebisträff på Luma bibliotek! Vi rimmar och ramsar, läser en dramatiserad bilderbok och pratar om barns språkutveckling. Dessutom får ni boktips som passar era bebisar. Träffen är ett trevligt tillfälle att lära känna biblioteket och möta andra småbarnsföräldrar. Ibland är en föräldragrupp inbjuden från BVC utöver er som kommer på drop-in. Passar dig med barn 0-12 månader.",
@@ -10210,6 +10117,37 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-54",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55394",
+      "titel": "Läslov: Spooky doodle på Östberga bibliotek",
+      "beskrivning": "Välkommen på en riktigt spooky skapandeaktivitet! Under tre dagar klär vi in golv och väggar i papp, tar fram pennor, släcker ner ljuset, lyssnar på kuslig musik och doodlar loss. Inomhusgrafitti, men ett stänk av Halloween helt enkelt! Ingen föranmälan behövs, kom som du är.",
+      "arrangor": "Östberga bibliotek",
+      "plats": "Östberga bibliotek",
+      "stadsdel": null,
+      "lat": 59.28896,
+      "lon": 18.03338,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "13:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Strapibilder_5_f8ca09c893.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laslov-spooky-doodle-pa-ostberga-bibliotek-2",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -10521,6 +10459,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/jakten-pa-jack2222/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55396",
+      "titel": "Läslov: Spooky doodle på Östberga bibliotek",
+      "beskrivning": "Välkommen på en riktigt spooky skapandeaktivitet! Under tre dagar klär vi in golv och väggar i papp, tar fram pennor, släcker ner ljuset, lyssnar på kuslig musik och doodlar loss. Inomhusgrafitti, men ett stänk av Halloween helt enkelt! Ingen föranmälan behövs, kom som du är.",
+      "arrangor": "Östberga bibliotek",
+      "plats": "Östberga bibliotek",
+      "stadsdel": null,
+      "lat": 59.28896,
+      "lon": 18.03338,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "13:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Strapibilder_5_f8ca09c893.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laslov-spooky-doodle-pa-ostberga-bibliotek-4",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-54088",
