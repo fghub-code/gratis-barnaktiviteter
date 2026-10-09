@@ -1,576 +1,18 @@
 {
-  "uppdaterad": "2026-10-08T11:06:08.063Z",
-  "antal": 854,
+  "uppdaterad": "2026-10-09T11:05:10.206Z",
+  "antal": 860,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 791,
+      "antal": 798,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 67,
+      "antal": 66,
       "fel": null
     }
   },
   "utan_koordinat": 12,
   "evenemang": [
-    {
-      "id": "bib-38994",
-      "titel": "Världsdyslexidagen: Bokstavsjakten på biblioteket",
-      "beskrivning": "Vi uppmärksammar Världsdyslexidagen 8 oktober med olika aktiviteter!\nHjälp ord och bokstäver har försvunnit på biblioteket? Lyckas du hitta alla bokstäver?\nDetta pågår under hela dagen. Lycka till.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "Frågesport",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_43_0cc065e657.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/varldsdyslexidagen-bokstavsjakten-pa-biblioteket-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-klimatfestival-for-17-i-skarpnacks-kulturhus2",
-      "titel": "Klimatfestival för 17 i Skarpnäcks kulturhus",
-      "beskrivning": "\"Klimatfestivalen 2026 – inspirera, lär och agera för klimatet! 7–18 oktober.",
-      "arrangor": "Stockholms stad",
-      "plats": "Skarpnäcks allé 25",
-      "stadsdel": null,
-      "lat": 59.2679,
-      "lon": 18.12892,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "10:00",
-      "sluttid": "17:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 18,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": null,
-        "text": null,
-        "status": "okant"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/10/klimatfestival-for-17-i-skarpnacks-kulturhus2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "bib-52414",
-      "titel": "Svenska med baby",
-      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 2,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Rim och ramsor",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-218",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55299",
-      "titel": "Dyslexidagen- föreläsning och workshop med logoped",
-      "beskrivning": "Vi uppmärksammar Dyslexidagen med olika aktiviteter!\nVälkommen på en föreläsning om dyslexi, språkutveckling och språkstörning med logopeden Hanan. Efteråt blir det en lekfull och lärorik workshop om språk, ord och bokstäver. Biblioteket bjuder på fika!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "13:00",
-      "sluttid": "14:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Föreläsning",
-      "underkategori": "Funktionsnedsättning",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_8_90be7cce26.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/program-pa-dyslexidagen-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53829",
-      "titel": "Legimusregistrering",
-      "beskrivning": "Om du har en funktionsnedsättning som gör det svårt för dig att läsa tryckt text kan du ha rätt till Legimus; ett digitalt bibliotek med talböcker och e-textböcker. Nedanför bokar du tid för att få introduktion och underteckna avtal. Ha med dig giltig legitimation och telefon, surfplatta eller dator. Du kan även komma på drop in, men för att vara säker på att vi har tid och möjlighet att hjälpa dig så erbjuds dessa tider. Är du vårdnadshavare till ett barn som har rätt till Legimus är det bra om båda två kommer. Barnet behöver en giltig e-postadress för att kunna få ett inlogg.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "14:00",
-      "sluttid": "14:30",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-233",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53866",
-      "titel": "Legimusregistrering",
-      "beskrivning": "Om du har en funktionsnedsättning som gör det svårt för dig att läsa tryckt text kan du ha rätt till Legimus; ett digitalt bibliotek med talböcker och e-textböcker. Nedanför bokar du tid för att få introduktion och underteckna avtal. Ha med dig giltig legitimation och telefon, surfplatta eller dator. Du kan även komma på drop in, men för att vara säker på att vi har tid och möjlighet att hjälpa dig så erbjuds dessa tider. Är du vårdnadshavare till ett barn som har rätt till Legimus är det bra om båda två kommer. Barnet behöver en giltig e-postadress för att kunna få ett inlogg.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "14:30",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hornstull_Legimus_1cd2a920d9.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/legimusinskrivning-251",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55007",
-      "titel": "Sångsaga",
-      "beskrivning": "Program för barn 0-2 år och deras vuxna. Fri entré men förbokning krävs.\nVi läser, låter och sjunger en pekbok tillsammans. Avslutas med boktips.",
-      "arrangor": "Rum för barn, Kulturhuset",
-      "plats": "Rum för barn, Kulturhuset",
-      "stadsdel": null,
-      "lat": 59.33204,
-      "lon": 18.06507,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "14:30",
-      "sluttid": "14:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 2,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sångstund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sangsaga_1200x630_bibliotekssidor_9ffe0ad1a7.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sangsaga-23",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51133",
-      "titel": "Kreativ torsdag på Östberga bibliotek",
-      "beskrivning": "En skapandeverkstad för dig som är mellan 7 och 13 år gammal. Varje torsdag! Ingen föranmälan krävs.",
-      "arrangor": "Östberga bibliotek",
-      "plats": "Östberga bibliotek",
-      "stadsdel": null,
-      "lat": 59.28896,
-      "lon": 18.03338,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 13,
-        "kalla": "mellan x och y i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_1_8e92524472.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-pa-ostberga-bibliotek-114",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51944",
-      "titel": "Läxhjälp",
-      "beskrivning": "Vill du ha hjälp med dina läxor? \nKom och få hjälp av volontärer från Röda\nKorset. \nDu kan få hjälp med alla ämnen upp till\ngymnasienivå.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "15:30",
-      "sluttid": "17:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1250",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51636",
-      "titel": "Torsdagsklubben",
-      "beskrivning": "Kom och skapa med oss på torsdagar efter skolan! Vi använder konst och böcker som inspiration, och kommer att testa olika material och tekniker, pyssla loss och såklart fika. Drop in. Vi stänger dörren 10 minuter efter start.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "15:30",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Bild_evenemang_hemsidan_aa7105d938.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-149",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52429",
-      "titel": "Högläsning",
-      "beskrivning": "Varje onsdag kl. 16 ses vi på barnavdelningen för en stunds högläsning! Ingen föranmälan behövs. Sagostunden passar barn i åldern 3-6 år men yngre och äldre syskon är såklart också välkomna!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "16:00",
-      "sluttid": "16:15",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_1_dafb6d607c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/hoglasning-75",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53936",
-      "titel": "Kreativ torsdag",
-      "beskrivning": "Välkommen att skapa och pyssla tillsammans på biblioteket. Vi ses vid stora bordet vid fönstret! Ingen föranmälan, men kom gärna i tid! \nBibblan bjuder på fika :-)",
-      "arrangor": "Enskede bibliotek",
-      "plats": "Enskede bibliotek",
-      "stadsdel": null,
-      "lat": 59.28539,
-      "lon": 18.09432,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_kreativtorsdag_webben_0d52c7d1a4.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-torsdag-63",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54479",
-      "titel": "Läxhjälp med Mattecentrum",
-      "beskrivning": "Behöver du hjälp med matteläxan? Välkommen till Blackebergs bibliotek för att träffa Mattecentrums volontärer.\n\nIngen läxhjälp under lovveckorna.",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": 59.34777,
-      "lon": 17.88438,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "16:00",
-      "sluttid": "17:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-med-mattecentrum-79",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50863",
-      "titel": "Läxhjälp",
-      "beskrivning": "Vill du ha hjälp med dina läxor? Kom och få hjälp av volontärer från Röda korset! Du kan få hjälp med alla ämnen upp till gymnasienivå. Alla är välkomna oavsett ålder eller vilken skola man går i.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "17:00",
-      "sluttid": "19:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1220",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54323",
-      "titel": "Läxhjälp med Mattecentrum",
-      "beskrivning": "Vill du ha hjälp med matten? Kom och får gratis hjälp av volontärer från Mattecentrum! Vi hjälper till med matteläxor upp till gymnasienivå. Mattecentrum är en ideel förening som driver räknestugor runt om i Sverige. Alla är välkomna oavsett vilken ålder eller vilken skola man går i. Går du i grundskolan, på gymnasiet, komvux eller är förälder som vill repetera för att hjälpa dina barn? Alla är välkomna!",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-10-08",
-      "slutdatum": "2026-10-08",
-      "starttid": "17:00",
-      "sluttid": "19:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Matte_laexhjaelp_5586d7c147.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-med-mattecentrum-65",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49609",
-      "titel": "Pekboksklubb på Stadsbiblioteket Spelbomskan",
-      "beskrivning": "Välkommen med ditt barn 0-3 år! Tillsammans upptäcker vi böckernas värld!\nKom och ha kul med oss. På Pekboksklubben leker vi fram språkutvecklingen genom att läsa enkla, roliga\nsmåbarnsböcker. Vi ramsar och sjunger tillsammans. \nKl. 10.00-11.00.\nDrop in.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "10:00",
-      "sluttid": "11:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 3,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pekboksklubb_33a44104c4.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/pekboksklubb-pa-stadsbiblioteket-spelbomskan-46",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-53299",
-      "titel": "Babysång",
-      "beskrivning": "Vi sjunger och ramsar tillsammans.\nVälkomna!",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "10:30",
-      "sluttid": "11:00",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 1,
-        "kalla": "månadsålder i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sångstund",
-      "underkategori": "Rim och ramsor",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babysang_hemsida_hoesten_2026_c1055661c7.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/babysang-179",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50947",
-      "titel": "Sångstund för 0-2 år",
-      "beskrivning": "Sångstund för 0-2 år! Vi sjunger och ramsar ihop med små barn och deras föräldrar eller andra stora. En bibliotekarie leder sång, ramsa och tipsar om några småbarnsböcker att läsa hemma. Vi avslutar med såpbubblor. Ingen föranmälan. Varmt välkomna!",
-      "arrangor": "Högdalens bibliotek",
-      "plats": "Högdalens bibliotek",
-      "stadsdel": null,
-      "lat": 59.26346,
-      "lon": 18.04257,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "11:00",
-      "sluttid": "11:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 2,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sångstund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Sang_och_saga_0_2_ar_42414bdb97.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sangstund-for-0-2-ar-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-52832",
       "titel": "Fredagsmys",
@@ -3858,6 +3300,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55612",
+      "titel": "Parallellspråkigt program- svenska och arabiska!",
+      "beskrivning": "Välkommen på en läsfrämjande eftermiddag där svenska och arabiska står i centrum! I samarbete med modersmålsläraren Zainah bjuder vi in till sagostund, boksamtal och skapande.\nFör barn 6-10 år. Drop in.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-18",
+      "slutdatum": "2026-10-18",
+      "starttid": "13:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": 10,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": "Skaparverkstad",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_08_T221557_430_23cb424d1a.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/parallellsprakigt-program-svenska-och-arabiska-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51394",
       "titel": "Sagostund på thailändska",
       "beskrivning": "Välkommen till sagostund på thailändska! \nยินดีต้อนรับสู่ช่วงเวลาเล่านิทานภาษาไทย\nEn mysig stund för barn och familj tillsammans.\nIngen föranmälan behövs!",
@@ -4447,37 +3920,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52349",
-      "titel": "Kreativ timme för 3-6 år",
-      "beskrivning": "Vi bygger, skapar och utforskar i bibliotekets ateljé och filmrum. Ingen föranmälan.\n\nPlatsantalet är begränsat till 10 barn.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-10-20",
-      "slutdatum": "2026-10-20",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Kreativa_timmen_7241c048fb.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-timme-for-3-6-ar-15",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-53884",
       "titel": "Läxhjälp på Hässelby villastads bibliotek",
       "beskrivning": "Vill du ha hjälp med läxor och skolarbeten? Går du på låg, mellan eller högstadiet, eller gymnasiet? Hos oss kan du få hjälp i alla ämnen för alla stadier, ta med dina läxor och kom och träffa våra duktiga volontärer!",
@@ -4785,6 +4227,37 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-53",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55608",
+      "titel": "Vernissage: utställning på tema fred med Askebyskolan",
+      "beskrivning": "Välkomna på vernissage för en ny utställning framtagen av klass 5A och 5B på Askebyskolan i samarbete med Rinkebys ständige läsfrämjare Gunilla Lundgren. Utställningen har tema fred och barnen har använt sig av fri fantasi, mycket färg och sina många olika modersmål. På vernissaget har ni möjlighet att träffa de unga skaparna bakom verken. Viktigt, vackert, hoppfullt!",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-21",
+      "slutdatum": "2026-10-21",
+      "starttid": "14:30",
+      "sluttid": "15:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Utställning",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Vernissage_fred_Rinkeby_b060aeb32a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/vernissage-utstallning-pa-tema-fred-med-askebyskolan-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6617,6 +6090,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55615",
+      "titel": "Sagostund",
+      "beskrivning": "En mysig stund för hela familjen, bibliotekarie Samira läser sagor! För barn ca 2-7 år med familj.",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "13:00",
+      "sluttid": "14:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 2,
+        "till": 7,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Torsdags_Sagostund_c0d3879a94.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-478",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55073",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -6648,24 +6152,24 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-55500",
-      "titel": "Högläsning: Välj väg ur dimman!",
-      "beskrivning": "Vad skulle du göra om du plötsligt hamnade i en mystisk dimma – och själv fick bestämma vilken väg du skulle ta?\nI Välj väg ur dimman av Petter Malmehed är det du som är med och styr berättelsen. Under högläsningen får du göra olika val som leder vidare till nya vägar och oväntade händelser. Vilken väg väljer du? Och kommer du att hitta ut ur dimman?\nUnder berättelsens gång förändras också ljuset i rummet, och tillsammans med berättelsen skapas en stämningsfull och spännande upplevelse.\nVågar du välja väg?\nÅlder 6-9 år. Drop in.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
+      "id": "bib-55631",
+      "titel": "Interaktiv sagostund: Maraton!",
+      "beskrivning": "Hur känns det i magen när man står på startlinjen och väntar på att få springa iväg? I denna interaktiva sagostund utforskar vi Karin Cyréns bilderbok ”Maraton” tillsammans med lekfulla inslag om att kämpa, vänta på sin tur och ha roligt ihop. En varm och engagerande stund för alla små löpare och lyssnare!",
+      "arrangor": "Norra Djurgårdsstadens bibliotek",
+      "plats": "Norra Djurgårdsstadens bibliotek",
       "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
+      "lat": 59.35956,
+      "lon": 18.09508,
       "datum": "2026-10-26",
       "slutdatum": "2026-10-26",
       "starttid": "14:00",
-      "sluttid": "15:00",
+      "sluttid": "14:30",
       "aterkommande": false,
       "kraverBokning": false,
       "alder": {
-        "fran": 6,
-        "till": 9,
-        "kalla": "spann i text"
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
       },
       "pris": {
         "lagsta": 0,
@@ -6673,9 +6177,40 @@
         "status": "gratis"
       },
       "kategori": "Sagostund",
-      "underkategori": "Bokpresentation",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_dimman_9d9f5185ce.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/hoglasning-valj-ditt-aventyr-1",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Nyhetsbrev_webb_1920_x_1005_px_1200_x_630_px_48_ddcd53d58a.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/interaktiv-sagostund-maraton-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55634",
+      "titel": "Ryslig högläsning",
+      "beskrivning": "Vågar du lyssna när det prasslar i mörkret? Välkommen till en ryslig högläsning för dig som är från 6 år och uppåt! Vi bjuder in till en stund fylld av spänning, mystiska händelser och berättelser som kittlar riktigt skönt i magen.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "15:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_4_81bec76221.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ryslig-hoglasning-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6741,9 +6276,9 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52339",
-      "titel": "Öppen ateljé för 6-106-åringar",
-      "beskrivning": "Välkommen till Öppen Ateljé, en plats där du kan låta din kreativitet flöda! Här får du möjlighet att skapa och experimentera med tekniker och materialet som finns i ateljén. Kom som du är, inga förkunskaper behövs!",
+      "id": "bib-55635",
+      "titel": "Ryslig öppen ateljé 6–106 år",
+      "beskrivning": "Välkommen till en Ryslig öppen ateljé där fantasi möter rysningar för alla åldrar – från 6 till 106 år! Oavsett om du är ett vant proffs i ateljén eller bara vill ha en rolig stund i höstmörkret dukar vi upp till en spökande och kreativ verkstad.",
       "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
       "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
@@ -6753,7 +6288,7 @@
       "slutdatum": "2026-10-26",
       "starttid": "16:00",
       "sluttid": "17:30",
-      "aterkommande": true,
+      "aterkommande": false,
       "kraverBokning": false,
       "alder": {
         "fran": null,
@@ -6768,7 +6303,7 @@
       "kategori": "Skaparverkstad",
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_oeppen_atelje_20367a1076.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/oppen-atelje-for-6-106-aringar-26",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ryslig-oppen-atelje-6106-ar-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6865,6 +6400,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55636",
+      "titel": "Pingis – ett spökfritt avbrott",
+      "beskrivning": "Har det blivit lite för mycket spöken, rysare och läskiga mysterier på biblioteket under läslovet? Då tar vi en paus! Kom och droppa in på rundpingis i lilla programrummet på barnavdelningen när det passar dig under dagen när biblioteket har öppet.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_6_57c236df52.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pingis-ett-spokfritt-avbrott-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54854",
       "titel": "Funkamix! Festivaldag för funkis i åldern 7-25 år!",
       "beskrivning": "Funkamix är en festivaldag för dig som har en funktionsnedsättning i åldern 7-25 år! Festivaldagen arrangeras av Skärholmens bibliotek och Idrottsförvaltningen i samarbete med 30-tal andra aktörer. Ta del av aktiviteter och info inom kultur, sport och från med flera. från aktörer i hela Stockholmsregionen. Det är drop-in till de flesta aktiviteter. Allt är gratis.\nDagen äger rum på tre platser i Skärholmen:\nSim- och idrottshallen i Skärholmen\nKulturhuset stadsteatern i Skärholmen och FOLK i Skärholmen. Under \" information\" beskrivs festivaldagen. \nMer info om aktiviteterna kommer i oktober.",
@@ -6893,6 +6459,37 @@
       "underkategori": "Sagostund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_05_T203657_669_7dac309c61.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/funkisfestivalen-funkamix-for-funkis-i-aldern-7-25-ar-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55616",
+      "titel": "Sinnlig sagostund med TAKK",
+      "beskrivning": "Sagostunden är anpassad för barn med särskilda behov. Vi läser boken ”Kanske” och tar hjälp av våra sinnen och kroppar för att tillgängliggöra och bredda läsupplevelsen. För barn ca 3-8 år. Bokning via mail till hanna.roth@stockholm.se",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "10:00",
+      "sluttid": "10:45",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 3,
+        "till": 8,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "TAKK",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Foerskolemorgon_Sagostund_med_TAKK_2a003c4169.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sinnlig-sagostund-med-takk-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7051,6 +6648,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55624",
+      "titel": "Ryslig deckargåta",
+      "beskrivning": "Ett mystiskt mysterium har uppstått på biblioteket och vi behöver er hjälp att lösa det. Ta på dig detektivhatten, följ spåren och klura ut vem eller vad som döljer sig bakom gåtan. Från 6 år.",
+      "arrangor": "Östermalms bibliotek, Fältöversten",
+      "plats": "Östermalms bibliotek, Fältöversten",
+      "stadsdel": null,
+      "lat": 59.34011,
+      "lon": 18.09168,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "13:00",
+      "sluttid": "14:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_2_01caaa2b0b.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ryslig-deckargata-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55525",
       "titel": "Sommarskuggan-kalas!",
       "beskrivning": "På Hornstulls bibliotek har Sommarskuggan utsetts till vinnare i Barnens val. Vi firar detta med ett Sommarskuggan-kalas! Det blir högläsning, Sommarskuggan-pyssel och fika. Dessutom har vi Sommarskuggan-tipspromenad hela läslovet där du kan vara med och tävla om en Sommarskuggan-bok.",
@@ -7079,6 +6707,37 @@
       "underkategori": "Sagostund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Barnens_val_Sommarskuggan_31c56aa790.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sommarskuggan-kalas-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-54213",
+      "titel": "Möt Makten, Ta Makten",
+      "beskrivning": "Du lär dig ofta om dina rättigheter i skolan. Under denna mässa får du använda dem. Möt och ställ frågor direkt till personer och myndigheter som påverkar ditt liv.",
+      "arrangor": "TioTretton, Kulturhuset",
+      "plats": "Studion på Kulturhuset Stadsteatern",
+      "stadsdel": null,
+      "lat": 59.33204,
+      "lon": 18.06507,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "13:00",
+      "sluttid": "19:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Untitled_design_2_bd4406b0a1.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mot-makten-ta-makten-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7111,6 +6770,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55627",
+      "titel": "Kreativ eftermiddag: Sommarskuggan!",
+      "beskrivning": "Varning för skuggor och bus! Har du koll på alla skuggor som rör sig? Nu bjuder vi in till en fantasifull eftermiddag där vi inspireras av den busigaste karaktären vi vet – Sommarskuggan, även vinnaren av Barnens val 2026 på stadens bibliotek!",
+      "arrangor": "Östermalms bibliotek, Fältöversten",
+      "plats": "Östermalms bibliotek, Fältöversten",
+      "stadsdel": null,
+      "lat": 59.34011,
+      "lon": 18.09168,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_3_bb411b66ea.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-eftermiddag-sommarskuggan-1",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-55511",
@@ -7234,6 +6924,68 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Titta_daer_d7aa8ee83d.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/titta-dar-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55617",
+      "titel": "Charader med sagofigurer",
+      "beskrivning": "Är du Pippi? Eller kanske Sommarskuggan? Vi leker charader med våra favoritkaraktärer från sagornas och böckernas värld!\nFör barn 6-12 år.",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "15:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Teater",
+      "underkategori": "Frågesport",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Charader_6220df7f31.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/charader-med-sagofigurer-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55637",
+      "titel": "Skapa Sommarskuggans skuggslem!",
+      "beskrivning": "Varning för kladd, bus och magiska skuggor! Gillar du böckerna om den kluriga Sommarskuggan? Kom till biblioteket och var med när vi skapar vårt helt egna skuggslem. Vi inspireras av böckerna och experimenterar fram ett hemlighetsfullt slem som känns precis som om det kom direkt från skuggornas värld.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "15:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_3_bb411b66ea.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/skapa-sommarskuggans-skuggslem-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7392,6 +7144,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55625",
+      "titel": "Spökhistorier efter stängning",
+      "beskrivning": "Vad händer på biblioteket när alla har gått hem? När biblioteket har tystnat samlas vi bland de mörka bokhyllorna för att lyssna på rysliga, spännande och hemliga berättelser. Du behöver boka plats i förväg. 1 plats = 1 barn",
+      "arrangor": "Östermalms bibliotek, Fältöversten",
+      "plats": "Östermalms bibliotek, Fältöversten",
+      "stadsdel": null,
+      "lat": 59.34011,
+      "lon": 18.09168,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "18:15",
+      "sluttid": "19:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Spoekhistorier_efter_staenging_49c43cb023.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spokhistorier-efter-stangning-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-49209",
       "titel": "Babysång",
       "beskrivning": "Varmt välkomna på babysång på Hornstulls bibliotek varje onsdag klockan 9.30-10 då vi sjunger och ramsar tillsammans! Sångstunden är för bebisar 4-10 månader och deras vuxna. Observera att du måste föranmäla dig- antalet platser är begränsat. Denna tid är biblioteket stängt för allmänheten, så ring på dörren. Kom gärna i god tid - vi öppnar från klockan 9.15 för er som ska på evenemanget. OBS! En bokning gäller för både förälder och barn!",
@@ -7420,6 +7203,37 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Babysang_490de91f58.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-161",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55618",
+      "titel": "Film & samtal",
+      "beskrivning": "Vi tittar på en film tillsammans och samtalar om filmens innehåll efteråt. Vi bjuder på saft och popcorn, hela familjen är välkomna! Passar barn 4-8 år.",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "09:30",
+      "sluttid": "10:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 4,
+        "till": 8,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Film",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_2025_08_25_T125844_718_5c0b9cc1bb.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/film-samtal-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7826,6 +7640,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55632",
+      "titel": "Ansiktsmålning och Levande saga med Biblioteket PLAY",
+      "beskrivning": "Kliv in i sagans värld på riktigt! Idag kombinerar vi färg, fantasi och gemenskap på biblioteket. Vi startar med att förvandla oss genom ansiktsmålning. När alla är färdigmålade slår vi oss ner tillsammans för att titta på en spännande och levande saga på stor skärm med Biblioteket PLAY.",
+      "arrangor": "Norra Djurgårdsstadens bibliotek",
+      "plats": "Norra Djurgårdsstadens bibliotek",
+      "stadsdel": null,
+      "lat": 59.35956,
+      "lon": 18.09508,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": "Biblioteket Play",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_5_f0fbf17049.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ansiktsmalning-och-levande-saga-med-biblioteket-play-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55546",
       "titel": "Poesiparty - quizza, skapa och fika!",
       "beskrivning": "Vad vet du om böcker, poesi och bibliotek? Testa dina kunskaper på vårt bokquiz!\n\nDessutom, skapa din egen dikt. Snurra poesihjulet och se vad du får för inspiration. Skriv eller skapa dikten tillsammans med oss. \n\nGott fika, bra boktips och fina priser kommer finnas!",
@@ -7950,6 +7795,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55619",
+      "titel": "Spökhistorier!",
+      "beskrivning": "Bibliotekarie Karin läser de läskigaste spökhistorier hon vet! För barn från 7 år.",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "15:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Bokpresentation",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Skraeckkvaellmedspoekhistorier_2025_0d60f84430.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spokhistorier-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55215",
       "titel": "Spökvandring",
       "beskrivning": "Välkomna alla modiga äventyrare till en spökvandring i kulturhuset Fanfaren! Vågar du följa med in, se faran i vitögat och lösa gåtan? Tillsammans med kulturskolan och biblioteket i Farsta möter vi olika väsen och utforskar de spökliga rummen i huset. Föräldrar är välkomna att följa med (max en vuxen per barn), boka i så fall en plats för varje barn plus en plats för medföljande förälder. Spökvandringen ges vid fem olika tillfällen, för andra dagar/tider se länkar längre ner på sidan. OBS denna spökvandring är endast för allmänheten, fritids bokas in separat via kontakt med lokala fritidshem.",
@@ -8012,9 +7888,9 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-52244",
-      "titel": "Högläsning",
-      "beskrivning": "Varje onsdag kl. 16 ses vi på barnavdelningen för en stunds högläsning! Ingen föranmälan behövs. Sagostunden passar barn i åldern 3-6 år men yngre och äldre syskon är såklart också välkomna! Vi läser på svenska och även på engelska om så önskas.",
+      "id": "bib-55628",
+      "titel": "Mysryslig högläsning!",
+      "beskrivning": "Välkommen på en riktigt mysig och ryslig högläsning! Vi kryper ihop och lyssnar till berättelser som kittlar lite skönt i magen. Böckerna passar barn i åldern 3–6 år men yngre och äldre syskon är också välkomna.",
       "arrangor": "Östermalms bibliotek, Fältöversten",
       "plats": "Östermalms bibliotek, Fältöversten",
       "stadsdel": null,
@@ -8024,7 +7900,7 @@
       "slutdatum": "2026-10-28",
       "starttid": "16:00",
       "sluttid": "16:15",
-      "aterkommande": true,
+      "aterkommande": false,
       "kraverBokning": false,
       "alder": {
         "fran": 3,
@@ -8038,39 +7914,8 @@
       },
       "kategori": "Sagostund",
       "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_1_dafb6d607c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/hoglasning-62",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52818",
-      "titel": "Sagoläsning",
-      "beskrivning": "Välkommen till Rinkeby bibliotek och lyssna på saga! Vi läser bilderböcker som passar barn cirka 3-8 år, men givetvis är alla välkomna och vuxna får gärna lyssna tillsammans med sina barn!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-28",
-      "slutdatum": "2026-10-28",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 8,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_strapisagostundbild_55dfce87bd.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagolasning-9",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_4_81bec76221.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mysryslig-hoglasning-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8165,6 +8010,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/rollspel-pa-hostlovet/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55620",
+      "titel": "Bokfrukost",
+      "beskrivning": "Kom och ät mumsig frukost med oss och lyssna på sagor! En underbart mysig start på dagen för familjen. Passar barn från ca 3-8 år och medföljande vuxna.",
+      "arrangor": "Rinkeby bibliotek",
+      "plats": "Rinkeby bibliotek",
+      "stadsdel": null,
+      "lat": 59.38875,
+      "lon": 17.92707,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "10:00",
+      "sluttid": "11:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 3,
+        "till": 8,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Bokfrukost_var_ff52692d84.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/bokfrukost-9",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-55594",
@@ -8291,6 +8167,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55630",
+      "titel": "Ryslig deckargåta",
+      "beskrivning": "Ett mystiskt mysterium har uppstått på biblioteket och vi behöver er hjälp att lösa det. Ta på dig detektivhatten, följ spåren och klura ut vem eller vad som döljer sig bakom gåtan. Från 6 år.",
+      "arrangor": "Östermalms bibliotek, Fältöversten",
+      "plats": "Östermalms bibliotek, Fältöversten",
+      "stadsdel": null,
+      "lat": 59.34011,
+      "lon": 18.09168,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "13:00",
+      "sluttid": "14:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_2_01caaa2b0b.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ryslig-deckargata-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55467",
       "titel": "Halloweenpyssel: gör din egen läskiga karta!",
       "beskrivning": "Vågar du rita en karta till det mest förfärliga stället du kan tänka dig? Kanske ett hus där spöken bor, en skog där varulvarna jagar eller en grotta där en drake sover? Vi gör våra egna kartor i bibliotekets ateljé. Allt material finns på plats. Passar barn från 6 år. Workshopen leds av bibliotekarien Anna. Drop-in.",
@@ -8353,6 +8260,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "kul-29-familjevandring-i-gamla-stan",
+      "titel": "Familjevandring i Gamla stan",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
+      "arrangor": "Medeltidsmuseet",
+      "plats": "Gamla stan",
+      "stadsdel": null,
+      "lat": 59.32495,
+      "lon": 18.07064,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 5,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 50,
+        "text": "50–100 kr",
+        "status": "kostar"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/29-familjevandring-i-gamla-stan/",
+      "kalla": "kultur.stockholm"
+    },
+    {
       "id": "kul-spokvisning-for-hela-familjen22",
       "titel": "Spökvisning för hela familjen",
       "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
@@ -8384,35 +8322,35 @@
       "kalla": "kultur.stockholm"
     },
     {
-      "id": "kul-29-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
+      "id": "bib-55638",
+      "titel": "Interaktiv högläsning: Ur dimman",
+      "beskrivning": "I Ur dimman är ingenting förutbestämt utan ni som deltagare får vara med och bestämma var historien ska gå. Tillsammans fattar vi svåra beslut och utforskar den dimmigaste av världar. En spännande stund där du är med och styr äventyret!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
+      "lat": 59.33288,
+      "lon": 18.03129,
       "datum": "2026-10-29",
       "slutdatum": "2026-10-29",
-      "starttid": "13:00",
+      "starttid": "14:00",
       "sluttid": "14:30",
       "aterkommande": false,
-      "kraverBokning": false,
+      "kraverBokning": true,
       "alder": {
-        "fran": 5,
+        "fran": 6,
         "till": null,
         "kalla": "undre gräns i text"
       },
       "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
       },
-      "kategori": "Barn och familj",
+      "kategori": "Sagostund",
       "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/29-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_dimman_9d9f5185ce.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/interaktiv-hoglasning-ur-dimman-2",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-53832",
@@ -8601,6 +8539,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55639",
+      "titel": "Mysryslig högläsning!",
+      "beskrivning": "Välkommen på en riktigt mysig och ryslig högläsning! Vi kryper ihop och lyssnar till berättelser som kittlar lite skönt i magen. Böckerna passar barn i åldern 3–6 år men yngre och äldre syskon är också välkomna.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "16:00",
+      "sluttid": "16:15",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 3,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_4_81bec76221.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mysryslig-hoglasning-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-53939",
       "titel": "Kreativ torsdag",
       "beskrivning": "Välkommen att skapa och pyssla tillsammans på biblioteket. Vi ses vid stora bordet vid fönstret! Ingen föranmälan, men kom gärna i tid! \nBibblan bjuder på fika :-)",
@@ -8691,6 +8660,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Torsdags_Sagostund_c0d3879a94.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-471",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55595",
+      "titel": "Bus på biblioteket!",
+      "beskrivning": "Kom till biblioteket utklädd till något läskigt! Gå vår tipspromenad, ge oss ett boktips eller skräm en bibliotekarie, så får du en godis. Varmt välkommen!",
+      "arrangor": "Högdalens bibliotek",
+      "plats": "Högdalens bibliotek",
+      "stadsdel": null,
+      "lat": 59.26346,
+      "lon": 18.04257,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-10-30",
+      "starttid": "10:00",
+      "sluttid": "17:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_L_Ae_SLOV_26_GODIS_db1d096036.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/bus-pa-biblioteket-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -8971,6 +8971,99 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/spokvisning-for-hela-familjen222/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55640",
+      "titel": "Ansiktsmålning",
+      "beskrivning": "Kom till biblioteket och få en rolig eller busig ansiktsmålning! Förbered dig inför eftermiddagens disco, där du får rocka loss på dansgolvet.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-10-30",
+      "starttid": "14:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_5_f0fbf17049.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ansiktsmalning-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55633",
+      "titel": "Interaktiv högläsning: Ur dimman",
+      "beskrivning": "I \"Ur dimman\" är ingenting förutbestämt utan ni som deltagare får vara med och bestämma var historien ska gå. Tillsammans fattar vi svåra beslut och utforskar den dimmigaste av världar. En spännande stund där du är med och styr äventyret!",
+      "arrangor": "Norra Djurgårdsstadens bibliotek",
+      "plats": "Norra Djurgårdsstadens bibliotek",
+      "stadsdel": null,
+      "lat": 59.35956,
+      "lon": 18.09508,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-10-30",
+      "starttid": "15:00",
+      "sluttid": "15:30",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_dimman_9d9f5185ce.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/interaktiv-hoglasning-ur-dimman-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55641",
+      "titel": "Disco!",
+      "beskrivning": "Dags att inta dansgolvet! Har du passat på att göra en ansiktsmålning tidigare under dagen? Perfekt – då är du helt redo att visa upp din förvandling och rocka loss!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-10-30",
+      "starttid": "15:00",
+      "sluttid": "15:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Dans",
+      "underkategori": "Musik",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Disco_webb_4f8a7655e2.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/disco-4",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-52835",
@@ -9311,6 +9404,37 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_sagolik_soendag_0bae9e16af.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagolika-sondagar-38",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55609",
+      "titel": "Ryslig högläsning och skapande i ateljén",
+      "beskrivning": "En mysryslig sagostund som avslutas med pyssel och boktips som ger kalla kårar.",
+      "arrangor": "Tranströmerbiblioteket",
+      "plats": "Tranströmerbiblioteket",
+      "stadsdel": null,
+      "lat": 59.31458,
+      "lon": 18.07293,
+      "datum": "2026-11-01",
+      "slutdatum": "2026-11-01",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 4,
+        "till": 8,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": "Skaparverkstad",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Spoekdag_b6fe92ed3f.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ryslig-hoglasning-och-skapande-i-ateljen-clear-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -14181,6 +14305,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55614",
+      "titel": "Sagostund på arabiska och svenska med skapande",
+      "beskrivning": "Möt den libanesiska barnboksillustratören Maya Fidawi och bibliotekarie Matilda Wallin som läser högt på arabiska och svenska. Efter sagostunden blir det pyssel inspirerat av bokens tema. För barn från 4 år och uppåt. Drop-in – ingen föranmälan behövs. Vi bjuder på fika!",
+      "arrangor": "Kista bibliotek",
+      "plats": "Kista bibliotek",
+      "stadsdel": null,
+      "lat": 59.40217,
+      "lon": 17.94552,
+      "datum": "2026-11-15",
+      "slutdatum": "2026-11-15",
+      "starttid": "14:30",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 4,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": "Skaparverkstad",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Namnloes_design_2026_10_09_T093711_343_6ae262a54b.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-arabiska-och-svenska-med-skapande-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51691",
       "titel": "Kreativ sagostund: Veckan före barnbidraget",
       "beskrivning": "Vi uppmärksammar Barnkonventionens dag (20/11) genom att läsa \"Veckan före barnbidraget\" (Elin Johansson, Ellen Ekman). Sedan skapar vi presenter av återbruksmaterial! Passar för åldern 4-6 år.",
@@ -15759,6 +15914,37 @@
       "underkategori": "Sångstund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-174",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55613",
+      "titel": "Barnkonventionens dag – designa din t-shirt",
+      "beskrivning": "Vi uppmärksammar Barnkonventionens dag 20 november!\nBarn, unga och vuxna – välkomna till en kreativ workshop med fokus på barns rättigheter. Att få uttrycka sin åsikt och bli lyssnad på är en av de allra viktigaste rättigheterna. Ta med en egen t-shirt eller annat plagg hemifrån, så bjuder vi på färg, material och inspiration. Vad vill du att världen ska lyssna på? Kom och tryck ditt budskap!\nI samarbete med Medborgarskolan. Drop in!\nAllt är gratis.",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-11-20",
+      "slutdatum": "2026-11-20",
+      "starttid": "15:00",
+      "sluttid": "16:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Kurser och utbildning",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_08_T224652_171_17e288a40f.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/barnkonventionens-dag-designa-ditt-budskap-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
