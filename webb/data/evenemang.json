@@ -1,204 +1,18 @@
 {
-  "uppdaterad": "2026-10-09T11:05:10.206Z",
-  "antal": 860,
+  "uppdaterad": "2026-10-10T10:23:07.558Z",
+  "antal": 857,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 798,
+      "antal": 796,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 66,
+      "antal": 65,
       "fel": null
     }
   },
   "utan_koordinat": 12,
   "evenemang": [
-    {
-      "id": "bib-52832",
-      "titel": "Fredagsmys",
-      "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 9,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjefredagar_1_818ecce31c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-11",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51654",
-      "titel": "Helgpyssel",
-      "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum\nöppet för pyssel. \nAlla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-51",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55030",
-      "titel": "Familjeworkshop: Följ med på Känsloäventyret!",
-      "beskrivning": "Vi uppmärksammar månaden för psykisk ohälsa på Skärholmens bibliotek!\nVälkomna till en kreativ familjestund baserad på Rädda Barnens nya bok \"Känsloäventyret – livsknep för yngre barn\". Under workshopen får barn och vuxna tillsammans träffa författaren och barnpsykologen Hanna Thermaenius från Rädda Barnen. Känslor kan vara både glittrande och lite trassliga. Genom att skapa och samtala hjälps vi åt att förstå barnens känslor, och hittar enkla, roliga knep för att skapa lugn i familjen när det stormar i vardagen.\nAlla familjer får dessutom med sig gratis material och övningar hem.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Författarträff",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_11_T163318_617_785f5d1056.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjeworkshop-8",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55459",
-      "titel": "Familjemysfredag - Trollen i sagans värld",
-      "beskrivning": "Denna eftermiddag bjuder vi in barn och deras vuxna att tillsammans med oss på biblioteket bekanta sig med och presenteras för troll i sagans värld. Med utgångspunkt och inspiration ifrån John Bauers rika bildvärld ges du chansen att med ditt barn måla en gemensam bild. Ingen föranmälan krävs, vi står för färg och material så det är bara att dyka upp i oömma kläder så målar vi tillsammans!",
-      "arrangor": "Hässelby villastads bibliotek",
-      "plats": "Hässelby villastads bibliotek",
-      "stadsdel": null,
-      "lat": 59.37985,
-      "lon": 17.81748,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "15:45",
-      "sluttid": "16:45",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_malning_familj_a9fb06d610.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjemysfredag-trollen-i-sagans-varld-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50291",
-      "titel": "Familjefredag",
-      "beskrivning": "Varje vecka bjuder vi in till Familjefredag med aktiviteter för familjer med barn 0-5 år. Vi erbjuder en varierad mix av sagostunder, filmvisning, boktips och annat roligt, med ett nytt tema varje vecka. Välkomna!",
-      "arrangor": "Tensta bibliotek",
-      "plats": "Tensta bibliotek",
-      "stadsdel": null,
-      "lat": 59.39541,
-      "lon": 17.8978,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 5,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Teater",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Bild_evenemang_hemsidan_56_5dbcf17bec.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjefredag-23",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-klimatfestival-for-17-i-skarpnacks-kulturhus3",
-      "titel": "Klimatfestival för 17 i Skarpnäcks kulturhus",
-      "beskrivning": "Klimatfestival för 17 2026 – inspirera, lär och agera för klimatet! 7–18 oktober.",
-      "arrangor": "Stockholms stad",
-      "plats": "Skarpnäcks allé 25",
-      "stadsdel": null,
-      "lat": 59.2679,
-      "lon": 18.12892,
-      "datum": "2026-10-09",
-      "slutdatum": "2026-10-09",
-      "starttid": "19:00",
-      "sluttid": "21:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 18,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": null,
-        "text": null,
-        "status": "okant"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/10/klimatfestival-for-17-i-skarpnacks-kulturhus3/",
-      "kalla": "kultur.stockholm"
-    },
     {
       "id": "bib-51676",
       "titel": "Helgpyssel",
@@ -228,37 +42,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-69",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49944",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Hornstulls bibliotek har extra öppet bara \nför familjer med NPF - neuropsykiatriska funktionsvariationer. Till exempel Autimsspektrumtillstånd, ADHD, ADD, och liknande tankespektra. (dvs Att ta in flera skilda infallsvinklar i stället för att låsa sig vid en enda idé.) Välkomna mellan klockan 10.00 – 11.30 lördagen 29 augusti, 19 september, 10 oktober och 21 november!\n\nOBS. Den 10 oktober är Attention här på biblioteket och skapar roliga aktiviteter.\nOBS. Den 14 november Npf-lördag 14/11 kl. 10.30-11.30\nKom och prova instrumentet Funki! Ett instrument som alla kan spela på!",
-      "arrangor": "Hornstulls bibliotek",
-      "plats": "Hornstulls bibliotek",
-      "stadsdel": null,
-      "lat": 59.31598,
-      "lon": 18.03507,
-      "datum": "2026-10-10",
-      "slutdatum": "2026-10-10",
-      "starttid": "10:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 11,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Autism_4a2475775e.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-pa-hornstulls-bibliotek-22",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -352,37 +135,6 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjesoendag_Bredaeng_4b595e8278.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-59",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51444",
-      "titel": "Sagostund med TAKK",
-      "beskrivning": "Välkomna på sagostund med TAKK!\nVi ses i bibliotekets Aktivitetsrum.\nDrop in.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-10",
-      "slutdatum": "2026-10-10",
-      "starttid": "11:30",
-      "sluttid": "12:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "TAKK",
-      "underkategori": "Sagostund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_TAKK_sagostund_1_5acfde02ab.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-med-takk-18",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -3827,6 +3579,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55655",
+      "titel": "Fråga logopeden",
+      "beskrivning": "Logoped Annika Kirkham besöker bibliotekets  barnavdelning i samband med DLD-dagen (DLD=språkstörning). Hon svarar på frågor om vad man kan få hjälp med hos en logoped och hur man kan stimulera barns språkutveckling. Ingen föranmälan behövs. Välkomna!",
+      "arrangor": "Tranströmerbiblioteket",
+      "plats": "Tranströmerbiblioteket",
+      "stadsdel": null,
+      "lat": 59.31458,
+      "lon": 18.07293,
+      "datum": "2026-10-20",
+      "slutdatum": "2026-10-20",
+      "starttid": "12:30",
+      "sluttid": "13:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Fraga_logopeden_2_eb28974245.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/fraga-logopeden-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55279",
       "titel": "Svenska med baby – Tre generationer möts",
       "beskrivning": "Välkommen till en träff med Svenska med baby – Tre generationer möts. Här är du välkommen som har små barn upp till 2 år (även äldre syskon), samt du som är pensionär.  Här möts barn, föräldrar och seniorer med olika bakgrund i ett generations-överskridande möte. Att läsa böcker för barn gör dem mer benägna att själva börja läsa. En bibliotekarie berättar om olika barnböcker och sedan läser vi i mindre grupper. I samarbete med Svenska med baby och föranmälan sker via deras hemsida, se länk nedan.",
@@ -6152,6 +5935,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55656",
+      "titel": "Gör din egen stop motion-film!",
+      "beskrivning": "Kom och gör din egen stop motion-film. Du får skriva manus, skapa miljöer och figurer i modellera och filma i en stop motion-box!\nOm du vill kan du göra flera filmer eller ett längre projekt som sträcker sig över två eller flera tillfällen. Du anmäler dig då till varje tillfälle. \nFör barn och unga från 7 år.",
+      "arrangor": "Luma bibliotek",
+      "plats": "Luma bibliotek",
+      "stadsdel": null,
+      "lat": 59.30591,
+      "lon": 18.0969,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 7,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_stopmotion_f9fea6c28b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/gor-din-egen-stop-motion-film-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55631",
       "titel": "Interaktiv sagostund: Maraton!",
       "beskrivning": "Hur känns det i magen när man står på startlinjen och väntar på att få springa iväg? I denna interaktiva sagostund utforskar vi Karin Cyréns bilderbok ”Maraton” tillsammans med lekfulla inslag om att kämpa, vänta på sin tur och ha roligt ihop. En varm och engagerande stund för alla små löpare och lyssnare!",
@@ -6772,6 +6586,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55657",
+      "titel": "Gör din egen stop motion-film!",
+      "beskrivning": "Kom och gör din egen stop motion-film. Du får skriva manus, skapa miljöer och figurer i modellera och filma i en stop motion-box!\nOm du vill kan du göra flera filmer eller ett längre projekt som sträcker sig över två eller flera tillfällen. Du anmäler dig då till varje tillfälle. \nFör barn och unga från 7 år.",
+      "arrangor": "Luma bibliotek",
+      "plats": "Luma bibliotek",
+      "stadsdel": null,
+      "lat": 59.30591,
+      "lon": 18.0969,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 7,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_stopmotion_f9fea6c28b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/gor-din-egen-stop-motion-film-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55627",
       "titel": "Kreativ eftermiddag: Sommarskuggan!",
       "beskrivning": "Varning för skuggor och bus! Har du koll på alla skuggor som rör sig? Nu bjuder vi in till en fantasifull eftermiddag där vi inspireras av den busigaste karaktären vi vet – Sommarskuggan, även vinnaren av Barnens val 2026 på stadens bibliotek!",
@@ -6798,7 +6643,7 @@
       },
       "kategori": "Skaparverkstad",
       "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_3_bb411b66ea.png",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Barnens_val_Sommarskuggan_31c56aa790.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-eftermiddag-sommarskuggan-1",
       "kalla": "Stockholms stadsbibliotek"
     },
@@ -6984,7 +6829,7 @@
       },
       "kategori": "Skaparverkstad",
       "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbkalender_ideer_3_bb411b66ea.png",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Barnens_val_Sommarskuggan_31c56aa790.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/skapa-sommarskuggans-skuggslem-1",
       "kalla": "Stockholms stadsbibliotek"
     },
@@ -7671,6 +7516,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55658",
+      "titel": "Gör din egen stop motion-film!",
+      "beskrivning": "Kom och gör din egen stop motion-film. Du får skriva manus, skapa miljöer och figurer i modellera och filma i en stop motion-box!\nOm du vill kan du göra flera filmer eller ett längre projekt som sträcker sig över två eller flera tillfällen. Du anmäler dig då till varje tillfälle. \nFör barn och unga från 7 år.",
+      "arrangor": "Luma bibliotek",
+      "plats": "Luma bibliotek",
+      "stadsdel": null,
+      "lat": 59.30591,
+      "lon": 18.0969,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 7,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_stopmotion_f9fea6c28b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/gor-din-egen-stop-motion-film-3",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55546",
       "titel": "Poesiparty - quizza, skapa och fika!",
       "beskrivning": "Vad vet du om böcker, poesi och bibliotek? Testa dina kunskaper på vårt bokquiz!\n\nDessutom, skapa din egen dikt. Snurra poesihjulet och se vad du får för inspiration. Skriv eller skapa dikten tillsammans med oss. \n\nGott fika, bra boktips och fina priser kommer finnas!",
@@ -8350,6 +8226,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_dimman_9d9f5185ce.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/interaktiv-hoglasning-ur-dimman-2",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55659",
+      "titel": "Gör din egen stop motion-film!",
+      "beskrivning": "Kom och gör din egen stop motion-film. Du får skriva manus, skapa miljöer och figurer i modellera och filma i en stop motion-box!\nOm du vill kan du göra flera filmer eller ett längre projekt som sträcker sig över två eller flera tillfällen. Du anmäler dig då till varje tillfälle. \nFör barn och unga från 7 år.",
+      "arrangor": "Luma bibliotek",
+      "plats": "Luma bibliotek",
+      "stadsdel": null,
+      "lat": 59.30591,
+      "lon": 18.0969,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 7,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_stopmotion_f9fea6c28b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/gor-din-egen-stop-motion-film-4",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -20221,7 +20128,7 @@
       },
       "kategori": "Teater",
       "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_webben_a2499b3cd2.png",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Namnloes_design_2026_10_09_T155520_092_1a8cfd219b.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/i-vantan-pa-vada-en-interaktiv-barnforestallning-5",
       "kalla": "Stockholms stadsbibliotek"
     },
