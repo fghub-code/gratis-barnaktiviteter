@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-10-16T08:41:27.578Z",
-  "antal": 820,
+  "uppdaterad": "2026-10-17T08:12:26.337Z",
+  "antal": 825,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 763,
+      "antal": 768,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,161 +13,6 @@
   },
   "utan_koordinat": 11,
   "evenemang": [
-    {
-      "id": "bib-53224",
-      "titel": "Babysång",
-      "beskrivning": "Varmt välkomna på babysång på Tranströmerbiblioteket varannan fredag kl. 11.\n\nVi sjunger och ramsar in helgen tillsammans. Sångstunden är för bebisar 4–10 månader och deras vuxna. Det är bland annat kända rörelsesånger och sånger med TAKK.",
-      "arrangor": "Tranströmerbiblioteket",
-      "plats": "Tranströmerbiblioteket",
-      "stadsdel": null,
-      "lat": 59.31458,
-      "lon": 18.07293,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "11:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 1,
-        "kalla": "månadsålder i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Rim och ramsor",
-      "underkategori": "Sångstund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/babysang-172",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52833",
-      "titel": "Fredagsmys",
-      "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 9,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjefredagar_1_818ecce31c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-12",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51655",
-      "titel": "Helgpyssel",
-      "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum\nöppet för pyssel. \nAlla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-52",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50292",
-      "titel": "Familjefredag",
-      "beskrivning": "Varje vecka bjuder vi in till Familjefredag med aktiviteter för familjer med barn 0-5 år. Vi erbjuder en varierad mix av sagostunder, filmvisning, boktips och annat roligt, med ett nytt tema varje vecka. Välkomna!",
-      "arrangor": "Tensta bibliotek",
-      "plats": "Tensta bibliotek",
-      "stadsdel": null,
-      "lat": 59.39541,
-      "lon": 17.8978,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 5,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Teater",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Bild_evenemang_hemsidan_56_5dbcf17bec.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjefredag-24",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55158",
-      "titel": "Läs för Bruno!",
-      "beskrivning": "Läshunden Bruno besöker biblioteket tillsammans med sin ägare. Ett barn får läsa högt ur en bok i cirka 10 minuter och sedan finns det möjlighet att klappa eller umgås med hunden i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé utanför bibliotekets ordinarie öppettider. På plats finns bibliotekspersonal samt läshunden Bruno och hans ägare.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-10-16",
-      "slutdatum": "2026-10-16",
-      "starttid": "17:30",
-      "sluttid": "17:45",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 6,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Namnloes_design_3_675d90ca42.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-3",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-51677",
       "titel": "Helgpyssel",
@@ -1130,37 +975,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53453",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-10-19",
-      "slutdatum": "2026-10-19",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1304",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54496",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -1189,6 +1003,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1334",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53453",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-10-19",
+      "slutdatum": "2026-10-19",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1304",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -2401,6 +2246,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55825",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-23",
+      "slutdatum": "2026-11-01",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54406",
       "titel": "Babybabbel",
       "beskrivning": "Välkommen till Bibblerians babybokcirkel för bebisar och deras vuxna.",
@@ -2646,6 +2522,68 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nds_Mandagsmys_3_6_ar_76cf61aeab.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-for-familjer-4",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "kul-lilla-spoket-laban-busar-vidare",
+      "titel": "Lilla spöket Laban busar vidare",
+      "beskrivning": "Kom och se Lilla Spöket Laban på nya äventyr i Slottet Godmorgonsol.",
+      "arrangor": "Stockholms stad",
+      "plats": "Skarpnäcks allé 25",
+      "stadsdel": null,
+      "lat": 59.2679,
+      "lon": 18.12892,
+      "datum": "2026-10-23",
+      "slutdatum": "2026-10-23",
+      "starttid": "16:00",
+      "sluttid": "17:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": null,
+        "text": null,
+        "status": "okant"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/10/lilla-spoket-laban-busar-vidare/",
+      "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55826",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-24",
+      "slutdatum": "2026-11-02",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-2",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -3145,6 +3083,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55827",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-25",
+      "slutdatum": "2026-11-03",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-3",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55733",
       "titel": "Halloweenpyssel",
       "beskrivning": "Vi plockar fram ett pysselbord med material där ni får skapa ert Halloweenpyssel. \nFör alla barn i vuxet sällskap.",
@@ -3421,6 +3390,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laslov-kalasvecka-for-sommarskuggan-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55828",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-11-01",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-4",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -3889,6 +3889,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55824",
+      "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
+      "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "14:00",
+      "sluttid": "15:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 7,
+        "till": 9,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2025_12_10_T155949_124_3529baf2fd.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/mandaghang-aktiviteter-for-dig-mellan-7-9-ar-63",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55073",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -4137,37 +4168,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53454",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-10-26",
-      "slutdatum": "2026-10-26",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1305",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54497",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -4230,6 +4230,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55829",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-11-02",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-5",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55636",
       "titel": "Pingis – ett spökfritt avbrott",
       "beskrivning": "Har det blivit lite för mycket spöken, rysare och läskiga mysterier på biblioteket under läslovet? Då tar vi en paus! Kom och droppa in på rundpingis i lilla programrummet på barnavdelningen när det passar dig under dagen när biblioteket har öppet.",
@@ -4263,7 +4294,7 @@
     {
       "id": "bib-54854",
       "titel": "Funkamix! Festivaldag för funkis i åldern 7-25 år!",
-      "beskrivning": "Funkamix är en festivaldag för dig som har en funktionsnedsättning i åldern 7-25 år! Festivaldagen arrangeras av Skärholmens bibliotek och Idrottsförvaltningen i samarbete med 30-tal andra aktörer. Ta del av aktiviteter och info inom kultur, sport och från med flera. från aktörer i hela Stockholmsregionen. Det är drop-in till de flesta aktiviteter. Allt är gratis.\nDagen äger rum på tre platser i Skärholmen:\nSim- och idrottshallen i Skärholmen\nKulturhuset stadsteatern i Skärholmen och FOLK i Skärholmen. Under \" information\" beskrivs festivaldagen. \nMer info om aktiviteterna kommer i oktober.",
+      "beskrivning": "Funkamix är en kostnadsfri festivaldag för dig som har en funktionsnedsättning i åldern 7-25 år! Festivaldagen arrangeras av Skärholmens bibliotek och Idrottsförvaltningen i samarbete med 30-tal andra aktörer. Ta del av aktiviteter och info inom kultur, sport, fritid och från många andra verksamheter och aktörer från hela Stockholmsregionen och Skåne. Det är drop-in till de flesta aktiviteter.  Dagen äger rum på tre platser i Skärholmen:\nSim- och idrottshallen i Skärholmen\nKulturhuset Stadsteatern Skärholmen Skärholmen och FOLK i Skärholmen. Under \" information\" kan du läsa om programmet.",
       "arrangor": "Skärholmens bibliotek",
       "plats": "Sim- och idrottshallen  Bodholmsgången 10, 127 48 Skärholmen",
       "stadsdel": null,
@@ -5160,6 +5191,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55830",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-11-03",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-6",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-49209",
       "titel": "Babysång",
       "beskrivning": "Varmt välkomna på babysång på Hornstulls bibliotek varje onsdag klockan 9.30-10 då vi sjunger och ramsar tillsammans! Sångstunden är för bebisar 4-10 månader och deras vuxna. Observera att du måste föranmäla dig- antalet platser är begränsat. Denna tid är biblioteket stängt för allmänheten, så ring på dörren. Kom gärna i god tid - vi öppnar från klockan 9.15 för er som ska på evenemanget. OBS! En bokning gäller för både förälder och barn!",
@@ -5813,7 +5875,7 @@
     {
       "id": "bib-55334",
       "titel": "Interaktiv högläsning och skapande verkstad!",
-      "beskrivning": "Gillar du äventyr och vill vara en del av handlingen?  Utifrån bokserien: Välj ditt äventyr av xx\när du den som bestämmer hur boken ska sluta. Efter den spännande högläsningen blir det en workshop där vi skapar kreativa monster med hjälp av en tärning. Aktiviteten ges i samarbete mellan Skärholmens bibliotek och Kulturhuset Stadsteatern Skärholmen.  Aktiviteten äger rum på Kulturhuset Stadsteatern Skärholmen, adress: Bodholmsgången 13, 127 48 Stockholm. Aktiviteten passar för åldern 6-12 år.",
+      "beskrivning": "Gillar du äventyr och vill vara en del av handlingen?  Utifrån bokserien: Välj ditt äventyr av Ævar Þór Benediktsson är du den som bestämmer hur boken ska sluta. Efter den spännande högläsningen blir det en workshop där vi skapar kreativa monster med hjälp av en tärning. Aktiviteten ges i samarbete mellan Skärholmens bibliotek och Kulturhuset Stadsteatern Skärholmen.  Aktiviteten äger rum på Kulturhuset Stadsteatern Skärholmen, adress: Bodholmsgången 13, 127 48 Stockholm. Aktiviteten passar för åldern 6-12 år.",
       "arrangor": "Skärholmens bibliotek",
       "plats": "På Kulturhuset Stadsteatern Skärholmen. Adress: Bodholmsgången 13, 127 48 Stockholm",
       "stadsdel": null,
@@ -6183,6 +6245,37 @@
       "kalla": "kultur.stockholm"
     },
     {
+      "id": "bib-55831",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-11-04",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-7",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55620",
       "titel": "Bokfrukost",
       "beskrivning": "Kom och ät mumsig frukost med oss och lyssna på sagor! En underbart mysig start på dagen för familjen. Passar barn från ca 3-8 år och medföljande vuxna.",
@@ -6462,37 +6555,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-29-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-10-29",
-      "slutdatum": "2026-10-29",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/29-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "kul-spokvisning-for-hela-familjen22",
       "titel": "Spökvisning för hela familjen",
       "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
@@ -6743,7 +6805,7 @@
     {
       "id": "bib-55707",
       "titel": "Interaktiv högläsning och skapande verkstad!",
-      "beskrivning": "Gillar du äventyr och vill vara en del av handlingen?  Utifrån bokserien: Välj ditt äventyr av xx\när du den som bestämmer hur boken ska sluta. Efter den spännande högläsningen blir det en workshop där vi skapar kreativa monster med hjälp av en tärning. Aktiviteten ges i samarbete mellan Skärholmens bibliotek och Kulturhuset Stadsteatern Skärholmen. Aktiviteten passar för åldern 6-12 år.  Drop in.",
+      "beskrivning": "Gillar du äventyr och vill vara en del av handlingen?  Utifrån bokserien: Välj ditt äventyr av Ævar Þór Benediktsson.\när du den som bestämmer hur boken ska sluta. Efter den spännande högläsningen blir det en workshop där vi skapar kreativa monster med hjälp av en tärning. Aktiviteten ges i samarbete mellan Skärholmens bibliotek och Kulturhuset Stadsteatern Skärholmen. Aktiviteten passar för åldern 6-12 år.  Drop in.",
       "arrangor": "Skärholmens bibliotek",
       "plats": "Skärholmens bibliotek",
       "stadsdel": null,
@@ -7017,6 +7079,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Torsdags_Sagostund_c0d3879a94.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-471",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55832",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-11-05",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-8",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7578,6 +7671,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55833",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-10-31",
+      "slutdatum": "2026-11-06",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-9",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-51679",
       "titel": "Helgpyssel",
       "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum öppet för pyssel. Alla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
@@ -7731,6 +7855,37 @@
       "bild": null,
       "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/31-glomda-drakar-och-skatter/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55834",
+      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
+      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
+      "arrangor": "Skärholmens bibliotek",
+      "plats": "Skärholmens bibliotek",
+      "stadsdel": null,
+      "lat": 59.276,
+      "lon": 17.90601,
+      "datum": "2026-11-01",
+      "slutdatum": "2026-11-07",
+      "starttid": "00:00",
+      "sluttid": "00:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Frågesport",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-10",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-49289",
@@ -8198,37 +8353,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53455",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-11-02",
-      "slutdatum": "2026-11-02",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1306",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54498",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -8257,6 +8381,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1336",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53455",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-11-02",
+      "slutdatum": "2026-11-02",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1306",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -10678,37 +10833,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53456",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-11-09",
-      "slutdatum": "2026-11-09",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1307",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54499",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -10737,6 +10861,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1337",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53456",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-11-09",
+      "slutdatum": "2026-11-09",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1307",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -13282,37 +13437,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53457",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-11-16",
-      "slutdatum": "2026-11-16",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1308",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54500",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -13341,6 +13465,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1338",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53457",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-11-16",
+      "slutdatum": "2026-11-16",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1308",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -13811,7 +13966,7 @@
     {
       "id": "bib-51699",
       "titel": "Barnråd– barnens egen röst i Skärholmen",
-      "beskrivning": "Vill du bestämma och är mellan 7-12 år?\nKom till Barnrådet på Skärholmens bibliotek och var med och skapa ditt drömbibliotek!\nDu får:\nPlanera och ibland leda aktiviteter – vad ska hända på biblioteket?\nTycka till om hur biblioteket ska se ut.\nTycka till om vilka böcker som kan köpas in.\nIngen anmälan. Drop in!",
+      "beskrivning": "Vill du bestämma och är mellan 7-12 år?\nKom till Barnrådet på Skärholmens bibliotek och var med och skapa ditt drömbibliotek!\nDu får:\nPlanera och ibland leda aktiviteter – vad ska hända på biblioteket?\nTycka till om hur biblioteket ska se ut.\nTycka till om vilka böcker som kan köpas in.\nIngen anmälan. Drop in! \nBarns rättigheter handlar om att barn ska få uttrycka sina åsikter och nu visar vi en utställning som tar fast på detta. Det knyter an till Barnkonventionens artikel 12, som slår fast att varje barn har rätt att fritt uttrycka sina åsikter.",
       "arrangor": "Skärholmens bibliotek",
       "plats": "Skärholmens bibliotek",
       "stadsdel": null,
@@ -15762,37 +15917,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53458",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-11-23",
-      "slutdatum": "2026-11-23",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1309",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54501",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -15821,6 +15945,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1339",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53458",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-11-23",
+      "slutdatum": "2026-11-23",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1309",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -17777,37 +17932,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53459",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-11-30",
-      "slutdatum": "2026-11-30",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1310",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54502",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -17836,6 +17960,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1340",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53459",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-11-30",
+      "slutdatum": "2026-11-30",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1310",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -20009,37 +20164,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53460",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-12-07",
-      "slutdatum": "2026-12-07",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1311",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54503",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -20068,6 +20192,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1341",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53460",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-12-07",
+      "slutdatum": "2026-12-07",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1311",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -22024,37 +22179,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "bib-53461",
-      "titel": "Läxhjälp",
-      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-12-14",
-      "slutdatum": "2026-12-14",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1312",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
       "id": "bib-54504",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -22083,6 +22207,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1342",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-53461",
+      "titel": "Läxhjälp",
+      "beskrivning": "Behöver du hjälp med läxorna? Välkommen till vår läxhjälp i samarbete med Röda korset. För barn och ungdomar i första hand, samt för vuxna i mån av plats. Du behöver inte anmäla dig i förväg.",
+      "arrangor": "Bredängs bibliotek",
+      "plats": "Bredängs bibliotek",
+      "stadsdel": null,
+      "lat": 59.29464,
+      "lon": 17.934,
+      "datum": "2026-12-14",
+      "slutdatum": "2026-12-14",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Läxhjälp",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_laxhjalp_1_5188623be6.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1312",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
