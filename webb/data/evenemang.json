@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-10-17T08:12:26.337Z",
-  "antal": 825,
+  "uppdaterad": "2026-10-18T08:29:30.822Z",
+  "antal": 823,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 768,
+      "antal": 766,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,471 +13,6 @@
   },
   "utan_koordinat": 11,
   "evenemang": [
-    {
-      "id": "bib-51677",
-      "titel": "Helgpyssel",
-      "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum öppet för pyssel. Alla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-70",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51405",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Välkommen till oss på extraöppet för familjer med NPF, neuropsykiatriska funktionsnedsättningar såsom autismspektrumtillstånd, ADHD, ADD och liknande diagnoser. Bekanta er med biblioteket i lugn och ro, på era egna villkor. Det finns bibliotekarier på plats som kan hjälpa till med frågor om biblioteket, böcker och hur ni lånar. Det är bara att komma och gratis.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "10:00",
-      "sluttid": "11:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_6b818c33_9b51_4ffc_abe0_e8fc49b6d774_52c60ef814.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-151",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55201",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Bagarmossens bibliotek har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) en lördag i månaden. Varmt välkommen!",
-      "arrangor": "Bagarmossens bibliotek",
-      "plats": "Bagarmossens bibliotek",
-      "stadsdel": null,
-      "lat": 59.27713,
-      "lon": 18.13286,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "10:00",
-      "sluttid": "11:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-204",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54317",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Under hösten och våren har Hässelby gårds bibliotek extra öppet bara för familjer med NPF (neuropsykiatriska funktionsnedsättningar, till exempel autimsspektrumtillstånd, ADHD, ADD, och liknande diagnoser) under några lördagar. En möjlighet att bekanta er med biblioteket i lugn och ro på egna villkor. Det finns fika och enkelt pyssel för den som vill. Allt är gratis. Ingen föranmälan behövs till extraöppet på lördagar - det är bara att komma. Varmt välkomna!\n\nLÖRDAG 17 NOVEMBER har du möjlighet att i lugn och ro prova att trycka fina mönster med Gelli plates!",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": 59.36763,
-      "lon": 17.84372,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "10:00",
-      "sluttid": "11:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": "Funktionsnedsättning",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_6b818c33_9b51_4ffc_abe0_e8fc49b6d774_ae06eeb514.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-170",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52666",
-      "titel": "Familjelördag",
-      "beskrivning": "Varje lördag ställer fram pyssel till barn och deras vuxna. Pysslet står framme under bibliotekets öppettider och kan variera, ibland är det papperspyssel, pärlor, lera eller något annat klurigt att göra tillsammans. Varmt välkommen!",
-      "arrangor": "Högdalens bibliotek",
-      "plats": "Högdalens bibliotek",
-      "stadsdel": null,
-      "lat": 59.26346,
-      "lon": 18.04257,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "10:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Familjeloerdag_eb9ca0daee.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-79",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49284",
-      "titel": "Familjehelg",
-      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "11:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-195",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50832",
-      "titel": "Familjelördag",
-      "beskrivning": "Varje lördag myser vi till det lite och bjuder på fika, pyssel och sagostund/minibio. Ingen föranmälan behövs, men kom gärna i god tid till sagostunden/filmen, som hålls 13.00-13.30.\nVälkomna!",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "11:00",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 13,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjesoendag_Bredaeng_4b595e8278.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-60",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-49975",
-      "titel": "Lust att skapa-lördagar för barn och deras vuxna",
-      "beskrivning": "Vi öppnar upp ateljén mellan kl. 12-14 med ett enklare pyssel. Lämpligt för barn från 4 år. Barnen behöver ha sällskap av en vuxen. Välkomna in och pyssla!",
-      "arrangor": "Hornstulls bibliotek",
-      "plats": "Hornstulls bibliotek",
-      "stadsdel": null,
-      "lat": 59.31598,
-      "lon": 18.03507,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "12:00",
-      "sluttid": "14:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 4,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_2_84dc72bf19.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/lust-att-skapa-lordagar-for-barn-och-deras-vuxna-6",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50327",
-      "titel": "Öppen Kulturskola - Sagostund med gestaltning",
-      "beskrivning": "Öppen Kulturskola är en plats där du får upptäcka teater, konst och musik, prova på och utveckla ditt eget skapande. Med nyfikenhet och glädje får barnen utforska olika konstformer tillsammans med Kulturskolans pedagoger.",
-      "arrangor": "Tranströmerbiblioteket",
-      "plats": "Tranströmerbiblioteket",
-      "stadsdel": null,
-      "lat": 59.31458,
-      "lon": 18.07293,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "12:00",
-      "sluttid": "13:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 6,
-        "till": 7,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Teater",
-      "underkategori": "Övrigt",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_oeppen_kulturskola_06182f08a1.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/oppen-kulturskola-sagostund-med-gestaltning-4",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54980",
-      "titel": "Romsk dansworkshop",
-      "beskrivning": "Kom och prova romsk dans! Vi lär oss några steg och sen sätter vi ihop det till ett litet uppträdande. Passar hela familjen!",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "13:00",
-      "sluttid": "14:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 4,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Dans",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Hemsida_17_65232ca123.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/romsk-dansworkshop-3",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52223",
-      "titel": "Sagostund på finska",
-      "beskrivning": "Välkommen på en sagostund på finska! För alla barnfamiljer. Drop in! Ingen föranmälan behövs.",
-      "arrangor": "Östermalms bibliotek, Fältöversten",
-      "plats": "Östermalms bibliotek, Fältöversten",
-      "stadsdel": null,
-      "lat": 59.34011,
-      "lon": 18.09168,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "13:00",
-      "sluttid": "13:20",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_pa_finska_1_4e2a7d580f.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-finska-5",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52802",
-      "titel": "Sagostund",
-      "beskrivning": "Välkommen till Rinkeby bibliotek och lyssna på saga! Vi läser bilderböcker som passar barn cirka 3-8 år, men givetvis är alla välkomna och vuxna får gärna lyssna tillsammans med sina barn!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "13:00",
-      "sluttid": "13:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 8,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Bebissagostund_Kista_8965109d3b.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-409",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-17-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/17-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "bib-50649",
-      "titel": "Livet är härligt, mamma!",
-      "beskrivning": "Livet är härligt, mamma! är en musikföreställning om ett barns upptäcktsfärd i naturen – med nyskriven musik framförd live av fyra musiker.",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "14:00",
-      "sluttid": "14:45",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 4,
-        "till": 9,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Musik",
-      "underkategori": "Teater",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Grotherus_hemsidan_51b7dcfef4.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/livet-ar-harligt-mamma-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51453",
-      "titel": "Sagostund på portugisiska",
-      "beskrivning": "Sagostund på portugisiska!\nÉ hora da história!\n\nSejam bem-vindos à contação de histórias em português!\nGabriella contará histórias para as crianças na Biblioteca de Kungsholmen.\n\nVälkomna på portugisisk sagostund!\nSagor och berättelser för barn och familjer.\n\nVälkomna! Sejam bem-vindos!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-10-17",
-      "slutdatum": "2026-10-17",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_kategori_sagostund2_f72f56f9f3.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-portugisiska-8",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-55000",
       "titel": "Sagostund på engelska",
@@ -3579,6 +3114,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55839",
+      "titel": "Lyssna och pyssla!",
+      "beskrivning": "Lyssna på saga samtidigt som du pysslar med våra bibliotekarier. Skapa Sommarskuggemask eller skuggvärld med collageteknik.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "10:00",
+      "sluttid": "12:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/lyssna-och-pyssla-10",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-52386",
       "titel": "Baby Rhyme Time",
       "beskrivning": "Songs, rythm and movement for 0-3 year olds and their parents and carers.",
@@ -3793,6 +3359,37 @@
       "underkategori": "Bokpresentation",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_saga_830a56b0b5.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/relaxed-hoglasning-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55841",
+      "titel": "Lyssna och pyssla!",
+      "beskrivning": "Lyssna på saga samtidigt som du pysslar tillsammans med våra bibliotekarier. Gör din egen Sommarskuggan-handdocka.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "13:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/lyssna-och-pyssla-12",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -4168,6 +3765,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55843",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-54497",
       "titel": "Läxhjälp",
       "beskrivning": "Behöver du hjälp med studierna? Då har du kommit rätt! Våra volontärer kan det mesta!\nVår läxhjälp är för dig som studerar på grundskolan, gymnasiet eller för dig som går en vuxenutbildning. \nKostnadsfritt.",
@@ -4196,6 +3824,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webbpuff_Laexhjaelp_d4c36ea5c0.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-1335",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55842",
+      "titel": "Sagostund",
+      "beskrivning": "Välkomna på sagostund!\nBibliotekarie läser nya och gamla bilderboksfavoriter.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-26",
+      "slutdatum": "2026-10-26",
+      "starttid": "16:00",
+      "sluttid": "16:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 3,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Sagostund",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_6_5fd06fde0d.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-479",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -4850,6 +4509,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55840",
+      "titel": "Lyssna och pyssla!",
+      "beskrivning": "Lyssna på saga samtidigt som du pysslar med våra bibliotekarier. Skapa Sommarskuggemask eller skuggvärld med collageteknik.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-27",
+      "slutdatum": "2026-10-27",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/lyssna-och-pyssla-11",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55511",
       "titel": "Pokémonbingo!",
       "beskrivning": "Testa din tur i vårt Pokémonbingo! Priser till den som får bingo först.",
@@ -5374,6 +5064,37 @@
       "underkategori": "Sagostund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nybliven_foeraelder_3972e8d8cd.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/bebis-pa-bibblan-25",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55844",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "11:00",
+      "sluttid": "13:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-2",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6059,6 +5780,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55845",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-28",
+      "slutdatum": "2026-10-28",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-3",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55450",
       "titel": "Läs för Janice - för barn med NPF-diagnos(er)",
       "beskrivning": "På läslovet kommer läshunden Janice till biblioteket. Då kan du som är mellan 6 och 9 år boka en tid och läsa högt för henne, i eget rum! Janice gillar också att mysa och kanske hitta på något tricks. Du kan läsa vad som helst. Janice gillar allt! Hunden bidrar med lugn och trygghet och minskar stresskänslor hos läsaren. Lässtunden blir därför mysig och kravlös. För barn med NPF kan hunden därför bidra med självförtroende och ökad motivation för läsning",
@@ -6273,6 +6025,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-7",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55846",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "10:00",
+      "sluttid": "11:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-4",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6555,6 +6338,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "kul-29-familjevandring-i-gamla-stan",
+      "titel": "Familjevandring i Gamla stan",
+      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
+      "arrangor": "Medeltidsmuseet",
+      "plats": "Gamla stan",
+      "stadsdel": null,
+      "lat": 59.32495,
+      "lon": 18.07064,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 5,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 50,
+        "text": "50–100 kr",
+        "status": "kostar"
+      },
+      "kategori": "Barn och familj",
+      "underkategori": null,
+      "bild": null,
+      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/29-familjevandring-i-gamla-stan/",
+      "kalla": "kultur.stockholm"
+    },
+    {
       "id": "kul-spokvisning-for-hela-familjen22",
       "titel": "Spökvisning för hela familjen",
       "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
@@ -6772,6 +6586,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-55851",
+      "titel": "Lyssna och pyssla!",
+      "beskrivning": "Lyssna på saga samtidigt som du pysslar med våra bibliotekarier. Skapa din egen Sommarskugga av toarullar.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 6,
+        "till": null,
+        "kalla": "undre gräns i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/lyssna-och-pyssla-13",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-55217",
       "titel": "Spökvandring",
       "beskrivning": "Välkomna alla modiga äventyrare till en spökvandring i kulturhuset Fanfaren! Vågar du följa med in, se faran i vitögat och lösa gåtan? Tillsammans med kulturskolan och biblioteket i Farsta möter vi olika väsen och utforskar de spökliga rummen i huset. Föräldrar är välkomna att följa med (max en vuxen per barn), boka i så fall en plats för varje barn plus en plats för medföljande förälder. Spökvandringen ges vid fem olika tillfällen, för andra dagar/tider se länkar längre ner på sidan. OBS denna spökvandring är endast för allmänheten, fritids bokas in separat via kontakt med lokala fritidshem.",
@@ -6924,6 +6769,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Bild_evenemang_hemsidan_aa7105d938.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/torsdagsklubben-152",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55847",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-29",
+      "slutdatum": "2026-10-29",
+      "starttid": "16:00",
+      "sluttid": "18:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-5",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7297,6 +7173,37 @@
       "bild": null,
       "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/jakten-pa-jack22222/",
       "kalla": "kultur.stockholm"
+    },
+    {
+      "id": "bib-55857",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-10-30",
+      "slutdatum": "2026-10-30",
+      "starttid": "12:00",
+      "sluttid": "17:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-8",
+      "kalla": "Stockholms stadsbibliotek"
     },
     {
       "id": "bib-55508",
@@ -7885,6 +7792,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-10",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55849",
+      "titel": "Pyssel i aktivitetsrummet",
+      "beskrivning": "Aktivitetsrummet är öppet för pyssel. Färgläggning och enklare pyssel med Sommarskuggantema.",
+      "arrangor": "Stadsbiblioteket Spelbomskan",
+      "plats": "Stadsbiblioteket Spelbomskan",
+      "stadsdel": null,
+      "lat": 59.34327,
+      "lon": 18.05349,
+      "datum": "2026-11-01",
+      "slutdatum": "2026-11-01",
+      "starttid": "11:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sommarskuggan_Illustration_Johanna_Arpiainen_a9b1c2ed2b.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/pyssel-i-aktivitetsrummet-7",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
