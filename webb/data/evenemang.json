@@ -1,266 +1,18 @@
 {
-  "uppdaterad": "2026-10-23T09:00:48.117Z",
-  "antal": 784,
+  "uppdaterad": "2026-10-24T08:34:21.964Z",
+  "antal": 777,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 728,
+      "antal": 723,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 60,
+      "antal": 59,
       "fel": null
     }
   },
   "utan_koordinat": 13,
   "evenemang": [
-    {
-      "id": "bib-55825",
-      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
-      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Lycka till!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-11-01",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Frågesport",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-55801",
-      "titel": "Föräldraträff och skapande verkstad för barnfamiljer",
-      "beskrivning": "Välkommen till föräldraträff på Husby Konsthall!\nDen 23 oktober klockan 10.00 bjuder vi in föräldrar och små barn (0–4 år) till en inspirerande förmiddag på Husby Konsthall.\nVi börjar med att upptäcka den aktuella utställningen. Därefter blir det sagostund och en kreativ workshop.\nTa chansen att delta i en rolig och lärorik aktivitet för hela familjen!\nVi bjuder på fika.\nMissa inte detta tillfälle – vi ses där!\nBoka gärna din plats!",
-      "arrangor": "Husby bibliotek",
-      "plats": "Husby Konsthall på Husby Gård, 164 30 Kista",
-      "stadsdel": null,
-      "lat": 59.40909,
-      "lon": 17.9262,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "10:00",
-      "sluttid": "12:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 4,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Foerskolemorgon_Konstworkshop_65eeb940e3.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/foraldratraff-och-skapande-verkstad-for-barnfamiljer-12",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52834",
-      "titel": "Fredagsmys",
-      "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "15:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 9,
-        "kalla": "skolstadium i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjefredagar_1_818ecce31c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-13",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-51656",
-      "titel": "Helgpyssel",
-      "beskrivning": "Fredagar och lördagar är bibliotekets aktivitetsrum\nöppet för pyssel. \nAlla åldrar är välkomna men yngre barn behöver ha sällskap av en vuxen.",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "15:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-53",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-54184",
-      "titel": "Familjehäng på Skärholmens bibliotek",
-      "beskrivning": "Välkommen på familjehäng på Skärholmens bibliotek!På utvalda fredagar bjuder vi på olika aktiviteter med högläsning, skapande, spel och häng.\nPassar barn i alla åldrar tillsammans med sina vuxna.\nDrop in!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_08_27_T155446_643_f66a12532f.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjehang-pa-skarholmens-bibliotek-4",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-50293",
-      "titel": "Familjefredag",
-      "beskrivning": "Varje vecka bjuder vi in till Familjefredag med aktiviteter för familjer med barn 0-5 år. Vi erbjuder en varierad mix av sagostunder, filmvisning, boktips och annat roligt, med ett nytt tema varje vecka. Välkomna!",
-      "arrangor": "Tensta bibliotek",
-      "plats": "Tensta bibliotek",
-      "stadsdel": null,
-      "lat": 59.39541,
-      "lon": 17.8978,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "16:00",
-      "sluttid": "16:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 5,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Teater",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kopia_av_Bild_evenemang_hemsidan_56_5dbcf17bec.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjefredag-25",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-52467",
-      "titel": "Fredagsmys för familjer",
-      "beskrivning": "Välkommen på en mysig sagostund! Sagostunden passar barn i åldern 2-6 år men yngre och äldre syskon är också välkomna!",
-      "arrangor": "Norra Djurgårdsstadens bibliotek",
-      "plats": "Norra Djurgårdsstadens bibliotek",
-      "stadsdel": null,
-      "lat": 59.35956,
-      "lon": 18.09508,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 2,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nds_Mandagsmys_3_6_ar_76cf61aeab.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/fredagsmys-for-familjer-4",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-lilla-spoket-laban-busar-vidare",
-      "titel": "Lilla spöket Laban busar vidare",
-      "beskrivning": "Kom och se Lilla Spöket Laban på nya äventyr i Slottet Godmorgonsol.",
-      "arrangor": "Stockholms stad",
-      "plats": "Skarpnäcks allé 25",
-      "stadsdel": null,
-      "lat": 59.2679,
-      "lon": 18.12892,
-      "datum": "2026-10-23",
-      "slutdatum": "2026-10-23",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": null,
-        "text": null,
-        "status": "okant"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://kultur.stockholm/kalendarium/kalendarium/2026/10/lilla-spoket-laban-busar-vidare/",
-      "kalla": "kultur.stockholm"
-    },
     {
       "id": "bib-55826",
       "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
@@ -16100,6 +15852,37 @@
       "underkategori": "Sagostund",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Dinosaurieloerdag_e532bcb033.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/dinosaurielordag-i-samarbete-med-mondial-forlag-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-55941",
+      "titel": "Ropa Tendida - Sagostund och workshop på spanska",
+      "beskrivning": "Espectácula de narración oral para público familiar y taller con varios juegos. \nPor Eva Andújar. Para público familiar, especialmente recomendada para niños y niñas a partir de 6 años. La actividad es gratuita. Por favor, inscríbete con antelación para asegurar tu plaza. ¡Te damos la bienvenida!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-11-28",
+      "slutdatum": "2026-11-28",
+      "starttid": "14:00",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": "Sagostund",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Andujar_2_845c11fc62.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/ropa-tendida-1",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
