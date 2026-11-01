@@ -1,173 +1,18 @@
 {
-  "uppdaterad": "2026-10-31T10:07:34.054Z",
-  "antal": 590,
+  "uppdaterad": "2026-11-01T10:58:43.184Z",
+  "antal": 585,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 563,
+      "antal": 559,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 39,
+      "antal": 36,
       "fel": null
     }
   },
   "utan_koordinat": 8,
   "evenemang": [
-    {
-      "id": "bib-vvoum9m6y5oxl1jr9kriwsji",
-      "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
-      "beskrivning": "Vad kan du om monster, väsen, spel, böcker, skräck, Halloween? Kom och utmana dig på bibliotekets kluriga frågesport på biblioteket under höstlovet/läslovet och tävla om fina priser. Tipspromenaden sitter uppe under bibliotekets ordinarie öppettider från 24 oktober till och med 1 november. Vi drar vinnare efter höstlovet är slut. Lycka till!",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-10-31",
-      "slutdatum": "2026-11-06",
-      "starttid": "00:00",
-      "sluttid": "00:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Frågesport",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_10_16_T170247_295_7bb713c446.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/spannande-tipspromenad-om-halloween-tavla-om-priser-9",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-m5uagun7uylupg9tfi2j2ju2",
-      "titel": "Familjelördag",
-      "beskrivning": "Varje lördag myser vi till det lite och bjuder på fika, pyssel och sagostund/minibio. Ingen föranmälan behövs, men kom gärna i god tid till sagostunden/filmen, som hålls 13.00-13.30.\nVälkomna!",
-      "arrangor": "Bredängs bibliotek",
-      "plats": "Bredängs bibliotek",
-      "stadsdel": null,
-      "lat": 59.29464,
-      "lon": 17.934,
-      "datum": "2026-10-31",
-      "slutdatum": "2026-10-31",
-      "starttid": "11:00",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 13,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjesoendag_Bredaeng_4b595e8278.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-62",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-jakten-pa-jack3",
-      "titel": "UTSÅLT: Jakten på Jack",
-      "beskrivning": "Följ med på en magisk tur runt Gamla stan med Jack och hans vänner från de populära barnböckerna. Vandringen passar barn i åldrarna 6–10 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-10-31",
-      "slutdatum": "2026-10-31",
-      "starttid": "11:30",
-      "sluttid": "13:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": 10,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/10/jakten-pa-jack3/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "bib-td4qchcuyu226di34h3znnpg",
-      "titel": "Sagostund",
-      "beskrivning": "Välkommen till Rinkeby bibliotek och lyssna på saga! Vi läser bilderböcker som passar barn cirka 3-8 år, men givetvis är alla välkomna och vuxna får gärna lyssna tillsammans med sina barn!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-10-31",
-      "slutdatum": "2026-10-31",
-      "starttid": "13:00",
-      "sluttid": "13:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 8,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Bebissagostund_Kista_8965109d3b.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-411",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-31-glomda-drakar-och-skatter",
-      "titel": "Glömda drakar och skatter",
-      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-10-31",
-      "slutdatum": "2026-10-31",
-      "starttid": "13:15",
-      "sluttid": "14:45",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/10/31-glomda-drakar-och-skatter/",
-      "kalla": "kultur.stockholm"
-    },
     {
       "id": "bib-ycaxst682hj4j8gjf8yb1w5g",
       "titel": "Spännande tipspromenad om Halloween! Tävla om priser",
