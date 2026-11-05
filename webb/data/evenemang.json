@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-11-04T11:48:15.986Z",
-  "antal": 519,
+  "uppdaterad": "2026-11-05T11:47:00.885Z",
+  "antal": 518,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 520,
+      "antal": 519,
       "fel": null
     },
     "kultur.stockholm": {
@@ -14,16 +14,16 @@
   "utan_koordinat": 5,
   "evenemang": [
     {
-      "id": "bib-emqbztoblqq7wps18ayyb16b",
-      "titel": "Tre generationer möts på Farsta bibliotek",
-      "beskrivning": "Träffarna riktar sig till barnfamiljer med barn 0-2 år och till seniorer.\nVi umgås, fikar, samtalar och sjunger tillsammans. Vem vet, kanske \nhittar du en extra-mormor, -morfar eller ett -barnbarn på köpet!\nVissa träffar blir det även pyssel eller bokstund.\nDe två första träffarna träffas vi på barnavdelningen, därefter ses vi i rummet \"Romanen\" på Farsta bibliotek. Det bjuds på fika.\nDet är gratis och ingen anmälan krävs. \nTräffarna sker på onsdagar varje vecka, men den 14 oktober är det ingen träff!",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
+      "id": "bib-vdd0yrvrukmn6dws8tewwop7",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
       "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-11-05",
+      "slutdatum": "2026-11-05",
       "starttid": "13:00",
       "sluttid": "14:30",
       "aterkommande": true,
@@ -38,196 +38,10 @@
         "text": "Gratis",
         "status": "gratis"
       },
-      "kategori": "Språkcafé",
-      "underkategori": "Sångstund",
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-55",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-o3dkdb3eol7n9ij9hqrwkra8",
-      "titel": "Högläsning",
-      "beskrivning": "Varje onsdag kl. 16 ses vi på barnavdelningen för en stunds högläsning! Ingen föranmälan behövs. Sagostunden passar barn i åldern 3-6 år men yngre och äldre syskon är såklart också välkomna! Vi läser på svenska och även på engelska om så önskas.",
-      "arrangor": "Östermalms bibliotek, Fältöversten",
-      "plats": "Östermalms bibliotek, Fältöversten",
-      "stadsdel": null,
-      "lat": 59.34011,
-      "lon": 18.09168,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:00",
-      "sluttid": "16:15",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_1_dafb6d607c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/hoglasning-63",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-m9rc5hxyyjejw0ynrqe14exy",
-      "titel": "Kreativ sagostund på persiska",
-      "beskrivning": "Välkommen till kreativa sagostunder på persiska för yngre barn!\nUnder sagostunden läser vi en berättelse, pratar om den tillsammans och ibland leker eller dramatiserar vi sagan med barnen.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 1,
-        "till": 3,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_1_dafb6d607c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/kreativ-sagostund-pa-persiska-42",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-wwzxnlmtcd57ixvnhhc2dnus",
-      "titel": "Matteläxhjälp",
-      "beskrivning": "Vill du ha hjälp med matten? Kom och få gratis hjälp av volontärer från Mattecentrum! Vi hjälper till med matteläxor upp till gymnasienivå. Mattecentrum är en ideell förening som driver räknestugor runt om i Sverige. Alla är välkomna oavsett ålder eller vilken skola man går i. Går du i grundskolan, på gymnasiet, komvux eller är förälder som vill repetera för att hjälpa dina barn? Alla är välkomna!\nDrop-in!",
-      "arrangor": "Husby bibliotek",
-      "plats": "Husby bibliotek",
-      "stadsdel": null,
-      "lat": 59.40909,
-      "lon": 17.9262,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Bild_till_hemsidan_Mattecentrum_9e30122654.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/mattelaxhjalp-119",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-xpw044eg1hklzyhrfxzyejmd",
-      "titel": "Sagoläsning",
-      "beskrivning": "Välkommen till Rinkeby bibliotek och lyssna på saga! Vi läser bilderböcker som passar barn cirka 3-8 år, men givetvis är alla välkomna och vuxna får gärna lyssna tillsammans med sina barn!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 8,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_strapisagostundbild_55dfce87bd.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagolasning-10",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-xum6q6s93puwq60w1tlpyf8l",
-      "titel": "Sagostund!",
-      "beskrivning": "Välkomna på sagostund!\nBibliotekarie högläser bilderböcker som passar barn från cirka 3 år.\n\nDrop in!",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_76_ef0940f119.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-377",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-yu4ibg78ed0e9uqc90f4wafw",
-      "titel": "Läxhjälp för barn, unga och vuxna",
-      "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": 59.36763,
-      "lon": 17.84372,
-      "datum": "2026-11-04",
-      "slutdatum": "2026-11-04",
-      "starttid": "16:45",
-      "sluttid": "17:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-73",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-222",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -259,37 +73,6 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_09_04_T181417_087_da2585b01b.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babyhang-57",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-mlpbox88zwmy1ufw92obll0n",
-      "titel": "Babyträffar på bibblan",
-      "beskrivning": "Babyträffar för dig 0-2 år med medföljande vuxen. \nScrolla ner för att se träffens tema!",
-      "arrangor": "Tranströmerbiblioteket",
-      "plats": "Tranströmerbiblioteket",
-      "stadsdel": null,
-      "lat": 59.31458,
-      "lon": 18.07293,
-      "datum": "2026-11-05",
-      "slutdatum": "2026-11-05",
-      "starttid": "13:00",
-      "sluttid": "13:45",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 2,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_evenemang_rim_och_ramsor1_26afbf7c7e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/babytraffar-pa-bibblan-15",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -2804,6 +2587,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-ccmkaf7jbtkdh13xeh4sjr0m",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-11-12",
+      "slutdatum": "2026-11-12",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-223",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-y9jq4yuw1s6ymnpwx6annh3g",
       "titel": "Pekboksklubb",
       "beskrivning": "Välkommen till pekboksklubben, en rolig stund på biblioteket för de allra yngsta. Vi utforskar språket genom att sjunga, ramsa och läsa pekbok tillsammans. Kul för både stor och liten. 4-12 månader.\n\nJämna torsdagar kl. 13-13:30",
@@ -3731,6 +3545,37 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjesoendag_Bredaeng_4b595e8278.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-64",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-bj1t22fvb3cmnci2fihopwy0",
+      "titel": "Familjelördag",
+      "beskrivning": "Kom och förbered dig för advent med oss. Det blir julig sagostund 11.20. Hela dagen kan du julpyssla och få pepparkaksfika! Välkomna!",
+      "arrangor": "Brommaplans bibliotek",
+      "plats": "Brommaplans bibliotek",
+      "stadsdel": null,
+      "lat": 59.33879,
+      "lon": 17.94015,
+      "datum": "2026-11-14",
+      "slutdatum": "2026-11-14",
+      "starttid": "11:00",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_tomte_4b705d32fe.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjelordag-90",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -5467,6 +5312,37 @@
       "underkategori": "Musik",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_2_3cd5729778.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/majas-alfabetssanger-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-dkliue0fl0f6pe79cj28uuvb",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-11-19",
+      "slutdatum": "2026-11-19",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-224",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -7857,6 +7733,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-iubvof1yemvn55zyy2m8zx0e",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-11-26",
+      "slutdatum": "2026-11-26",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-225",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-ftt2cl00ml24s96hon2mgznv",
       "titel": "Pekboksklubb",
       "beskrivning": "Välkommen till pekboksklubben, en rolig stund på biblioteket för de allra yngsta. Vi utforskar språket genom att sjunga, ramsa och läsa pekbok tillsammans. Kul för både stor och liten. 4-12 månader.\n\nJämna torsdagar kl. 13-13:30",
@@ -10089,6 +9996,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-athfu7jwl74abib33wuunoam",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-03",
+      "slutdatum": "2026-12-03",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-226",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-m75tw7nccpz0mzchzzgrchap",
       "titel": "Babyhäng",
       "beskrivning": "Välkommen på babyhäng för alla föräldrar \noch barn i åldern 3 månader till 2 år.\nUnder träffarna bjuder vi på roliga aktiviteter: \nHögläsning & sångstund\nSkapande & dramatik.\nSpråkutveckling och boktips. Vi pratar om barns språk och recenserar böcker tillsammans.\n\nBiblioteket bjuder på fika.\nAnmälan till: linnea.cedergren@stockholm.se",
@@ -12256,6 +12194,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-78",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-kq79228lt3hv99f073qvywim",
+      "titel": "Svenska med baby",
+      "beskrivning": "Träffarna riktar sig till föräldrar med barn 0-2 år och till seniorer. Vi umgås, fikar, samtalar, sjunger och tränar svenska (för den som vill). Vem vet, kanske hittar du en extra mormor, morfar eller barnbarn på köpet! Det bjuds på fika. Det är gratis och ingen anmälan krävs. Träffarna leds av engagerade föräldralediga volontärer - är du intresserad av att vara gruppledare är du varmt välkommen att höra av dig till oss på biblioteket. Välkomna!",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-10",
+      "slutdatum": "2026-12-10",
+      "starttid": "13:00",
+      "sluttid": "14:30",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": 0,
+        "till": 2,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Rim och ramsor",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/svenska-med-baby-227",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
