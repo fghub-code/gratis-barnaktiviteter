@@ -1,359 +1,18 @@
 {
-  "uppdaterad": "2026-11-08T10:59:41.245Z",
-  "antal": 519,
+  "uppdaterad": "2026-11-09T12:26:17.962Z",
+  "antal": 475,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 486,
+      "antal": 477,
       "fel": null
     },
     "kultur.stockholm": {
-      "antal": 35,
-      "fel": null
+      "antal": 0,
+      "fel": "fetch failed"
     }
   },
-  "utan_koordinat": 7,
+  "utan_koordinat": 4,
   "evenemang": [
-    {
-      "id": "bib-wtwlgw3arvde7d9zm9kyu8zt",
-      "titel": "Familjehelg",
-      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "11:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-202",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-mt0kkdayz6ns4brdagqummnh",
-      "titel": "Sagostund på nederländska",
-      "beskrivning": "Voorlezen, kom jij ook in de kring?\n\nVälkomna till sagostund på nederländska! \nLaura och Evelyne kommer till Kungsholmens bibliotek Internationella biblioteket och läser för er!\nEfter läsningen pysslar vi tillsammans.\nIngen föranmälan!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "11:00",
-      "sluttid": "12:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_strapi_6f10496100.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-nederlandska-14",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-qbl1bz5f21r3cmaq7t6r3w01",
-      "titel": "Sagolika söndagar",
-      "beskrivning": "Barn med sina vuxna är hjärtligt välkomna till en extra barnvänlig dag på biblioteket. Varje söndag erbjuder vi en självgående aktivitet vid bibliotekets pysselbord, det finns fingerdockor att leka med i vår miniteater och massor av härliga böcker att läsa och låna.\n\nVissa söndagar har vi även sagostund i sagorummet.\nDrop-in under bibliotekets ordinarie bemannade öppettider. Ingen föranmälan behövs.",
-      "arrangor": "Luma bibliotek",
-      "plats": "Luma bibliotek",
-      "stadsdel": null,
-      "lat": 59.30591,
-      "lon": 18.0969,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "11:00",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_sagolik_soendag_0bae9e16af.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagolika-sondagar-39",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-u4d3ehemt8cyh2u56d1sbv9m",
-      "titel": "Familjesöndag",
-      "beskrivning": "Vi dukar fram pyssel för hela familjen att göra tillsammans.\nVarmt välkomna!",
-      "arrangor": "Hagsätra bibliotek",
-      "plats": "Hagsätra bibliotek",
-      "stadsdel": null,
-      "lat": 59.26191,
-      "lon": 18.01454,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "12:00",
-      "sluttid": "14:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_familjesoendag_e47ea42c63.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjesondag-120",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-r510il75g7c9wa0u4j6dfrt7",
-      "titel": "MINERALISM: Teaterföreställning för barn",
-      "beskrivning": "Tid pågår. Förändring pågår. Våra liv pågår. Och långt innan vår tid föddes stenarna.I en planetarisk krock av ofattbar hög hastighet blev jorden till. Det händer att tiden står still när vi håller i en sten, en smula av planeten. Mineralism skapar en stund att finnas vid magin som finns i vår och stenarnas varande. Den bjuder in till att skapa ihop en samling av saker vi kan hålla i, berätta om eller bara knappt föreställa. Föreställningen främjar det sverigefinska kulturarvet och ger publiken möjlighet att höra finska.",
-      "arrangor": "Luma bibliotek",
-      "plats": "Luma bibliotek",
-      "stadsdel": null,
-      "lat": 59.30591,
-      "lon": 18.0969,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "13:00",
-      "sluttid": "13:45",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 2,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Teater",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_MINERALISMI_423c5e92c1.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/mineralism-teaterforestallning-for-barn-2",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-p9x1y2wq3akm0iin4r1wfrtt",
-      "titel": "Sagostund på turkiska",
-      "beskrivning": "Välkomna till en mysig sagostund på turkiska!\nMissa inte denna unika sagostund!\nEfter sagan fortsätter vi med roliga aktiviteter tillsammans med barnen.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Nyhetsbrev_webb_1920_x_1005_px_1200_x_630_px_45_f84046c9d1.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-turkiska-8",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-q0sfh7mj3qbfkkfhren8p98e",
-      "titel": "Sagostund",
-      "beskrivning": "På söndagar läser en bibliotekarie bilderböcker som passar barn i förskoleåldern. Välkomna hela familjen!",
-      "arrangor": "Örby bibliotek",
-      "plats": "Örby bibliotek",
-      "stadsdel": null,
-      "lat": 59.27519,
-      "lon": 18.02762,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "14:00",
-      "sluttid": "14:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 1,
-        "till": 5,
-        "kalla": "förskoleålder i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sagostund_Oerby_514b51caab.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-429",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-z5qjwi1buvzvxmq72l6jsbk6",
-      "titel": "Arab film festival: Film, teater och skapande",
-      "beskrivning": "Upplev en teaterföreställning med skuggspel baserad på Alfons Åberg på arabiska! Efter föreställningen får barnen själva prova på skuggspel och utforska hur skuggor kan användas för att skapa egna berättelser.\n\nVi visar också filmen The Escape to School, följt av en kreativ workshop där barnen får skapa med inspiration från filmens berättelse och teman.\n\nVälkommen att upptäcka, skapa och berätta tillsammans! Aktiviteterna riktar sig till barn. Drop-in.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-11-08",
-      "slutdatum": "2026-11-08",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Film",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_School_ce13f91187.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/arab-filmfestival-nara-dig-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-h2cak7w92qlgyqqm95d1kia1",
-      "titel": "Baby Rhyme Time",
-      "beskrivning": "Songs, rythm and movement for 0-3 year olds and their parents and carers.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-09",
-      "slutdatum": "2026-11-09",
-      "starttid": "11:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 3,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Rim och ramsor",
-      "underkategori": "Sagostund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_babysang_toddler1200x630beskuren_b14ac640c2.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/baby-rhyme-time-49",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-u1m3f29xyq8m9455luk9t2dt",
-      "titel": "Sagostund för de yngsta!",
-      "beskrivning": "Sagostund för de yngsta!\nVi läser, sjunger och babblar tillsammans.\nPassar bebisar 0-12 månader.\n\nVälkomna!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": 59.34777,
-      "lon": 17.88438,
-      "datum": "2026-11-09",
-      "slutdatum": "2026-11-09",
-      "starttid": "11:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 1,
-        "kalla": "månadsålder i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Baby_evenemang_hemsidan_1_fff183dd18.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-for-de-yngsta-76",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-musfp2yykd67dye351gki769",
-      "titel": "Bebissagostund",
-      "beskrivning": "Vi läser, sjunger och ramsar med de allra yngsta bebisarna som ännu inte börjat krypa. Varannan måndag 11:30 på Kista bibliotek. Bokningen gäller en bebis och en vuxen. Drop in i mån av plats.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-11-09",
-      "slutdatum": "2026-11-09",
-      "starttid": "11:30",
-      "sluttid": "12:00",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 1,
-        "kalla": "ord för spädbarn i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Bebissagostund_Kista_8965109d3b.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/bebissagostund-12",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-jrsrmyhfrxa8twtzm2h3ojc0",
       "titel": "Babybabbel",
@@ -419,7 +78,7 @@
     {
       "id": "bib-d1ib6rt4byf7yw96377xmy5i",
       "titel": "Bokklubb Isol",
-      "beskrivning": "Gillar du högläsning?\nVill du prata om böcker?\nÄr du 7-12 år?\nPerfekt!\n\nVi träffas på barnavdelningen måndag 9 november klockan 15-16.\n\nBibliotekarierna läser böcker av Isol inför hennes författarbesök på Tranströmerbiblioteket. Hon besöker oss under Språkfesten på lördagen. Inga förberedelser krävs! Glöm inte att anmäla dig!\nPs. På träffen pratar du så mycket eller så lite du vill. Huvudsaken är att vi har kul tillsammans! Biblioteket bjuder på fika.",
+      "beskrivning": "Gillar du högläsning?\nVill du prata om böcker?\nÄr du 7-12 år?\nPerfekt!\n\nVi träffas på barnavdelningen måndag 9 november klockan 15-16.\n\nBibliotekarierna läser böcker av Isol inför hennes författarbesök på Tranströmerbiblioteket. Hon besöker oss under Språkfesten på lördagen. Inga förberedelser krävs! Kom som du är!\nPs. På träffen pratar du så mycket eller så lite du vill. Huvudsaken är att vi har kul tillsammans! Biblioteket bjuder på fika.",
       "arrangor": "Tranströmerbiblioteket",
       "plats": "Tranströmerbiblioteket",
       "stadsdel": null,
@@ -430,7 +89,7 @@
       "starttid": "15:00",
       "sluttid": "16:00",
       "aterkommande": false,
-      "kraverBokning": true,
+      "kraverBokning": false,
       "alder": {
         "fran": 7,
         "till": 12,
@@ -2370,37 +2029,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-11-14",
-      "slutdatum": "2026-11-14",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/11/historiedetektiverna-mysteriet-med-den-snarkande-ankan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-jco2oiefoem4ileh7zldp63s",
       "titel": "Lust att skapa-lördagar för barn och deras vuxna",
       "beskrivning": "Vi öppnar upp ateljén mellan kl. 12-14 med ett enklare pyssel. Lämpligt för barn från 4 år. Barnen behöver ha sällskap av en vuxen. Välkomna in och pyssla!",
@@ -2525,37 +2153,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-14-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-11-14",
-      "slutdatum": "2026-11-14",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/11/14-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-fk5pr11cukx8pvdi0aqnh5br",
       "titel": "Sagostund på kantonesiska!",
       "beskrivning": "Vi bjuder in barn och familjer till en mysig sagostund på kantonesiska. Vi kommer att läsa spännande berättelser på traditionell kinesiska och sjunga härliga barnsånger tillsammans. Det blir en rolig och interaktiv stund för de små! Drop-in! Välkomna! 歡迎大家參加!",
@@ -2616,68 +2213,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hemsidan_sagostund_med_Marion_i_november_e7e5a80faf.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-med-marion-16",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-spokvisning-for-hela-familjen",
-      "titel": "FULLBOKAT: Spökvisning för hela familjen",
-      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-11-14",
-      "slutdatum": "2026-11-14",
-      "starttid": "14:00",
-      "sluttid": "14:35",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/11/spokvisning-for-hela-familjen/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-spokvisning-for-hela-familjen2",
-      "titel": "FULLBOKAT: Spökvisning för hela familjen",
-      "beskrivning": "Vad kan vårt gamla hus bära för hemskheter? Följ med och kolla! Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-11-14",
-      "slutdatum": "2026-11-14",
-      "starttid": "15:00",
-      "sluttid": "15:35",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/11/spokvisning-for-hela-familjen2/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-ocujt2dd95hc5ksukbzgjsis",
@@ -5315,37 +4850,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan2",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-11-21",
-      "slutdatum": "2026-11-21",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/11/historiedetektiverna-mysteriet-med-den-snarkande-ankan2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-tlmfiqvrni75va5uifwnnlon",
       "titel": "Lust att skapa-lördagar för barn och deras vuxna",
       "beskrivning": "Vi öppnar upp ateljén mellan kl. 12-14 med ett enklare pyssel. Lämpligt för barn från 4 år. Barnen behöver ha sällskap av en vuxen. Välkomna in och pyssla!",
@@ -5501,37 +5005,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-21-glomda-drakar-och-skatter",
-      "titel": "Glömda drakar och skatter",
-      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-11-21",
-      "slutdatum": "2026-11-21",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/11/21-glomda-drakar-och-skatter/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-pdlpli8hv6tch2mn3wf008hs",
       "titel": "Handbok för superhjältar - spela rollspelet!",
       "beskrivning": "Kom och prova på rollspelet som utspelar sig i Handbok för Superhjältar-världen! Tillsammans bekämpar vi skurkar och löser mysterier i Rosenhill. Du behöver inte ha spelat rollspel tidigare. Bibliotekarie Frida gästar från Skarpnäcks bibliotek som spelledare.",
@@ -5685,37 +5158,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_sagolik_soendag_0bae9e16af.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagolika-sondagar-41",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
-      "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-11-22",
-      "slutdatum": "2026-11-22",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/11/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-scr9tme0dvpnj7k5ik6522u1",
@@ -7919,37 +7361,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-28-medeltida-jul-familjevisning-av-svartbrodraklostret",
-      "titel": "Medeltida jul – familjevisning av Svartbrödraklostret",
-      "beskrivning": "Vi reser tillbaka till medeltiden och lär känna om och hur man firade jul i staden.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Svartbrödraklostrets härbärge, Gamla stan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-11-28",
-      "slutdatum": "2026-11-28",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/11/28-medeltida-jul-familjevisning-av-svartbrodraklostret/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-e2wjyoczk1wevcd32ie4flqo",
       "titel": "Familjehelg",
       "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
@@ -10089,37 +9500,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-5-medeltida-jul-familjevisning-av-svartbrodraklostret",
-      "titel": "Medeltida jul – familjevisning av Svartbrödraklostret",
-      "beskrivning": "Vi reser tillbaka till medeltiden och lär känna om och hur man firade jul i staden.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Svartbrödraklostrets härbärge, Gamla stan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-05",
-      "slutdatum": "2026-12-05",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/12/5-medeltida-jul-familjevisning-av-svartbrodraklostret/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-giyswk3tqlwh6ihdq26ukmx2",
       "titel": "Familjehelg",
       "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
@@ -10211,37 +9591,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_sagolik_soendag_0bae9e16af.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagolika-sondagar-43",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-12-06",
-      "slutdatum": "2026-12-06",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/12/historiedetektiverna-mysteriet-med-den-snarkande-ankan/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-d6la9y5ugr0081vgfep9zyj3",
@@ -11856,6 +11205,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-xyyfwhjvs91tmfwsew6g5v0n",
+      "titel": "Radio Trattofon",
+      "beskrivning": "Cirkus Trattofon rattar in en halsbrytande humorföreställning på sin tecknade radio. Men radion själv är inte med på noterna. Ett enkelt shownummer urartar i tekniskt haveri, kanal efter kanal ställs in med oväntade vändningar. I jakt på den rätta låten får de två figurerna snubbla sig fram i en värld av dans, akrobatik, ljudeffekter och tecknad rekvisita. Fysisk komedi för hela familjen! Föreställningen innehåller publikinteraktion och efteråt får barnen vara med och dansa. Föreställningen är utan tal och kan förstås av alla. Boka en plats per barn och en plats per vuxen!",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "09:30",
+      "sluttid": "10:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 3,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Teater",
+      "underkategori": "Övrigt",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Trattofon_a2357694c4.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/trattofon-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-qj8c0n0e944mknnho6u061i8",
       "titel": "Babybabbel",
       "beskrivning": "Välkommen till Bibblerians babybokcirkel för bebisar och deras vuxna.",
@@ -11977,6 +11357,37 @@
       "underkategori": "Rim och ramsor",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Babysang_hemsida_hoesten_2026_c1055661c7.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/babysang-188",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-mh71hqndk4mv2l86z34wspwh",
+      "titel": "Radio Trattofon",
+      "beskrivning": "Cirkus Trattofon rattar in en halsbrytande humorföreställning på sin tecknade radio. Men radion själv är inte med på noterna. Ett enkelt shownummer urartar i tekniskt haveri, kanal efter kanal ställs in med oväntade vändningar. I jakt på den rätta låten får de två figurerna snubbla sig fram i en värld av dans, akrobatik, ljudeffekter och tecknad rekvisita. Fysisk komedi för hela familjen! Föreställningen innehåller publikinteraktion och efteråt får barnen vara med och dansa. Föreställningen är utan tal och kan förstås av alla. Boka en plats per barn och en plats per vuxen!",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "10:45",
+      "sluttid": "11:15",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 3,
+        "till": 6,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Teater",
+      "underkategori": "Övrigt",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Trattofon_a2357694c4.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/trattofon-2",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -12474,37 +11885,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Bebissagostund_Kista_8965109d3b.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-417",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-12-medeltida-jul-familjevisning-av-svartbrodraklostret",
-      "titel": "Medeltida jul – familjevisning av Svartbrödraklostret",
-      "beskrivning": "Vi reser tillbaka till medeltiden och lär känna om och hur man firade jul i staden.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Svartbrödraklostrets härbärge, Gamla stan",
-      "stadsdel": null,
-      "lat": null,
-      "lon": null,
-      "datum": "2026-12-12",
-      "slutdatum": "2026-12-12",
-      "starttid": "14:00",
-      "sluttid": "15:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/12/12-medeltida-jul-familjevisning-av-svartbrodraklostret/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-p2ligmlholsqg6bob30223om",
@@ -14243,37 +13623,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
-      "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2026-12-19",
-      "slutdatum": "2026-12-19",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2026/12/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-jlltmi23596o2lve4hen75oz",
       "titel": "Öppen ateljé för barn i alla åldrar",
       "beskrivning": "Vi ses några lördagar i ateljén och provar olika typer av skapande, material och tekniker.\nTvå insläpp, klockan 12 och klockan 14. Biljetter hämtas samma dag i barndisken. Alla som är med, både vuxna och barn, behöver biljett. Det är såklart gratis!\nVälkomna!",
@@ -14584,37 +13933,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-26-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2026-12-26",
-      "slutdatum": "2026-12-26",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2026/12/26-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-aztwsjwf0syvoy0yvl3j8cdh",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -14706,37 +14024,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-81",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-2-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-01-02",
-      "slutdatum": "2027-01-02",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/01/2-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-otjrisj2koqslquxztwxuoye",
@@ -14832,37 +14119,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-10",
-      "slutdatum": "2027-01-10",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-snarkande-ankan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-mx5grum9yq4bcbx9odlrkm7q",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -14956,68 +14212,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan2",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-17",
-      "slutdatum": "2027-01-17",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-snarkande-ankan2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen",
-      "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-17",
-      "slutdatum": "2027-01-17",
-      "starttid": "13:00",
-      "sluttid": "13:45",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-gxxm6hxx80dafx1gqzj5lzw2",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -15109,99 +14303,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-84",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan22",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-23",
-      "slutdatum": "2027-01-23",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-snarkande-ankan22/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2",
-      "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-23",
-      "slutdatum": "2027-01-23",
-      "starttid": "14:00",
-      "sluttid": "14:45",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen2/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen22",
-      "titel": "Historiedetektiverna: Mysteriet med den försvunna näktergalen",
-      "beskrivning": "En av världens vackraste röster är borta. Nu vill en tidsresande vaktmästare att vi ska lösa mysteriet och hitta rösten. Från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-24",
-      "slutdatum": "2027-01-24",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-forsvunna-naktergalen22/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-ayrsx2n0dng8fa08cykfbbqu",
@@ -15326,37 +14427,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-183",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-historiedetektiverna-mysteriet-med-den-snarkande-ankan222",
-      "titel": "Historiedetektiverna: Mysteriet med den snarkande änkan",
-      "beskrivning": "Änkan Bökman levde i Gamla stan på 1500-talet. Tre äkta män hann hon med och nu ligger hon och snarkar på museet. Trodde vi … Passar barn från 7 år.",
-      "arrangor": "Stadsmuseet",
-      "plats": "Stadsmuseet, Slussen",
-      "stadsdel": null,
-      "lat": 59.31959,
-      "lon": 18.07126,
-      "datum": "2027-01-30",
-      "slutdatum": "2027-01-30",
-      "starttid": "11:30",
-      "sluttid": "12:15",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://stadsmuseet.stockholm/aktuellt/kalendarium/2027/01/historiedetektiverna-mysteriet-med-den-snarkande-ankan222/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-znsxyvdwbfjttt2lol79lqje",
@@ -15545,68 +14615,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-26-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-02-26",
-      "slutdatum": "2027-02-26",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/02/26-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-27-pappa-gosta-en-familjevandring-i-gustav-vasas-spar",
-      "titel": "Pappa Gösta – en familjevandring i Gustav Vasas spår",
-      "beskrivning": "Följ med i spåren efter Sveriges främste 1500-talskung och hans barn. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-02-27",
-      "slutdatum": "2027-02-27",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/02/27-pappa-gosta-en-familjevandring-i-gustav-vasas-spar/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-s8qym9ww92miiqhtlygfkk9u",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -15638,347 +14646,6 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
-      "id": "kul-4-alla-agg-i-en-korg",
-      "titel": "Alla ägg i en korg",
-      "beskrivning": "Familjevandring i Gamla stan med påsktema. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-04",
-      "slutdatum": "2027-03-04",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/4-alla-agg-i-en-korg/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-5-glomda-drakar-och-skatter",
-      "titel": "Glömda drakar och skatter",
-      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-05",
-      "slutdatum": "2027-03-05",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/5-glomda-drakar-och-skatter/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-6-alla-agg-i-en-korg",
-      "titel": "Alla ägg i en korg",
-      "beskrivning": "Familjevandring i Gamla stan med påsktema. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-06",
-      "slutdatum": "2027-03-06",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/6-alla-agg-i-en-korg/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-13-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-13",
-      "slutdatum": "2027-03-13",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/13-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-20-pappa-gosta-en-familjevandring-i-gustav-vasas-spar",
-      "titel": "Pappa Gösta – en familjevandring i Gustav Vasas spår",
-      "beskrivning": "Följ med i spåren efter Sveriges främste 1500-talskung och hans barn. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-20",
-      "slutdatum": "2027-03-20",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/20-pappa-gosta-en-familjevandring-i-gustav-vasas-spar/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-31-alla-agg-i-en-korg",
-      "titel": "Alla ägg i en korg",
-      "beskrivning": "Familjevandring i Gamla stan med påsktema. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-03-31",
-      "slutdatum": "2027-03-31",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/03/31-alla-agg-i-en-korg/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-1-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-01",
-      "slutdatum": "2027-04-01",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/1-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-2-alla-agg-i-en-korg",
-      "titel": "Alla ägg i en korg",
-      "beskrivning": "Familjevandring i Gamla stan med påsktema. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-02",
-      "slutdatum": "2027-04-02",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/2-alla-agg-i-en-korg/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-3-glomda-drakar-och-skatter",
-      "titel": "Glömda drakar och skatter",
-      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-03",
-      "slutdatum": "2027-04-03",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/3-glomda-drakar-och-skatter/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-10-familjevandring-i-gamla-stan",
-      "titel": "Familjevandring i Gamla stan",
-      "beskrivning": "Upptäck vad gränderna döljer genom berättelser från medeltiden. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-10",
-      "slutdatum": "2027-04-10",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/10-familjevandring-i-gamla-stan/",
-      "kalla": "kultur.stockholm"
-    },
-    {
-      "id": "kul-17-glomda-drakar-och-skatter",
-      "titel": "Glömda drakar och skatter",
-      "beskrivning": "Följ med på historiejakt i Gamla stan för barn från 5 år. Hör fascinerande berättelser om bortglömda drakar, modiga drottningar och dolda källarvrår.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-17",
-      "slutdatum": "2027-04-17",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/17-glomda-drakar-och-skatter/",
-      "kalla": "kultur.stockholm"
-    },
-    {
       "id": "bib-sulpgd233ouj9w4vvhmk52w8",
       "titel": "Extraöppet för familjer med NPF",
       "beskrivning": "Brommaplans bibliotek  har extraöppet för familjer med NPF (neuropsykiatriska funktionsnedsättningar) under utvalda lördagar på hösten och våren",
@@ -16008,37 +14675,6 @@
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-187",
       "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "kul-24-pappa-gosta-en-familjevandring-i-gustav-vasas-spar",
-      "titel": "Pappa Gösta – en familjevandring i Gustav Vasas spår",
-      "beskrivning": "Följ med i spåren efter Sveriges främste 1500-talskung och hans barn. Passar barn från 5 år.",
-      "arrangor": "Medeltidsmuseet",
-      "plats": "Gamla stan",
-      "stadsdel": null,
-      "lat": 59.32495,
-      "lon": 18.07064,
-      "datum": "2027-04-24",
-      "slutdatum": "2027-04-24",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 5,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 50,
-        "text": "50–100 kr",
-        "status": "kostar"
-      },
-      "kategori": "Barn och familj",
-      "underkategori": null,
-      "bild": null,
-      "lank": "https://medeltidsmuseet.stockholm/aktuellt/kalendarium/2027/04/24-pappa-gosta-en-familjevandring-i-gustav-vasas-spar/",
-      "kalla": "kultur.stockholm"
     },
     {
       "id": "bib-ljymf2u9ju5nuphid2fag24b",
