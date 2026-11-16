@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-11-15T11:42:57.773Z",
-  "antal": 413,
+  "uppdaterad": "2026-11-16T12:22:24.788Z",
+  "antal": 411,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 415,
+      "antal": 413,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,316 +13,6 @@
   },
   "utan_koordinat": 3,
   "evenemang": [
-    {
-      "id": "bib-umrdma1t9qg65cqlwhfn1ain",
-      "titel": "Familjehelg",
-      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "11:00",
-      "sluttid": "16:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-204",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-v37oqziyf84cxi54ypt234y8",
-      "titel": "Sagolika söndagar",
-      "beskrivning": "Barn med sina vuxna är hjärtligt välkomna till en extra barnvänlig dag på biblioteket. Varje söndag erbjuder vi en självgående aktivitet vid bibliotekets pysselbord, det finns fingerdockor att leka med i vår miniteater och massor av härliga böcker att läsa och låna.\n\nVissa söndagar har vi även sagostund i sagorummet.\nDrop-in under bibliotekets ordinarie bemannade öppettider. Ingen föranmälan behövs.",
-      "arrangor": "Luma bibliotek",
-      "plats": "Luma bibliotek",
-      "stadsdel": null,
-      "lat": 59.30591,
-      "lon": 18.0969,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "11:00",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_sagolik_soendag_0bae9e16af.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagolika-sondagar-40",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-ycdjv4o7gj5ma2y8bzmi8yu7",
-      "titel": "Familjesöndag",
-      "beskrivning": "Vi dukar fram pyssel för hela familjen att göra tillsammans.\nVarmt välkomna!",
-      "arrangor": "Hagsätra bibliotek",
-      "plats": "Hagsätra bibliotek",
-      "stadsdel": null,
-      "lat": 59.26191,
-      "lon": 18.01454,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "12:00",
-      "sluttid": "14:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_familjesoendag_e47ea42c63.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/familjesondag-121",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-oynil0z50m5p3kzwty7woc05",
-      "titel": "Välkommen på en dansworkshop för barn 3-12 år!",
-      "beskrivning": "Välkommen på en dansworkshop för barn.\n\nDaniela tar med er på en lejonjakt och lär ut danssteg till finsk musik!\n\nInga kunskaper i finska krävs; de talade inslagen är på svenska.\n\nBoka både barn och medföljande vuxen!",
-      "arrangor": "Blackebergs bibliotek",
-      "plats": "Blackebergs bibliotek",
-      "stadsdel": null,
-      "lat": 59.34777,
-      "lon": 17.88438,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "13:00",
-      "sluttid": "14:00",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 3,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Dans",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_SIPP_SAPP_375baf70af.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/dansa-till-finsk-musik-for-barn-3-12-ar-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-keqpga9k749w0tdyz21hxaw9",
-      "titel": "Barnrättsvecka på Familjesöndag",
-      "beskrivning": "En Familjesöndag som uppmärksammar starten av Barnrättsveckan, en vecka där vi uppmärksammar FN:s barnkonvention och barns rättigheter. Välkommen att pärla vänskapsarmband där varje färg representerar en rättighet ur FN:s barnkonvention. Ingen föranmälan krävs, välkommen!",
-      "arrangor": "Östberga bibliotek",
-      "plats": "Östberga bibliotek",
-      "stadsdel": null,
-      "lat": 59.28896,
-      "lon": 18.03338,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Skaparverkstad",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webb_program_Barnraettsveckan_2026_a52894e532.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/barnrattsvecka-pa-familjesondag-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-un7dmbt5tfdoziqj2pbu5lik",
-      "titel": "Extraöppet för familjer med NPF",
-      "beskrivning": "Välkommen till oss på extraöppet för familjer med NPF, neuropsykiatriska funktionsnedsättningar såsom autismspektrumtillstånd, ADHD, ADD och liknande diagnoser. Vi kommer hålla öppet flera söndagar under hösten och våren klockan 13 till 15. Bekanta er med biblioteket i lugn och ro, på era egna villkor. Det finns bibliotekarier på plats som kan hjälpa till med frågor om biblioteket, böcker och hur ni lånar. Det är bara att komma och gratis.",
-      "arrangor": "Årsta bibliotek",
-      "plats": "Årsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.29735,
-      "lon": 18.05157,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "13:00",
-      "sluttid": "15:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Funktionsnedsättning",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Extraoeppet_Strapi_0d8e4d361e.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-143",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-y5al21g8xneplb8e3w3l2l7x",
-      "titel": "Sagostund med Isol ¡Una tarde de cuentos con Isol!",
-      "beskrivning": "Ven a disfrutar de una tarde de cuentos junto a Isol, la reconocida ilustradora y escritora argentina de libros infantiles. Durante el encuentro leeremos algunos de sus libros en español y sueco. Después dejaremos volar nuestra imaginación con una actividad creativa. Y además, tendremos algo rico para comer y beber. En 2013, Isol fue galardonada con el Premio Astrid Lindgren Memorial Award (ALMA), el premio de literatura infantil y juvenil más importante del mundo. ¡No te lo pierdas!",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "14:00",
-      "sluttid": "15:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "kategori tyder på små barn"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Kalenderbild_Isol_Kung_IB_29c8727ecf.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-med-isol-una-tarde-de-cuentos-con-isol-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-ax11w0227ncfa1jtkzf3c8ng",
-      "titel": "Minibio",
-      "beskrivning": "Vi visar små filmer om stora känslor som bygger på \"Vem?\"-böckerna av Stina Wirsén. Vi bjuder på popcorn.",
-      "arrangor": "Vällingby bibliotek",
-      "plats": "Vällingby bibliotek",
-      "stadsdel": null,
-      "lat": 59.36245,
-      "lon": 17.8705,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "14:00",
-      "sluttid": "14:30",
-      "aterkommande": false,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 3,
-        "till": 5,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Film",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Minibiovembestaemmerhemsidan_4d15cfd988.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/minibio-100",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-ae61kozpcybck5iywgyyux7o",
-      "titel": "Sagostund",
-      "beskrivning": "På söndagar läser en bibliotekarie bilderböcker som passar barn i förskoleåldern. Välkomna hela familjen!",
-      "arrangor": "Örby bibliotek",
-      "plats": "Örby bibliotek",
-      "stadsdel": null,
-      "lat": 59.27519,
-      "lon": 18.02762,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "14:00",
-      "sluttid": "14:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 1,
-        "till": 5,
-        "kalla": "förskoleålder i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Sagostund_Oerby_514b51caab.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-430",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-v083lhx4k2z4238zx8klgsdh",
-      "titel": "Storytime in Arabic and English",
-      "beskrivning": "Alaa and Victoria Tartir  will read the book The Sunbird's Nest in Arabic and English. They will also show a Sandooq Ajab (Wonder Box) and talk about the House of Wonderboxes that just opened in Ramallah, Palestine. You will also get the chance to play a card game called Shoof, and draw and colour you own Sunbird.",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-11-15",
-      "slutdatum": "2026-11-15",
-      "starttid": "14:30",
-      "sluttid": "16:00",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 4,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_sunbird_56ee7772e3.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-pa-arabiska-och-svenska-med-skapande-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-apz529jf9ub1qjpnr24s7r8e",
       "titel": "Utställning om barns rättigheter",
@@ -383,68 +73,6 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Nyhetsbrev_webb_1920_x_1005_px_1200_x_630_px_57_1872e4b82b.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/utstallning-om-barns-rattigheter-3",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-m10hs5a6jzyx8dy2llgz04m2",
-      "titel": "Bäbisbabbel!",
-      "beskrivning": "Har du en liten bebis där hemma? Välkommen på Bäbisbabbel på bibblan! Vi ramsar och sjunger välkända visor och läser pekböcker för de minsta. Efteråt finns det möjlighet att i avslappnad miljö umgås med andra föräldrar och/eller få boktips från bibliotekarien Anna. Programmet äger rum i bibliotekets ateljé. För vuxna med barn mellan ca 0-1,5 år.",
-      "arrangor": "Gubbängens bibliotek",
-      "plats": "Gubbängens bibliotek",
-      "stadsdel": null,
-      "lat": 59.26232,
-      "lon": 18.08416,
-      "datum": "2026-11-16",
-      "slutdatum": "2026-11-16",
-      "starttid": "10:00",
-      "sluttid": "10:30",
-      "aterkommande": true,
-      "kraverBokning": true,
-      "alder": {
-        "fran": 0,
-        "till": 1,
-        "kalla": "ord för spädbarn i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Rim och ramsor",
-      "underkategori": "Sångstund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_hemsidan_babybabbel_392482455b.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/babisbabbel-66",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-qm7oss55pmbwr4x1scztpkbg",
-      "titel": "Baby Rhyme Time",
-      "beskrivning": "Songs, rythm and movement for 0-3 year olds and their parents and carers.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-16",
-      "slutdatum": "2026-11-16",
-      "starttid": "11:00",
-      "sluttid": "11:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 3,
-        "kalla": "spann utan enhet"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Rim och ramsor",
-      "underkategori": "Sagostund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_babysang_toddler1200x630beskuren_b14ac640c2.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/baby-rhyme-time-50",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -6276,6 +5904,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-tdyxwqy760bj8o8xiza94ui1",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-01",
+      "slutdatum": "2026-12-01",
+      "starttid": "17:30",
+      "sluttid": "17:50",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-5",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-nd3pvm3jr7njc1w3j0gc64r5",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-01",
+      "slutdatum": "2026-12-01",
+      "starttid": "18:10",
+      "sluttid": "18:30",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-6",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-k0ikxlv3id1s7qwy69s9gsy6",
       "titel": "Babysång",
       "beskrivning": "Varmt välkomna på babysång på Hornstulls bibliotek varje onsdag klockan 9.30-10 då vi sjunger och ramsar tillsammans! Sångstunden är för bebisar 4-10 månader och deras vuxna. Observera att du måste föranmäla dig- antalet platser är begränsat. Denna tid är biblioteket stängt för allmänheten, så ring på dörren. Kom gärna i god tid - vi öppnar från klockan 9.15 för er som ska på evenemanget. OBS! En bokning gäller för både förälder och barn!",
@@ -9469,6 +9159,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-h758e49mn0sy2kcjihj5yg03",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "14:00",
+      "sluttid": "14:20",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-7",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-j7o028gk2czi86vo5qw9xlkm",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "14:30",
+      "sluttid": "14:50",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-8",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-gh57o7kxqfzctaf71apopzwr",
       "titel": "Bokhäng på fredag",
       "beskrivning": "Kom och läs en stund!\nKom och ge boktips eller få boktips! \n\nVi bokhänger, läser och fikar tillsammans.\n\nIngen anmälan behövs, drop in.",
@@ -9562,6 +9314,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-a40dy1mirl6kf81ty8xm2j4c",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "15:20",
+      "sluttid": "15:40",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-9",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-qexxw7g2yqdmee8siuj5rst0",
       "titel": "Familjehäng på Skärholmens bibliotek",
       "beskrivning": "Välkommen på familjehäng på Skärholmens bibliotek!På utvalda fredagar bjuder vi på olika aktiviteter med högläsning, skapande, spel och häng.\nPassar barn i alla åldrar tillsammans med sina vuxna.\nDrop in!",
@@ -9590,6 +9373,37 @@
       "underkategori": "Skaparverkstad",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_08_27_T155446_643_f66a12532f.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/familjehang-pa-skarholmens-bibliotek-6",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-ct9umhw5f62bwy21g04j6cib",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-11",
+      "slutdatum": "2026-12-11",
+      "starttid": "15:50",
+      "sluttid": "16:10",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-10",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -10864,6 +10678,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-vyx19rr18at0xlizpjp3vyk0",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-16",
+      "slutdatum": "2026-12-16",
+      "starttid": "14:00",
+      "sluttid": "14:20",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-11",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-pcbejs8o18gx5tab0oashubz",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-16",
+      "slutdatum": "2026-12-16",
+      "starttid": "14:40",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-12",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-ub2hrrbgy5y6ntb35yzegqin",
       "titel": "Persisk-svensk bokklubb för barn",
       "beskrivning": "Välkomna till en bokklubb där vi läser högt, leker med ord, pratar om berättelser och fikar tillsammans – på både persiska och svenska! Här får barnen upptäcka böcker, språk och berättelser på ett lekfullt sätt. En mysig stund för nyfikenhet, läsglädje och hitta kompisar. För barn från 6 år.",
@@ -11422,6 +11298,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-v98x0hbt4xae7j7s41pnedne",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-18",
+      "slutdatum": "2026-12-18",
+      "starttid": "15:00",
+      "sluttid": "15:20",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-13",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-osau9j1iuximvue3mceg085b",
       "titel": "Fredagsmys",
       "beskrivning": "Fredagsmys på biblioteket för dig som går på lågstadiet. Kom och lyssna på en bok, fika och pyssla lite!",
@@ -11481,6 +11388,37 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_pyssel_d0d2294e63.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/helgpyssel-61",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-egulp3yenqdx9wnkqmrnarq5",
+      "titel": "Läs för Bruno!",
+      "beskrivning": "Vill du ha en fyrbent kompis som sällskap när du läser? Nu har du chansen! Läshunden Bruno besöker Kungsholmens bibliotek Internationella biblioteket tillsammans med sin ägare. Ett barn får läsa högt eller berätta om en bok i cirka 10 minuter, sedan finns det möjlighet att klappa eller umgås med Bruno i cirka 5 minuter. Lässtunden sker i bibliotekets ateljé. Bokningen till lässtunden ska göras av en vuxen som har möjlighet att närvara under lässtunden. För barn 6-12 år.",
+      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
+      "plats": "Kungsholmens bibliotek Internationella biblioteket",
+      "stadsdel": null,
+      "lat": 59.33288,
+      "lon": 18.03129,
+      "datum": "2026-12-18",
+      "slutdatum": "2026-12-18",
+      "starttid": "15:40",
+      "sluttid": "16:00",
+      "aterkommande": false,
+      "kraverBokning": true,
+      "alder": {
+        "fran": 6,
+        "till": 12,
+        "kalla": "spann i text"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Övrigt",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Omslagsbild_foer_laeshund_Bruno_8ca1bb80e6.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/las-for-bruno-14",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
