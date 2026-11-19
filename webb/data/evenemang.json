@@ -1,9 +1,9 @@
 {
-  "uppdaterad": "2026-11-18T12:34:11.075Z",
-  "antal": 399,
+  "uppdaterad": "2026-11-19T12:24:24.917Z",
+  "antal": 398,
   "kallor": {
     "Stockholms stadsbibliotek": {
-      "antal": 402,
+      "antal": 401,
       "fel": null
     },
     "kultur.stockholm": {
@@ -13,316 +13,6 @@
   },
   "utan_koordinat": 3,
   "evenemang": [
-    {
-      "id": "bib-fjymykr5u7fk4c4uhgljh7ct",
-      "titel": "Tre generationer möts på Farsta bibliotek",
-      "beskrivning": "Träffarna riktar sig till barnfamiljer med barn 0-2 år och till seniorer.\nVi umgås, fikar, samtalar och sjunger tillsammans. Vem vet, kanske \nhittar du en extra-mormor, -morfar eller ett -barnbarn på köpet!\nVissa träffar blir det även pyssel eller bokstund.\nDe två första träffarna träffas vi på barnavdelningen, därefter ses vi i rummet \"Romanen\" på Farsta bibliotek. Det bjuds på fika.\nDet är gratis och ingen anmälan krävs. \nTräffarna sker på onsdagar varje vecka, men den 14 oktober är det ingen träff!",
-      "arrangor": "Farsta bibliotek",
-      "plats": "Farsta bibliotek",
-      "stadsdel": null,
-      "lat": 59.24254,
-      "lon": 18.09001,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "13:00",
-      "sluttid": "14:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 0,
-        "till": 2,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Språkcafé",
-      "underkategori": "Sångstund",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Svenska_med_baby_c3fe40ad9a.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/tre-generationer-mots-pa-farsta-bibliotek-57",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-vgp5la732jge0qceqmlxgav2",
-      "titel": "Barnråd– barnens egen röst i Skärholmen",
-      "beskrivning": "Vill du bestämma och är mellan 7-12 år?\nKom till Barnrådet på Skärholmens bibliotek och var med och skapa ditt drömbibliotek!\nDu får:\nPlanera och ibland leda aktiviteter – vad ska hända på biblioteket?\nTycka till om hur biblioteket ska se ut.\nTycka till om vilka böcker som kan köpas in.\nIngen anmälan. Drop in! \nBarns rättigheter handlar om att barn ska få uttrycka sina åsikter och nu visar vi en utställning som tar fast på detta. Det knyter an till Barnkonventionens artikel 12, som slår fast att varje barn har rätt att fritt uttrycka sina åsikter.",
-      "arrangor": "Skärholmens bibliotek",
-      "plats": "Skärholmens bibliotek",
-      "stadsdel": null,
-      "lat": 59.276,
-      "lon": 17.90601,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 7,
-        "till": 12,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": "Skaparverkstad",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webben_evenemang_Skaerholmens_bibliotek_barn_och_ungdom_2026_03_17_T181709_077_925ab4e7d9.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/barnrad-barnens-egen-rost-i-skarholmen-5",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-sujtne213i77tekld5uszyal",
-      "titel": "Vernissage: Barnens synpunkter",
-      "beskrivning": "Under året har barnens synpunkter samlats in genom vår Tyck-till-låda. Nu visar vi upp vad barnen har att säga! Kom förbi, ta del av synpunkterna, lämna egna förslag eller prata direkt med oss bibliotekarier! Din röst är viktig!",
-      "arrangor": "Kista bibliotek",
-      "plats": "Kista bibliotek",
-      "stadsdel": null,
-      "lat": 59.40217,
-      "lon": 17.94552,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "15:30",
-      "sluttid": "16:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Övrigt",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Webb_program_Barnraettsveckan_2026_a52894e532.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/vernissage-barnens-synpunkter-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-ke502s54p26fgu2q5likavud",
-      "titel": "Persisk-svensk bokklubb för barn",
-      "beskrivning": "Välkomna till en bokklubb där vi läser högt, leker med ord, pratar om berättelser och fikar tillsammans – på både persiska och svenska! Här får barnen upptäcka böcker, språk och berättelser på ett lekfullt sätt. En mysig stund för nyfikenhet, läsglädje och hitta kompisar. För barn från 6 år.",
-      "arrangor": "Kungsholmens bibliotek Internationella biblioteket",
-      "plats": "Kungsholmens bibliotek Internationella biblioteket",
-      "stadsdel": null,
-      "lat": 59.33288,
-      "lon": 18.03129,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:00",
-      "sluttid": "17:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 6,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Bokklubb",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Faeltans_bokklubb_9fb123611c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/persisk-svensk-bokklubb-for-barn-10",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-rrhkd5ct3oiaksxrqm60el1h",
-      "titel": "Högläsning",
-      "beskrivning": "Varje onsdag kl. 16 ses vi på barnavdelningen för en stunds högläsning! Ingen föranmälan behövs. Sagostunden passar barn i åldern 3-6 år men yngre och äldre syskon är såklart också välkomna! Vi läser på svenska och även på engelska om så önskas.",
-      "arrangor": "Östermalms bibliotek, Fältöversten",
-      "plats": "Östermalms bibliotek, Fältöversten",
-      "stadsdel": null,
-      "lat": 59.34011,
-      "lon": 18.09168,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:00",
-      "sluttid": "16:15",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 6,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Hoeglaesning_1_dafb6d607c.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/hoglasning-65",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-kkdn7cjujeu0xrayx6natcza",
-      "titel": "Matteläxhjälp",
-      "beskrivning": "Vill du ha hjälp med matten? Kom och få gratis hjälp av volontärer från Mattecentrum! Vi hjälper till med matteläxor upp till gymnasienivå. Mattecentrum är en ideell förening som driver räknestugor runt om i Sverige. Alla är välkomna oavsett ålder eller vilken skola man går i. Går du i grundskolan, på gymnasiet, komvux eller är förälder som vill repetera för att hjälpa dina barn? Alla är välkomna!\nDrop-in!",
-      "arrangor": "Husby bibliotek",
-      "plats": "Husby bibliotek",
-      "stadsdel": null,
-      "lat": 59.40909,
-      "lon": 17.9262,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:00",
-      "sluttid": "18:00",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Bild_till_hemsidan_Mattecentrum_9e30122654.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/mattelaxhjalp-121",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-chs9bk2ny7ktbzvi3qeg93gn",
-      "titel": "Sagoläsning",
-      "beskrivning": "Välkommen till Rinkeby bibliotek och lyssna på saga! Vi läser bilderböcker som passar barn cirka 3-8 år, men givetvis är alla välkomna och vuxna får gärna lyssna tillsammans med sina barn!",
-      "arrangor": "Rinkeby bibliotek",
-      "plats": "Rinkeby bibliotek",
-      "stadsdel": null,
-      "lat": 59.38875,
-      "lon": 17.92707,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": 8,
-        "kalla": "spann i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_strapisagostundbild_55dfce87bd.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagolasning-12",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-bqw5m7h2v1u1g614oz6c38kt",
-      "titel": "Sagostund!",
-      "beskrivning": "Välkomna på sagostund!\nBibliotekarie högläser bilderböcker som passar barn från cirka 3 år.\n\nDrop in!",
-      "arrangor": "Stadsbiblioteket Spelbomskan",
-      "plats": "Stadsbiblioteket Spelbomskan",
-      "stadsdel": null,
-      "lat": 59.34327,
-      "lon": 18.05349,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:00",
-      "sluttid": "16:30",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 3,
-        "till": null,
-        "kalla": "undre gräns i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Sagostund",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Nyhetsbrev_webb_76_ef0940f119.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/sagostund-379",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-s1iu0wzofx24piy51gdkfm2r",
-      "titel": "Läxhjälp för barn, unga och vuxna",
-      "beskrivning": "Behöver du hjälp med läxor eller andra studier? \nVarje onsdag är våra volontärer från Röda Korset här och kan hjälpa dig som går på SFI eller i grundskolan.  \n\nDu behöver inte anmäla dig i förväg, men du behöver vara på plats före klockan 17:00.",
-      "arrangor": "Hässelby gårds bibliotek",
-      "plats": "Hässelby gårds bibliotek",
-      "stadsdel": null,
-      "lat": 59.36763,
-      "lon": 17.84372,
-      "datum": "2026-11-18",
-      "slutdatum": "2026-11-18",
-      "starttid": "16:45",
-      "sluttid": "17:45",
-      "aterkommande": true,
-      "kraverBokning": false,
-      "alder": {
-        "fran": null,
-        "till": null,
-        "kalla": "okänd"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Läxhjälp",
-      "underkategori": null,
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
-      "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-75",
-      "kalla": "Stockholms stadsbibliotek"
-    },
-    {
-      "id": "bib-bd9ysl1dw4ntm5xq8n410yzp",
-      "titel": "Majas alfabetssånger!",
-      "beskrivning": "Majas Alfabetssånger med Britta Persson och Anja Bigrell är en 30 minuter lång sångstund för barn som är mellan 4 och 7 år. Föranmälan till Brommaplans bibliotek på: brommaplans.ssb@stockholm.se",
-      "arrangor": "Brommaplans bibliotek",
-      "plats": "Brommaplans bibliotek",
-      "stadsdel": null,
-      "lat": 59.33879,
-      "lon": 17.94015,
-      "datum": "2026-11-19",
-      "slutdatum": "2026-11-19",
-      "starttid": "10:00",
-      "sluttid": "10:30",
-      "aterkommande": false,
-      "kraverBokning": false,
-      "alder": {
-        "fran": 4,
-        "till": 7,
-        "kalla": "mellan x och y i text"
-      },
-      "pris": {
-        "lagsta": 0,
-        "text": "Gratis",
-        "status": "gratis"
-      },
-      "kategori": "Musik",
-      "underkategori": "Musik",
-      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_2_3cd5729778.png",
-      "lank": "https://biblioteket.stockholm.se/evenemang/majas-alfabetssanger-1",
-      "kalla": "Stockholms stadsbibliotek"
-    },
     {
       "id": "bib-dkliue0fl0f6pe79cj28uuvb",
       "titel": "Svenska med baby",
@@ -8942,6 +8632,37 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-l93tv3joe43wn164i3gu3e6e",
+      "titel": "Barnboksmarknad med lokala författare och illustratörer",
+      "beskrivning": "Kom och träffa våra lokala barnboksskapare! Ställ frågor om böckerna och hur det är att vara författare eller illustratör. Passa på att handla julklappsböcker och få dem signerade! \nBiblioteket ordnar ett bord för paketinslagning. \nVälkomna!\nMedverkande: Sara Berg, Ida Björs, Steff Gaines, Cecilia Heikkilä, \nMaja Knochenhauer, Mimmi Nordin, Klara Nordin Stensö, Isa Schöier, Katarina Strömgård, Jonas Tjäder, Sara Villius",
+      "arrangor": "Bagarmossens bibliotek",
+      "plats": "Bagarmossens bibliotek",
+      "stadsdel": null,
+      "lat": 59.27713,
+      "lon": 18.13286,
+      "datum": "2026-12-12",
+      "slutdatum": "2026-12-12",
+      "starttid": "11:30",
+      "sluttid": "15:00",
+      "aterkommande": false,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "okänd"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Författarträff",
+      "underkategori": "Bokpresentation",
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi/large_Barnboksmarknad_2026_hemsidan_81ccde41b1.jpg",
+      "lank": "https://biblioteket.stockholm.se/evenemang/barnboksmarknad-med-lokala-forfattare-och-illustratorer-1",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-g830e93w8ytv9s3utuc712cy",
       "titel": "Lust att skapa-lördagar för barn och deras vuxna",
       "beskrivning": "Vi öppnar upp ateljén mellan kl. 12-14 med ett enklare pyssel. Lämpligt för barn från 4 år. Barnen behöver ha sällskap av en vuxen. Välkomna in och pyssla!",
@@ -11763,6 +11484,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-mwjcy8p2cuatyxf8v1vaa7nv",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-09",
+      "slutdatum": "2027-01-09",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-215",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-k3ogxc9ao575ukziy6q23cxu",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-10",
+      "slutdatum": "2027-01-10",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-216",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-mx5grum9yq4bcbx9odlrkm7q",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -11856,6 +11639,68 @@
       "kalla": "Stockholms stadsbibliotek"
     },
     {
+      "id": "bib-gw0cohdaix560iqzlf1wlefn",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-16",
+      "slutdatum": "2027-01-16",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-217",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-aumqvhijpymbq48fy00ti1f4",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-17",
+      "slutdatum": "2027-01-17",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-218",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
       "id": "bib-gxxm6hxx80dafx1gqzj5lzw2",
       "titel": "Måndaghäng- aktiviteter för dig mellan 7-9 år",
       "beskrivning": "Är du 7-9 år ?  Vad gillar du att göra?\nVi har aktiviteter på Skärholmens bibliotek varje måndag kl.14-15.30. Var med och bestäm vad vi ska göra. Du kan till exempel Delta i en bokklubb, skapa, träffa och hänga med kompisar, testa VR, spela brädspel och rollspel, delta i teaterlekar och frågesporter. Drop in.  Välkommen!",
@@ -11946,6 +11791,68 @@
       "underkategori": null,
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_laexhjaelp_5_f073e8edfd.jpg",
       "lank": "https://biblioteket.stockholm.se/evenemang/laxhjalp-for-vuxna-84",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-gxzr2lvj48i9ol9f77w7m58v",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-23",
+      "slutdatum": "2027-01-23",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-219",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-mw2dn47qydg6ego17shnrndk",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-24",
+      "slutdatum": "2027-01-24",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-220",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
@@ -12070,6 +11977,68 @@
       "underkategori": "Övrigt",
       "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_NPF_b97213dd8a.png",
       "lank": "https://biblioteket.stockholm.se/evenemang/extraoppet-for-familjer-med-npf-183",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-o76k68wxkdwuebqvs4lo5iu8",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-30",
+      "slutdatum": "2027-01-30",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-221",
+      "kalla": "Stockholms stadsbibliotek"
+    },
+    {
+      "id": "bib-col7yy8ljtadblsf7ff3np6d",
+      "titel": "Familjehelg",
+      "beskrivning": "Varje lördag och söndag klockan 11 och 15 dukar vi fram en aktivitet som barn och vuxna kan göra tillsammans. Det kan bli allt från sagostund, pyssel eller kanske ett spel. Ingen föranmälan behövs.",
+      "arrangor": "Farsta bibliotek",
+      "plats": "Farsta bibliotek",
+      "stadsdel": null,
+      "lat": 59.24254,
+      "lon": 18.09001,
+      "datum": "2027-01-31",
+      "slutdatum": "2027-01-31",
+      "starttid": "11:00",
+      "sluttid": "16:00",
+      "aterkommande": true,
+      "kraverBokning": false,
+      "alder": {
+        "fran": null,
+        "till": null,
+        "kalla": "kategori tyder på små barn"
+      },
+      "pris": {
+        "lagsta": 0,
+        "text": "Gratis",
+        "status": "gratis"
+      },
+      "kategori": "Skaparverkstad",
+      "underkategori": null,
+      "bild": "https://biblioteket.stockholm.se/cdn/strapi//large_Familjehelg_bc2fdd6723.png",
+      "lank": "https://biblioteket.stockholm.se/evenemang/familjehelg-222",
       "kalla": "Stockholms stadsbibliotek"
     },
     {
